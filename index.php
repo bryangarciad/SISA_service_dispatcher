@@ -1,11 +1,4 @@
 <?php
-namespace SISA\main;
-
-// require_once "src/mysql.php";
-
-// use SISA\src\mySql;
-
-// $mysqlInstance = new mySql('root', '', 'test');
 
 $mysqli = new mysqli("localhost", 'root', '', 'test');
 
