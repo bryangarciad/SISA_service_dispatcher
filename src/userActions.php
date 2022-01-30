@@ -17,7 +17,7 @@ class user extends action {
         $results = $this->mysqli->query($query);
         $row = $results->fetch_array(MYSQLI_NUM);
 
-        if (row[0] > 0) {
+        if ($row[0] > 0) {
             return false;
         } 
 
