@@ -81,3 +81,16 @@ registration_ids
     id
     name
     key_name
+
+ROL:
+RG - read global 
+RL -- readlocal
+E -- generate services
+S -- Set setting Variables (Operator service, registration_ids, default services)
+CC -- createClients
+CS -- create services
+CU -- create users
+DU -- Delete users
+DC -- Delete Clients
+
+

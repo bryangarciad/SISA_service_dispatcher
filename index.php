@@ -1,5 +1,7 @@
 <?php
 
+use SISA\actions\user;
+
 // If action is not set return 
 if (!key_exists($_POST, 'action')) {
 
@@ -29,6 +31,8 @@ if ($action) {
             break;
         
         case 'createUser':
+            $user_action_dispatcher = new user($mysqli);
+            $user_action_dispatcher->create($_POST['user_name'], $_POST['password'], $_POST['site_id'], $_POST['rol']);
             break;
         
         case 'deleteUser':
