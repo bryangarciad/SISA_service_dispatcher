@@ -1,4 +1,5 @@
 <?php
+require_once('src/userActions.php');
 
 use SISA\actions\user;
 
