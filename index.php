@@ -3,9 +3,9 @@ namespace SISA\main;
 
 require_once "src/mysql.php";
 
-use SISA\src\mysql;
+use SISA\src\mySql;
 
-$mysqlInstance = new mysql('root', '', 'test');
+$mysqlInstance = new mySql('root', '', 'test');
 
 $action = $_POST['action'];
 
