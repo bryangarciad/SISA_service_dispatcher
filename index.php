@@ -1,13 +1,13 @@
 <?php
 namespace SISA\main;
 
-require_once "src/mysql.php";
+// require_once "src/mysql.php";
 
-use SISA\src\mySql;
+// use SISA\src\mySql;
 
 // $mysqlInstance = new mySql('root', '', 'test');
-echo phpinfo();
-$mysqli = new mysqli("localhost", $user, $password, $db_name);
+
+$mysqli = new mysqli("localhost", 'root', '', 'test');
 
 $action = $_POST['action'];
 
