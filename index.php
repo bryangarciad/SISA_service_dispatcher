@@ -18,6 +18,8 @@ session_start();
 $mysqli = new mysqli("localhost", 'root', '', 'sisa');
 $action = $_POST['action'];
 
+echo var_dump($action);
+
 if ($action) {
     switch ($action) {
         // client actions:
