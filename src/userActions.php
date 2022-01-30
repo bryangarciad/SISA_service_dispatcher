@@ -2,6 +2,8 @@
 
 namespace SISA\actions;
 
+require_once('src/abstract/actionInterface.php');
+
 use SISA\abs\action;
 
 class user extends action {
