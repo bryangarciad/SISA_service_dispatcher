@@ -38,6 +38,11 @@ if ($action) {
             $user_action_dispatcher->create($_POST['user_name'], $_POST['password'], $_POST['site_id'], $_POST['rol']);
             break;
         
+        case 'readUsers':
+            $user_action_dispatcher = new user($mysqli);
+            $user_action_dispatcher->read();
+            break;
+        
         case 'deleteUser':
             break;
         

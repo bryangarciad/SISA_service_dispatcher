@@ -16,15 +16,33 @@ class user extends action {
         $query = sprintf('SELECT  COUNT(*) FROM user WHERE user_name = "%s"', $userName);
         $results = $this->mysqli->query($query);
         $row = $results->fetch_array(MYSQLI_NUM);
-        echo var_dump($row[0]);
 
         if ( $row[0] > 0) {
+            echo "User already exists";
             return false;
         } 
 
         $query = sprintf('INSERT INTO `user`( `user_name`, `password`, `site_id`, `rol`) VALUES ("%s", "%s", %d, "%s")', $userName, $password, $site_id, $rol);
         $results = $this->mysqli->query($query);
+        echo 'user created';
         return $results;
+    }
+
+    public function delete(Type $var = null)
+    {
+        # code...
+    }
+
+    public function read()
+    {
+        $results = $this->mysqli->query('SELECT  * FROM user');
+        $row = $results->fetch_array(MYSQLI_NUM);
+        echo print_r($row);
+    }
+
+    public function update(Type $var = null)
+    {
+        # code...
     }
 
 }
