@@ -6,6 +6,7 @@ require_once "src/mysql.php";
 use SISA\src\mySql;
 
 // $mysqlInstance = new mySql('root', '', 'test');
+echo phpinfo();
 $mysqli = new mysqli("localhost", $user, $password, $db_name);
 
 $action = $_POST['action'];
