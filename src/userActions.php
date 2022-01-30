@@ -37,7 +37,7 @@ class user extends action {
     {
         $results = $this->mysqli->query('SELECT  * FROM user');
         $row = $results->fetch_all(MYSQLI_ASSOC);
-        echo print_r($row);
+        echo print_r(json_encode($row));
     }
 
     public function update(Type $var = null)
