@@ -3,7 +3,7 @@
 use SISA\actions\user;
 
 // If action is not set return 
-if (!key_exists($_POST, 'action')) {
+if (!key_exists('action', $_POST)) {
 
     echo json_encode([
         'message' => 'No valid action'
