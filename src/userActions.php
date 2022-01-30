@@ -36,7 +36,7 @@ class user extends action {
     public function read()
     {
         $results = $this->mysqli->query('SELECT  * FROM user');
-        $row = $results->fetch_array(MYSQLI_NUM);
+        $row = $results->fetch_all(MYSQLI_ASSOC);
         echo print_r($row);
     }
 
