@@ -1,11 +1,27 @@
 <?php
 
-$mysqli = new mysqli("localhost", 'root', '', 'test');
+// If action is not set return 
+if (!key_exists($_POST, 'action')) {
 
+    echo json_encode([
+        'message' => 'No valid action'
+    ]);
+
+    return;
+}
+
+// Session Start 
+session_start();
+
+$mysqli = new mysqli("localhost", 'root', '', 'sisa');
 $action = $_POST['action'];
 
 if ($action) {
     switch ($action) {
+        // client actions:
+        // Create client
+        // Set default client service
+        // Delete client
         case 'createClient':
             break;
 
