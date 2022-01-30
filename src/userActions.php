@@ -16,8 +16,9 @@ class user extends action {
         $query = sprintf('SELECT  COUNT(*) FROM user WHERE user_name = "%s"', $userName);
         $results = $this->mysqli->query($query);
         $row = $results->fetch_array(MYSQLI_NUM);
+        echo var_dump($row[0]);
 
-        if ($row[0] > 0) {
+        if ( $row[0] > 0) {
             return false;
         } 
 
