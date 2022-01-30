@@ -13,6 +13,10 @@ class user extends action {
     }
 
     public function create ($userName, $password, $site_id, $rol) {
+        $query = sprintf('SELECT  COUNT(*) FROM user WHERE user_name = "%s"', $userName);
+        $results = $this->mysqli->query($query);
+        echo var_dump($results);
+        
         $query = sprintf('INSERT INTO `user`( `user_name`, `password`, `site_id`, `rol`) VALUES ("%s", "%s", %d, "%s")', $userName, $password, $site_id, $rol);
         $results = $this->mysqli->query($query);
         echo var_dump($results);
