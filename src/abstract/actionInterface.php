@@ -4,7 +4,7 @@ namespace SISA\abs;
 
 
 class action {
-    private $mysqli = null;
+    public $mysqli = null;
 
     function __construct ($mysqli) {
         $this->mysqli = $mysqli;
