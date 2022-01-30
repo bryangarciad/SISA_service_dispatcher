@@ -1,6 +1,8 @@
 <?php
 namespace SISA\main;
 
+require_once "src/mysql.php";
+
 use SISA\src\mysql;
 
 $mysqlInstance = new mysql('root', '', 'test');
