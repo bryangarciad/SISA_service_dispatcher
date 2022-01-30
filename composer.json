@@ -1,0 +1,10 @@
+{
+    "name": "bryan/be",
+    "authors": [
+        {
+            "name": "Bryan Ramses Garcia",
+            "email": "bryan.garcia.duran@gmail.com"
+        }
+    ],
+    "require": {}
+}
