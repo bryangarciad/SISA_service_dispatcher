@@ -15,6 +15,13 @@ class User extends BaseAction {
         parent::__construct($mysqli, $table_name);
     }
 
+    public function read()
+    {
+        $results = $this->mysqli->query('SELECT  * FROM user');
+        $row = $results->fetch_all(MYSQLI_ASSOC);
+        echo print_r(json_encode($row));
+    }
+
     public function create ($create_data) 
     {
         if ($this->modelExist('user_name', $create_data['user_name'])) {
