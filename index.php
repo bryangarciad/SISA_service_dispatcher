@@ -64,6 +64,7 @@ if (key_exists('data', $_POST) && $_POST['data']) {
 //
 $model_namespace = '\SISA\actions\\' . $model;
 $model_instance = new $model_namespace($mysqli, $table_name);
+
 if (method_exists($model_instance, $method)) {
     // Extract post data
     extract($_POST);
@@ -76,7 +77,7 @@ if (method_exists($model_instance, $method)) {
         call_user_func([$model_instance, $method], $id);
     }
 } else {
-    response::sendError(['msg' => "Invalide action"]);
+    response::sendError(['msg' => "Invalid action"]);
     return;
 }
 
