@@ -19,4 +19,9 @@ class authentication {
     public function logOut() {
         unset($_SESSION["token"]);
     }
+
+    public function userCan($action, $userName) 
+    {
+        
+    }
 }

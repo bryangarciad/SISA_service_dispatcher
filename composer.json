@@ -1,5 +1,10 @@
 {
     "name": "bryan/be",
+    "autoload": {
+        "psr-4": {
+            "SISA\\": "src/"
+        }
+    },
     "authors": [
         {
             "name": "Bryan Ramses Garcia",

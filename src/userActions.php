@@ -2,47 +2,29 @@
 
 namespace SISA\actions;
 
-require_once('src/abstract/actionInterface.php');
+use SISA\abs\BaseAction;
+use SISA\helpers\response;
 
-use SISA\abs\action;
+require_once('src/abstract/BaseAction.php');
+require_once('src/helpers/responseHelper.php');
 
-class user extends action {
 
-    function __construct ($mysqli) {
-        parent::__construct($mysqli);
+class User extends BaseAction {
+
+    function __construct ($mysqli, $table_name) {
+        parent::__construct($mysqli, $table_name);
     }
 
-    public function create ($userName, $password, $site_id, $rol) {
-        $query = sprintf('SELECT  COUNT(*) FROM user WHERE user_name = "%s"', $userName);
-        $results = $this->mysqli->query($query);
-        $row = $results->fetch_array(MYSQLI_NUM);
-
-        if ( $row[0] > 0) {
-            echo "User already exists";
-            return false;
-        } 
-
-        $query = sprintf('INSERT INTO `user`( `user_name`, `password`, `site_id`, `rol`) VALUES ("%s", "%s", %d, "%s")', $userName, $password, $site_id, $rol);
-        $results = $this->mysqli->query($query);
-        echo 'user created';
-        return $results;
-    }
-
-    public function delete(Type $var = null)
+    public function create ($create_data) 
     {
-        # code...
-    }
+        if ($this->modelExist('user_name', $create_data['user_name'])) {
+            response::sendError([
+                'msg' => 'user already exists',
+            ]);
+            return;
+        }
 
-    public function read()
-    {
-        $results = $this->mysqli->query('SELECT  * FROM user');
-        $row = $results->fetch_all(MYSQLI_ASSOC);
-        echo print_r($row);
-    }
-
-    public function update(Type $var = null)
-    {
-        # code...
+        parent::create($create_data);
     }
 
 }
