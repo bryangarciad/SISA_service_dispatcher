@@ -15,7 +15,7 @@ class User extends BaseAction {
         parent::__construct($mysqli, $table_name);
     }
 
-    public function read()
+    public function read($page = null)
     {
         $results = $this->mysqli->query('SELECT  * FROM user');
         $row = $results->fetch_all(MYSQLI_ASSOC);
