@@ -82,6 +82,11 @@ class BaseAction {
         }
         
         $results = $this->mysqli->query($sql_query);
+        if (!$results) {
+            response::sendError(['msg' => 'no data to fetch']);
+            return;
+        }
+
         $rows = $results->fetch_all(MYSQLI_ASSOC);
 
         response::sendOk($rows);
@@ -92,6 +97,12 @@ class BaseAction {
     {
         $sql_query = \sprintf('SELECT  * FROM %s WHERE id = %d', $this->table, $model_id);
         $results = $this->mysqli->query($sql_query);
+
+        if (!$results) {
+            response::sendError(['msg' => 'no data to fetch']);
+            return;
+        }
+        
         $rows = $results->fetch_all(MYSQLI_ASSOC);
 
         response::sendOk($rows);

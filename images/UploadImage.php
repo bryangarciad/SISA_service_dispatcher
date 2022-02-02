@@ -34,6 +34,7 @@ function compressImage($source, $destination, $quality) {
  
 // File upload path 
 $uploadPath = "uploads/"; 
+$statusCode = 500;
  
 // If file upload form is submitted 
 $status = $statusMsg = 'No Files in POST data'; 
@@ -43,7 +44,8 @@ if( count($_FILES) > 0 ) {
         
         // File info
         $fileType = pathinfo($_FILES["image"]["name"], PATHINFO_EXTENSION); 
-        $fileName = $_FILES["image"]["name"];
+        // $fileName = $_FILES["image"]["name"];
+        $fileName = time();
         $imageUploadPath = $uploadPath . $fileName; 
         
          
@@ -59,6 +61,7 @@ if( count($_FILES) > 0 ) {
             if($compressedImage){ 
                 $status = 'success'; 
                 $statusMsg = "Image compressed and uploaded successfully."; 
+                $statusCode = 200;
             }else{ 
                 $statusMsg = "Image compress failed!"; 
             } 
@@ -75,6 +78,7 @@ $url = "http://localhost/SISA_service_dispatcher/images/" . $imageUploadPath;
 
 echo json_encode( array(
     "status" => $statusMsg,
+    "statusCode" => $statusCode,
     "url" => $url
     )
 );

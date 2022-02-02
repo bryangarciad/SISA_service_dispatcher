@@ -11,6 +11,8 @@ require_once('src/SiteActions.php');
 require_once('src/ServiceActions.php');
 require_once('src/AuthenticationService.php');
 require_once('src/ServiceReceiverActions.php');
+require_once('src/DefaultServiceActions.php');
+require_once('src/TransportActions.php');
 // HELPERS
 require_once('src/helpers/responseHelper.php');
 require_once('src/helpers/jsonHelper.php');
@@ -26,6 +28,9 @@ use SISA\actions\Site;
 use SISA\actions\Service;
 use SISA\actions\Authentication;
 use SISA\actions\ServiceReceiver;
+use SISA\actions\DefaultService;
+use SISA\actions\Transport;
+
 
 // Helpers
 use SISA\helpers\response;
@@ -83,6 +88,8 @@ if (method_exists($model_instance, $method)) {
         call_user_func([$model_instance, $method], $json_data);
     } else if (isset($id)) {
         call_user_func([$model_instance, $method], $id);
+    } else {
+        call_user_func([$model_instance, $method]);
     }
 } else {
     response::sendError(['msg' => "Invalid action"]);

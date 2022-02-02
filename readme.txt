@@ -99,5 +99,11 @@ TODO:::
 Update Authentication service
 Create services emition using API
 
+TODO:::
+create action for service handlers
+and default service actions TODO
+create model builder for pritn form
 
+
+BULK ACTIONS AFTER DEMO WITH SISA <<<<<<<<---------
 

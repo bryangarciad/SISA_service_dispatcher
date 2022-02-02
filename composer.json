@@ -11,5 +11,9 @@
             "email": "bryan.garcia.duran@gmail.com"
         }
     ],
-    "require": {}
+    "require": {
+        "cloudmersive/cloudmersive_document_convert_api_client": "^2.1",
+        "phpoffice/phpspreadsheet": "^1.19",
+        "phpmailer/phpmailer": "^6.5"
+    }
 }

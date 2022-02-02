@@ -15,7 +15,9 @@ class TableNameMapper {
             'site' => 'site',
             'service' => 'service',
             'authentication' => '',
-            'serviceReceiver' => 'service_receiver'
+            'serviceReceiver' => 'service_receiver',
+            'defaultService' => 'default_service',
+            'transport' => 'service_type_handle'
         ];
 
         return $tableName[$model];
