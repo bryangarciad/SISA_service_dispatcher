@@ -8,6 +8,9 @@ require_once('src/ServiceTypeActions.php');
 require_once('src/OperatorActions.php');
 require_once('src/RegistrationActions.php');
 require_once('src/SiteActions.php');
+require_once('src/ServiceActions.php');
+require_once('src/AuthenticationService.php');
+require_once('src/ServiceReceiverActions.php');
 // HELPERS
 require_once('src/helpers/responseHelper.php');
 require_once('src/helpers/jsonHelper.php');
@@ -20,10 +23,20 @@ use SISA\actions\ServiceType;
 use SISA\actions\Operator;
 use SISA\actions\Registration;
 use SISA\actions\Site;
+use SISA\actions\Service;
+use SISA\actions\Authentication;
+use SISA\actions\ServiceReceiver;
+
+// Helpers
 use SISA\helpers\response;
 use SISA\helpers\JsonHelper;
 use SISA\helpers\TableNameMapper;
 
+// Session Start 
+//
+//
+session_start();
+// echo var_dump($_SESSION['token']);
 
 // If action is not set or empty finish sequence
 //
@@ -36,11 +49,6 @@ if (!key_exists('action', $_POST)  || ! $_POST['action']) {
     $table_name = TableNameMapper::getTableName($action_model[1]);
     $method = $action_model[0];
 }
-
-// Session Start 
-//
-//
-session_start();
 
 
 //My SQL init

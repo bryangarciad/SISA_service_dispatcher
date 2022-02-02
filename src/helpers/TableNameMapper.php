@@ -12,7 +12,10 @@ class TableNameMapper {
             'operator' => 'operator',
             'registration' => 'registration_ids',
             'serviceType' => 'service_type',
-            'site' => 'site'
+            'site' => 'site',
+            'service' => 'service',
+            'authentication' => '',
+            'serviceReceiver' => 'service_receiver'
         ];
 
         return $tableName[$model];

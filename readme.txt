@@ -94,3 +94,10 @@ DU -- Delete users
 DC -- Delete Clients
 
 
+TODO:::
+
+Update Authentication service
+Create services emition using API
+
+
+

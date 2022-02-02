@@ -2,7 +2,11 @@
 
 namespace SISA\actions;
 
-class authentication {
+use SISA\helpers\response;
+
+require_once('src/helpers/responseHelper.php');
+
+class Authentication {
     
     private $mysqli = null;
 
@@ -10,10 +14,21 @@ class authentication {
         $this->mysqli = $mysqli;
     }
 
-    public function login ($userName, $password) {
+    public function login ($data) {
+        $userName = $data['user_name'];
+        $password = $data['password'];
         $query = sprintf('SELECT  COUNT(*) FROM user WHERE user_name = "%s" AND password = "%s"', $userName, $password);
         $results = $this->mysqli->query($query);
-        echo var_dump($results);
+        $row = $results->fetch_row();
+
+        if(intval($row[0]) > 0) {
+            $_SESSION['token'] = sha1($userName . $password);
+            response::sendOk(['msg' => 'ok']);
+        } else {
+            response::sendError(['msg' => "Incorrect Credentials"]);
+        }
+
+
     }
 
     public function logOut() {
