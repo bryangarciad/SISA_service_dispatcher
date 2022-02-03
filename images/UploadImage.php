@@ -46,7 +46,7 @@ if( count($_FILES) > 0 ) {
         $fileType = pathinfo($_FILES["image"]["name"], PATHINFO_EXTENSION); 
         // $fileName = $_FILES["image"]["name"];
         $fileName = time();
-        $imageUploadPath = $uploadPath . $fileName; 
+        $imageUploadPath = $uploadPath . $fileName . '.' .$fileType; 
         
          
         // Allow certain file formats 
@@ -74,7 +74,7 @@ if( count($_FILES) > 0 ) {
 } 
  
 // Display status message 
-$url = "http://localhost/SISA_service_dispatcher/images/" . $imageUploadPath;
+$url =  "images/" . $imageUploadPath;
 
 echo json_encode( array(
     "status" => $statusMsg,

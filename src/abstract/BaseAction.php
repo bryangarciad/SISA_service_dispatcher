@@ -56,6 +56,7 @@ class BaseAction {
                 'msg' => 'created succesfully',
                 'sql_response' => $results
             ]);
+            return $this->mysqli->insert_id;
         } else {
             response::sendError([
                 'msg' => 'Something went wrong',

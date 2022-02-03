@@ -26,6 +26,23 @@ class TemplateWritter {
         $this->spreadsheet->getActiveSheet()->setCellValue($cell, $value);
     }
 
+    public function writteCellImage(string $cell, $path) 
+    {
+        $drawing = new \PhpOffice\PhpSpreadsheet\Worksheet\Drawing();
+        $drawing->setName('sign');
+        $drawing->setDescription('sign');
+        $drawing->setPath($path); // put your path and image here
+        $drawing->setCoordinates($cell);
+        $drawing->setOffsetX(10);
+        $drawing->setOffsetY(0);
+        $drawing->setWidth(100);
+        // $drawing->setRotation(25);
+        $drawing->getShadow()->setVisible(true);
+        // $drawing->getShadow()->setDirection(45);
+        $drawing->setWorksheet($this->spreadsheet->getActiveSheet());
+
+    }
+
     public function save() 
     {
         $writer = new Xlsx($this->spreadsheet);
