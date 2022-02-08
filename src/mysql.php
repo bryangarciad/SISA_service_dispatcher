@@ -7,7 +7,7 @@ class mySql{
     
     function __construct($user, $password, $db_name) 
     {
-
+        
         $mysqli = new mysqli("localhost", $user, $password, $db_name);
         
         if ($mysqli->connect_errno) {

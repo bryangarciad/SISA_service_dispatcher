@@ -63,37 +63,37 @@ if (!key_exists('action', $_POST)  || ! $_POST['action']) {
 $mysqli = new mysqli("localhost", 'circuitc_root', 'Elisa1121*', 'circuit_sisa');
 
 
-// if set parse data
-//
-if (key_exists('data', $_POST) && $_POST['data']) { 
-    $json_data = JsonHelper::jsonParse($_POST['data']);
-    if (!$json_data) {
-        response::sendError(['msg' => "Invalide JSON String; can't parse data"]);
-        return;
-    }
-}
+// // if set parse data
+// //
+// if (key_exists('data', $_POST) && $_POST['data']) { 
+//     $json_data = JsonHelper::jsonParse($_POST['data']);
+//     if (!$json_data) {
+//         response::sendError(['msg' => "Invalide JSON String; can't parse data"]);
+//         return;
+//     }
+// }
 
-// Dinamic model instanciation and call action
-//
-//
-$model_namespace = '\SISA\actions\\' . $model;
-$model_instance = new $model_namespace($mysqli, $table_name);
+// // Dinamic model instanciation and call action
+// //
+// //
+// $model_namespace = '\SISA\actions\\' . $model;
+// $model_instance = new $model_namespace($mysqli, $table_name);
 
-if (method_exists($model_instance, $method)) {
-    // Extract post data
-    extract($_POST);
-    // Call method with data set
-    if (isset($json_data) && isset($id)) {
-        call_user_func([$model_instance, $method], $id, $json_data);
-    } else if (isset($json_data)) {
-        call_user_func([$model_instance, $method], $json_data);
-    } else if (isset($id)) {
-        call_user_func([$model_instance, $method], $id);
-    } else {
-        call_user_func([$model_instance, $method]);
-    }
-} else {
-    response::sendError(['msg' => "Invalid action"]);
-    return;
-}
+// if (method_exists($model_instance, $method)) {
+//     // Extract post data
+//     extract($_POST);
+//     // Call method with data set
+//     if (isset($json_data) && isset($id)) {
+//         call_user_func([$model_instance, $method], $id, $json_data);
+//     } else if (isset($json_data)) {
+//         call_user_func([$model_instance, $method], $json_data);
+//     } else if (isset($id)) {
+//         call_user_func([$model_instance, $method], $id);
+//     } else {
+//         call_user_func([$model_instance, $method]);
+//     }
+// } else {
+//     response::sendError(['msg' => "Invalid action"]);
+//     return;
+// }
 
