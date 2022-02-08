@@ -2,14 +2,14 @@
 
 include __DIR__ . '/vendor/autoload.php';
 
-require_once(__DIR__ . '/src/UserActions.php');
+require_once(__DIR__ . '/src/userActions.php');
 require_once(__DIR__ . '//src/ClientActions.php');
-require_once(__DIR__ . '/src/ServiceTypeActions.php');
-require_once(__DIR__ . '/src/OperatorActions.php');
+require_once(__DIR__ . '/src/serviceTypeActions.php');
+require_once(__DIR__ . '/src/operatorActions.php');
 require_once(__DIR__ . '/src/RegistrationActions.php');
 require_once(__DIR__ . '/src/SiteActions.php');
 require_once(__DIR__ . '/src/ServiceActions.php');
-require_once(__DIR__ . '/src/AuthenticationService.php');
+require_once(__DIR__ . '/src/authenticationService.php');
 require_once(__DIR__ . '/src/ServiceReceiverActions.php');
 require_once(__DIR__ . '/src/DefaultServiceActions.php');
 require_once(__DIR__ . '/src/TransportActions.php');
