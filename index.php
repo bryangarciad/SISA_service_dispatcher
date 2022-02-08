@@ -56,7 +56,7 @@ if (!key_exists('action', $_POST)  || ! $_POST['action']) {
 }
 
 
-My SQL init
+// My SQL init
 
 
 $mysqli = new mysqli("localhost", 'root', '', 'sisa');
