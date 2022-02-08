@@ -24,7 +24,6 @@ class Authentication {
         echo var_dump($row);
 
         if($row[0] > 0) {
-            $_SESSION['token'] = sha1($userName . $password);
             response::sendOk(['msg' => 'ok']);
         } else {
             response::sendError(['msg' => "Incorrect Credentials"]);
