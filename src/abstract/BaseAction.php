@@ -4,7 +4,7 @@ namespace SISA\abs;
 
 use SISA\helpers\response;
 
-require_once('src/helpers/responseHelper.php');
+require_once('/src/helpers/responseHelper.php');
 
 
 class BaseAction {
