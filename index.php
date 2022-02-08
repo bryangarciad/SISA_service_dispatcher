@@ -2,65 +2,65 @@
 
 include __DIR__ . '/vendor/autoload.php';
 
-require_once('src/UserActions.php');
-require_once('src/ClientActions.php');
-require_once('src/ServiceTypeActions.php');
-require_once('src/OperatorActions.php');
-require_once('src/RegistrationActions.php');
-require_once('src/SiteActions.php');
-require_once('src/ServiceActions.php');
-require_once('src/AuthenticationService.php');
-require_once('src/ServiceReceiverActions.php');
-require_once('src/DefaultServiceActions.php');
-require_once('src/TransportActions.php');
-// HELPERS
-require_once('src/helpers/responseHelper.php');
-require_once('src/helpers/jsonHelper.php');
-require_once('src/helpers/TableNameMapper.php');
+// require_once('src/UserActions.php');
+// require_once('src/ClientActions.php');
+// require_once('src/ServiceTypeActions.php');
+// require_once('src/OperatorActions.php');
+// require_once('src/RegistrationActions.php');
+// require_once('src/SiteActions.php');
+// require_once('src/ServiceActions.php');
+// require_once('src/AuthenticationService.php');
+// require_once('src/ServiceReceiverActions.php');
+// require_once('src/DefaultServiceActions.php');
+// require_once('src/TransportActions.php');
+// // HELPERS
+// require_once('src/helpers/responseHelper.php');
+// require_once('src/helpers/jsonHelper.php');
+// require_once('src/helpers/TableNameMapper.php');
 
 
-use SISA\actions\User;
-use SISA\actions\Client;
-use SISA\actions\ServiceType;
-use SISA\actions\Operator;
-use SISA\actions\Registration;
-use SISA\actions\Site;
-use SISA\actions\Service;
-use SISA\actions\Authentication;
-use SISA\actions\ServiceReceiver;
-use SISA\actions\DefaultService;
-use SISA\actions\Transport;
+// use SISA\actions\User;
+// use SISA\actions\Client;
+// use SISA\actions\ServiceType;
+// use SISA\actions\Operator;
+// use SISA\actions\Registration;
+// use SISA\actions\Site;
+// use SISA\actions\Service;
+// use SISA\actions\Authentication;
+// use SISA\actions\ServiceReceiver;
+// use SISA\actions\DefaultService;
+// use SISA\actions\Transport;
 
 
-// Helpers
-use SISA\helpers\response;
-use SISA\helpers\JsonHelper;
-use SISA\helpers\TableNameMapper;
+// // Helpers
+// use SISA\helpers\response;
+// use SISA\helpers\JsonHelper;
+// use SISA\helpers\TableNameMapper;
 
-// Session Start 
-//
-//
-session_start();
-// echo var_dump($_SESSION['token']);
+// // Session Start 
+// //
+// //
+// session_start();
+// // echo var_dump($_SESSION['token']);
 
-// If action is not set or empty finish sequence
-//
-if (!key_exists('action', $_POST)  || ! $_POST['action']) {
-    response::sendError(['msg' => "No action set"]);
-    return;
-} else {
-    $action_model = explode('_', $_POST['action']);
-    $model = strtoupper($action_model[1]);
-    $table_name = TableNameMapper::getTableName($action_model[1]);
-    $method = $action_model[0];
-}
+// // If action is not set or empty finish sequence
+// //
+// if (!key_exists('action', $_POST)  || ! $_POST['action']) {
+//     response::sendError(['msg' => "No action set"]);
+//     return;
+// } else {
+//     $action_model = explode('_', $_POST['action']);
+//     $model = strtoupper($action_model[1]);
+//     $table_name = TableNameMapper::getTableName($action_model[1]);
+//     $method = $action_model[0];
+// }
 
 
 //My SQL init
 //
 //
 // $mysqli = new mysqli("localhost", 'root', '', 'sisa');
-$mysqli = new mysqli("localhost", 'circuitc_root', 'Elisa1121*', 'circuit_sisa');
+// $mysqli = new mysqli("localhost", 'circuitc_root', 'Elisa1121*', 'circuit_sisa');
 
 
 // // if set parse data
