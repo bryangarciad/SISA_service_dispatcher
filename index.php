@@ -2,7 +2,7 @@
 
 include __DIR__ . '/vendor/autoload.php';
 
-require_once('/src/UserActions.php');
+// require_once(__DIR__ . '/src/UserActions.php');
 // require_once('/src/ClientActions.php');
 // require_once('src/ServiceTypeActions.php');
 // require_once('src/OperatorActions.php');
