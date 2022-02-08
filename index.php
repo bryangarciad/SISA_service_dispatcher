@@ -1,6 +1,8 @@
 <?php
 
-include __DIR__ . '/vendor/autoload.php';
+echo var_dump(__DIR__ . '/vendor/autoload.php');
+
+// include __DIR__ . '/vendor/autoload.php';
 
 // require_once('src/UserActions.php');
 // require_once('src/ClientActions.php');
