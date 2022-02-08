@@ -19,7 +19,7 @@ class Authentication {
         $password = $data['password'];
         $query = sprintf('SELECT  * FROM user WHERE user_name = "%s" AND password = "%s"', $userName, $password);
         $results = $this->mysqli->query($query);
-        $row = $results->fetch_row();
+        $row = $results->fetch_row(MYSQLI_ASSOC);
 
         if($row[0] > 0) {
             response::sendOk(['msg' => 'ok', 'payload' => $row]);
