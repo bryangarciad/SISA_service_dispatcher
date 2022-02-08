@@ -1,5 +1,4 @@
 composer.phar
-/vendor/
 /images/uploads/*
 /services_pdf/*
 
