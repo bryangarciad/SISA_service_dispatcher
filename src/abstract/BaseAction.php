@@ -25,7 +25,9 @@ class BaseAction {
             sprintf('SELECT  COUNT(*) FROM %s WHERE %s = %d', $this->table, $field, $value);
 
         $results = $this->mysqli->query($query);
-        $row = $results->fetch_array(MYSQLI_NUM);
+        $row = $results->fetch_row(MYSQLI_NUM);
+
+        echo var_dump($row);
 
         if ( $row[0] > 0) {
             return true;
