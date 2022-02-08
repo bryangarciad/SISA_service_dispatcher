@@ -60,7 +60,7 @@ if (!key_exists('action', $_POST)  || ! $_POST['action']) {
 
 
 // $mysqli = new mysqli("localhost", 'root', '', 'sisa');
-$mysqli = new mysqli("localhost", 'circuit_admin', 'elisa1', 'circuit_sisa');
+$mysqli = new mysqli("localhost", 'circuitc_admin', 'elisa1', 'circuitc_sisa');
 
 
 // if set parse data
