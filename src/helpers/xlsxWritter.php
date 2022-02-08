@@ -3,7 +3,7 @@
 namespace SISA\helpers;
 
 //include the file that loads the PhpSpreadsheet classes
-require __DIR__ . '/vendor/autoload.php';
+require __DIR__ . '/../../vendor/autoload.php';
 
 use PhpOffice\PhpSpreadsheet\Spreadsheet;
 use PhpOffice\PhpSpreadsheet\Writer\Xlsx;

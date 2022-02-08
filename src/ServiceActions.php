@@ -10,10 +10,10 @@ use SISA\helpers\TemplateCellPosition;
 
 # Imports
 require_once(__DIR__ .  '/..' .'/vendor/autoload.php');
-require_once(__DIR__ . '/src/abstract/BaseAction.php');
-require_once(__DIR__ . '/src/helpers/responseHelper.php');
-require_once(__DIR__ . '/src/helpers/xlsxWritter.php');
-require_once(__DIR__ . '/src/helpers/TemplateCellPositions.php');
+require_once(__DIR__ . '/abstract/BaseAction.php');
+require_once(__DIR__ . '/helpers/responseHelper.php');
+require_once(__DIR__ . '/helpers/xlsxWritter.php');
+require_once(__DIR__ . '/helpers/TemplateCellPositions.php');
 
 
 class Service extends BaseAction

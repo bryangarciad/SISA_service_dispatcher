@@ -2,7 +2,7 @@
 
 namespace SISA\helpers;
 
-require_once(__DIR__ . '/src/helpers/responseHelper.php');
+require_once(__DIR__ . '/responseHelper.php');
 
 use SISA\helpers\response;
 
