@@ -19,7 +19,7 @@ class Authentication {
         $password = $data['password'];
         $query = sprintf('SELECT  * FROM user WHERE user_name = "%s" AND password = "%s"', $userName, $password);
         $results = $this->mysqli->query($query);
-        $row = $results->fetch_row(MYSQLI_ASSOC);
+        $row = $results->fetch_all(MYSQLI_ASSOC);
         echo var_dump($row);
 
         if($row[0] > 0) {
