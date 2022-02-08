@@ -1,5 +1,5 @@
 <?php
-require 'vendor/autoload.php';
+require __DIR__ . '/vendor/autoload.php';
 
 if (!key_exists('pathToFile', $_POST)  || ! $_POST['pathToFile']) {
     response::sendError(['msg' => "No action set"]);

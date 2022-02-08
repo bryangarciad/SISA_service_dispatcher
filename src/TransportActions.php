@@ -5,8 +5,8 @@ namespace SISA\actions;
 use SISA\abs\BaseAction;
 use SISA\helpers\response;
 
-require_once('src/abstract/BaseAction.php');
-require_once('src/helpers/responseHelper.php');
+require_once(__DIR__ . '/src/abstract/BaseAction.php');
+require_once(__DIR__ . '/src/helpers/responseHelper.php');
 
 
 class Transport extends BaseAction

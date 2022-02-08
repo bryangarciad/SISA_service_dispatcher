@@ -4,7 +4,7 @@ namespace SISA\actions;
 
 use SISA\helpers\response;
 
-require_once('src/helpers/responseHelper.php');
+require_once(__DIR__ . '/src/helpers/responseHelper.php');
 
 class Authentication {
     
