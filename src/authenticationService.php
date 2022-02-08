@@ -20,9 +20,8 @@ class Authentication {
         $query = sprintf('SELECT  * FROM user WHERE user_name = "%s" AND password = "%s"', $userName, $password);
         $results = $this->mysqli->query($query);
         $row = $results->fetch_all(MYSQLI_ASSOC);
-        echo var_dump($row);
 
-        if($row[0] > 0) {
+        if(count($row) > 0 ) {
             response::sendOk(['msg' => 'ok', 'payload' => $row]);
         } else {
             response::sendError(['msg' => "Incorrect Credentials"]);
