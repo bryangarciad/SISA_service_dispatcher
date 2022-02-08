@@ -37,6 +37,10 @@ use SISA\helpers\response;
 use SISA\helpers\JsonHelper;
 use SISA\helpers\TableNameMapper;
 
+// Header
+header("Access-Control-Allow-Origin: *");
+header('Access-Control-Allow-Headers: Content-Type');
+
 // Session Start 
 //
 //
