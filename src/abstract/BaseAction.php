@@ -27,7 +27,6 @@ class BaseAction {
         $results = $this->mysqli->query($query);
         $row = $results->fetch_row();
 
-        echo var_dump(intval($row[0]));
 
         if ( intval($row[0]) > 0) {
             return true;
