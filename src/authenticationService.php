@@ -16,6 +16,7 @@ class Authentication {
 
     public function login ($data) {
         echo 'reached';
+        
         $userName = $data['user_name'];
         $password = $data['password'];
         $query = sprintf('SELECT  * FROM user WHERE user_name = "%s" AND password = "%s"', $userName, $password);
