@@ -19,7 +19,10 @@ class User extends BaseAction {
     {
         $results = $this->mysqli->query('SELECT  * FROM user');
         $row = $results->fetch_all(MYSQLI_ASSOC);
-        echo print_r(json_encode($row));
+        response::sendOk([
+            'msg' => 'user already exists',
+            'data' => $row
+        ]);
     }
 
     public function create ($create_data) 
