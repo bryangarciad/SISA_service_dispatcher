@@ -1,5 +1,7 @@
 <?php 
-
+// Header
+header("Access-Control-Allow-Origin: *");
+header('Access-Control-Allow-Headers: Content-Type');
 /* 
  * Custom function to compress image size and 
  * upload to the server using PHP 
