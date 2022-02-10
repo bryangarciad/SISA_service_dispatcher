@@ -50,7 +50,7 @@ class BaseAction {
         $values = \implode(', ', $values);
         $sql = sprintf('INSERT INTO `%s`( %s ) VALUES ( %s )', $this->table, $keys, $values);
 
-        // echo var_dump($sql);
+        echo var_dump($sql);
         $results = $this->mysqli->query($sql);
         if ($results) {
             response::sendOk([
