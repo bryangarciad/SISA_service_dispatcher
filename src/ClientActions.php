@@ -89,12 +89,9 @@ class Client extends BaseAction
     {
         $this->table = "default_service";
         $sql_query = \sprintf('SELECT  * FROM %s WHERE client_id = %d ORDER BY id DESC LIMIT 1', $this->table, $data['client_id']);
-        echo var_dump($sql_query);
-        
         $results = $this->mysqli->query($sql_query);
         $rows = $results->fetch_all(MYSQLI_ASSOC);
-        
 
-        response::sendOk($row);
+        response::sendOk($rows);
     }
 }
