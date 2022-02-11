@@ -182,7 +182,7 @@ class Service extends BaseAction
         $unionModel['operator'] = $this->getRow(\sprintf('SELECT O.name, O.sign FROM operator_service_type AS OST 
             INNER JOIN operator AS O 
             ON O.id = OST.operator_id 
-            WHERE OST.service_type_id = %d', $data['service_type_id']));
+            WHERE OST.service_type_id = %d ORDER BY ' , $data['service_type_id']));
         $unionModel['registration_ids']  = $this->getRow('SELECT name, key FROM registration_ids');
         $unionModel['transport']  = $this->getRow(\sprintf('SELECT handler_name, handler_rfc, handler_addres, handler_city, handler_county
             FROM service_type_handler 
