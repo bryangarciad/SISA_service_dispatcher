@@ -79,9 +79,8 @@ class Service extends BaseAction
         $apiInstance = new \Swagger\Client\Api\ConvertDocumentApi( new \GuzzleHttp\Client(), $config);
         try {
             $path = __DIR__ .'/templates/template.xlsx';
-            echo var_dump($path);
             $result = $apiInstance->convertDocumentXlsxToPdf($path);
-            file_put_contents(__DIR__ . '/..' .'/services_pdf/' . $fileName . 'pdf' , $result);
+            file_put_contents(__DIR__ . '/..' .'/services_pdf/' . $fileName . '.pdf' , $result);
         } catch (Exception $e) {
             echo 'Exception when calling ConvertDocumentApi->convertDocumentXlsxToPdf: ', $e->getMessage(), PHP_EOL;
         }
