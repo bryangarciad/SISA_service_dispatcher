@@ -88,7 +88,7 @@ class Service extends BaseAction
 
     private  function localRead () 
     {
-        $sql_query = 'SELECT S.id AS service_id, S.amount, 
+        $sql_query = 'SELECT S.*, 
             ST.id AS service_type_id, ST.name AS service_name, ST.uom AS service_uom, 
             C.id AS client_id, C.name AS client_name, C.rfc AS client_rfc from service as S
             INNER JOIN client AS C ON S.client_id = C.id 
