@@ -181,15 +181,15 @@ class Service extends BaseAction
         $unionModel['operator'] = $this->getRow(\sprintf('SELECT O.name, O.sign FROM operator_service_type AS OST 
             INNER JOIN operator AS O 
             ON O.id = OST.operator_id 
-            WHERE OST.service_type_id = %d ORDER BY ' , $data['service_type_id']));
+            WHERE OST.service_type_id = %d ORDER BY OST.id DESC LIMIT 1' , $data['service_type_id']));
         $unionModel['registration_ids']  = $this->getRow('SELECT name, key FROM registration_ids');
         $unionModel['transport']  = $this->getRow(\sprintf('SELECT handler_name, handler_rfc, handler_addres, handler_city, handler_county
             FROM service_type_handler 
-            WHERE service_type_id = %d', $data['service_type_id']));
+            WHERE service_type_id = %d ORDER BY id DESC LIMIT 1', $data['service_type_id']));
 
         $unionModel['service_receiver'] = $this->getRow(\sprintf('SELECT receiver_name, receiver_address, manager, `sign`
         FROM service_receiver 
-        WHERE service_id = %d', $data['service_type_id']));
+        WHERE service_id = %d ORDER BY id DESC LIMIT 1', $data['service_type_id']));
         $unionModel['consecutive'] = intval(($this->getRow(\sprintf('SELECT folio FROM folio WHERE site_id = %d', intval($unionModel['user']['site_id']))))['folio']);
         $unionModel['site_prefix'] = ($this->getRow(\sprintf('SELECT prefix FROM site WHERE id = %d',  intval($unionModel['user']['site_id']))))['prefix'];
 
@@ -216,6 +216,8 @@ class Service extends BaseAction
             'receiver_manager' => $unionModel['service_receiver']['manager'],
             'receiver_sign' => $unionModel['service_receiver']['sign'], #IMAGE
         ];
+
+        echo var_dump( $final_transformed_model);
 
         $this->writeRegistrations('/templates/template.xlsx');
         $this->writteTemplate($final_transformed_model, '/templates/template.xlsx');
