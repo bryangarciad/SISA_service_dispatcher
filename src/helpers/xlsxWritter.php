@@ -28,6 +28,8 @@ class TemplateWritter {
 
     public function writteCellImage(string $cell, $path) 
     {
+
+        $path = __DIR__ . '/..' .'images/uploads/' . \basename($path);
         $drawing = new \PhpOffice\PhpSpreadsheet\Worksheet\Drawing();
         $drawing->setName('sign');
         $drawing->setDescription('sign');
