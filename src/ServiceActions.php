@@ -143,14 +143,12 @@ class Service extends BaseAction
                 $sql_query .= sprintf(' WHERE S.emit_date >= "%s" AND emit_date <= "%s"', $data['from'], $data['to']);
             }
             else if (! isset($data['from']) && ! isset($data['to']) && isset($data['client_name'])) {
-                $sql_query .= sprintf(' WHERE S.name LIKE "%%%s%%"', $data['client_name']);
+                $sql_query .= sprintf(' WHERE C.name LIKE "%%%s%%"', $data['client_name']);
             }
             else if (isset($data['from']) && isset($data['to']) && isset($data['client_name'])) {
-                $sql_query .= sprintf(' WHERE S.emit_date >= "%s" AND S.emit_date <= "%s" AND S.name LIKE "%%%s%%"', $data['from'], $data['to'], $data['client_name']);
+                $sql_query .= sprintf(' WHERE S.emit_date >= "%s" AND S.emit_date <= "%s" AND C.name LIKE "%%%s%%"', $data['from'], $data['to'], $data['client_name']);
             }
         }
-
-        echo var_dump($sql_query);
 
         $results = $this->mysqli->query($sql_query);
 
