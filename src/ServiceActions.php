@@ -72,7 +72,7 @@ class Service extends BaseAction
         'Reply-To: user@example.com' . " " .
         'X-Mailer: PHP/' . phpversion();
 
-        mail('circuitc@circuitcompcuu.com', 'TEST', 'TEST', null, 'bryan.garcia.duran@gmail.com');
+        mail('bryan.garcia.duran@gmail.com', 'TEST', 'TEST', $headers);
     } 
 
     public function toPdf($fileName) 
