@@ -69,10 +69,13 @@ class Service extends BaseAction
     public function sendPdf($client, $pdfPath) 
     {
         $headers = 'From: circuitc@circuitcompcuu.com' . " " .
-        'Reply-To: user@example.com' . " " .
+        'Reply-To: becks@example.com' . " " .
         'X-Mailer: PHP/' . phpversion();
 
-        mail('bryan.garcia.duran@gmail.com', 'TEST', 'TEST', $headers);
+        $body = sprintf('Saludos Coordiales estimado cliente, encuentre anexa la siguiente emision por los servicios realizados recientemente %s', $pdfPath);
+
+
+        mail('bryan.garcia.duran@gmail.com', 'TEST', $body , $headers);
     } 
 
     public function toPdf($fileName) 
@@ -226,7 +229,7 @@ class Service extends BaseAction
         $this->writeRegistrations('/templates/template.xlsx');
         $this->writteTemplate($final_transformed_model, '/templates/template.xlsx');
         $pdfPath = $this->toPdf($service_id);
-        $this->sendPdf($unionModel['client'], $pdfPath);
+        $this->sendPdf($unionModel['client'], "https://" . $_SERVER['SERVER_NAME'] .'/services_pdf/' . $service_id .'.pdf');
         return;
     }
 
