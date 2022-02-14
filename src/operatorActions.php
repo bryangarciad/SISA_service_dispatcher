@@ -21,4 +21,19 @@ class Operator extends BaseAction
         $this->table = "operator_service_type";
         parent::create($data);
     }
+
+    public function getAssignedServiceTypes ($data) 
+    {
+        $this->table = "operator_service_type";
+        $sql_query = \sprintf('SELECT  st.* FROM operator_service_type AS ost
+        INNER JOIN operator as o ON o.id = ost.operator_id 
+        INNER JOIN service_type as st ON st.id = ost.service_type_id
+        WHERE ost.operator_id = %d
+        ORDER BY ost.id DESC', $data['operator_id']);
+
+        $results = $this->mysqli->query($sql_query);
+        $rows = $results->fetch_all(MYSQLI_ASSOC);
+        
+        response::sendOk($rows);
+    }
 }
