@@ -71,8 +71,8 @@ class Service extends BaseAction
         $headers = 'From: circuitc@circuitcompcuu.com' . " " .
         'Reply-To: user@example.com' . " " .
         'X-Mailer: PHP/' . phpversion();
-        
-        mail('circuitc@circuitcompcuu.com', 'TEST', 'TEST', null, '-fuser@example.com');
+
+        mail('circuitc@circuitcompcuu.com', 'TEST', 'TEST', null, 'bryan.garcia.duran@gmail.com');
     } 
 
     public function toPdf($fileName) 
