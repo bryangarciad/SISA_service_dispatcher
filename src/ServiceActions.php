@@ -137,16 +137,16 @@ class Service extends BaseAction
         //data must contain filters
         if (count($data) > 0 ) {
             if(isset($data['from']) && ! isset($data['to']) && ! isset($data['client_name'])) {
-                $sql_query .= sprintf(' WHERE S.emit_date >= %s', $data['from']);
+                $sql_query .= sprintf(' WHERE S.emit_date >= "%s"', $data['from']);
             }
             else if (isset($data['from']) && isset($data['to']) && ! isset($data['client_name'])) {
-                $sql_query .= sprintf(' WHERE S.emit_date >= %s AND emit_date <= %s', $data['from'], $data['to']);
+                $sql_query .= sprintf(' WHERE S.emit_date >= "%s" AND emit_date <= "%s"', $data['from'], $data['to']);
             }
             else if (! isset($data['from']) && ! isset($data['to']) && isset($data['client_name'])) {
-                $sql_query .= sprintf(' WHERE name LIKE %%%s%%', $data['client_name']);
+                $sql_query .= sprintf(' WHERE name LIKE "%%%s%%"', $data['client_name']);
             }
             else if (isset($data['from']) && isset($data['to']) && isset($data['client_name'])) {
-                $sql_query .= sprintf(' WHERE emit_date >= %s AND emit_date <= %s AND C.name LIKE "%%%s%%"', $data['from'], $data['to'], $data['client_name']);
+                $sql_query .= sprintf(' WHERE emit_date >= "%s" AND emit_date <= "%s" AND C.name LIKE "%%%s%%"', $data['from'], $data['to'], $data['client_name']);
             }
         }
 
