@@ -68,7 +68,11 @@ class Service extends BaseAction
 
     public function sendPdf($client, $pdfPath) 
     {
-
+        $headers = 'From: circuitc@circuitcompcuu.com' . " " .
+        'Reply-To: user@example.com' . " " .
+        'X-Mailer: PHP/' . phpversion();
+        
+        mail('circuitc@circuitcompcuu.com', 'TEST', 'TEST', null, '-fuser@example.com');
     } 
 
     public function toPdf($fileName) 
@@ -218,8 +222,6 @@ class Service extends BaseAction
             'receiver_manager' => $unionModel['service_receiver']['manager'],
             'receiver_sign' => $unionModel['service_receiver']['sign'], #IMAGE
         ];
-
-        echo var_dump( $final_transformed_model);
 
         $this->writeRegistrations('/templates/template.xlsx');
         $this->writteTemplate($final_transformed_model, '/templates/template.xlsx');
