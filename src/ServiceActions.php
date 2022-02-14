@@ -150,6 +150,7 @@ class Service extends BaseAction
             }
         }
 
+
         $results = $this->mysqli->query($sql_query);
 
         if(!$results) {
