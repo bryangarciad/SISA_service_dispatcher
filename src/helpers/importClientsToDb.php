@@ -2,6 +2,8 @@
 
 namespace SISA\helpers;
 
+use mysqli;
+
 require_once(__DIR__ . '/responseHelper.php');
 
 class ImportClientsToDB
@@ -9,6 +11,8 @@ class ImportClientsToDB
 
     static function import()
     {
+        $mysqli = new mysqli("localhost", 'circuitc_admin', 'elisa1', 'circuitc_sisa');
+
         $row = 1;
         $pathToFile = __DIR__ . '/clientes.csv';
         if (($handle = fopen($pathToFile, "r")) !== FALSE) {
@@ -36,8 +40,7 @@ class ImportClientsToDB
                     $sql = "INSERT INTO `client`(`name`, `contact_phone`, `contact_email`, `rfc`, `direccion`, `ciudad`, `estado`, `responsible`) 
                             VALUES (\"$data[0] ($data[1])\", \"$phone\", \"$email\", \"$data[2]\", \"$data[3]\", \"$data[4]\", \"$data[5]\", \"$data[9]\")";
 
-                    echo $sql;
-                    echo PHP_EOL;
+                    $mysqli->query($sql);
                 }
             }
             fclose($handle);
