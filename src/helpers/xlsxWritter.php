@@ -30,6 +30,7 @@ class TemplateWritter {
     {
 
         $path = __DIR__ . '/..' .'/..' .'/images/uploads/' . \basename($path);
+        echo var_dump($path);
         $drawing = new \PhpOffice\PhpSpreadsheet\Worksheet\Drawing();
         $drawing->setName('sign');
         $drawing->setDescription('sign');
