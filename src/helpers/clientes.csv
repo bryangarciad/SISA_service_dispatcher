@@ -1,0 +1,515 @@
+CLAVE_CTE,ALIAS,RAZON_SOCIAL,DIRECCION,CIUDAD,ESTADO,CORREO,TELEFONO,SUCURSAL,CONTACTO
+AKARI_HOLLY_ACEI,Akari Plaza Hollywood ,Akari Restaurantes SA de CV,"Av. Hacienda del Valle 7104, Int. 1, Cumbres Residencial",CHIHUAHUA,CHIHUAHUA,erickrivasmijares@gmail.com,618-157-20-10,CHIHUAHUA,Eric Rivas
+AKARI_DIST1_ACEI,Akari Sushi Express Distrito 1,Susumi Operaciones S.A de C.V.,"Vía Lombardia 5700, Int. 7, Distrito I, 31060",CHIHUAHUA,CHIHUAHUA,erickrivasmijares@gmail.com,618-157-20-10,CHIHUAHUA,Eric Rivas
+AKARI_ORTMENA_ACEI,Akari Sushi Express Ortíz Mena,Akari Restaurantes SA de CV,"Blvd. Antonio Ortiz Mena 1804, Los Sicomoros, 31205 ",CHIHUAHUA,CHIHUAHUA,erickrivasmijares@gmail.com y lsr_102@hotmail.com ,618-157-20-10,CHIHUAHUA,Eric Rivas
+AKARI_PSOL_ACEI,Akari Sushi Express Plaza del Sol ,Akari Restaurantes SA de CV,"Perif. de la Juventud 3501, Plaza del Sol",CHIHUAHUA,CHIHUAHUA,erickrivasmijares@gmail.com,618-157-20-10,CHIHUAHUA,Eric Rivas
+ALL_LOFT,All Loft,Planeacion Inmobiliaria de Chihuahua S.A. de C.V.,"Citadela #5701, Col. Saucito",Chihuahua,Chihuahua,admonalllost@gomanagment.com.mx,6143948538,CHIHUAHUA,Nancy Loya
+ALMA_MIA,Alma Mia,Chihuahua Alma Mia,"C. Via Lombardia #5705 int. 105, Col. Saucito C.P.31110",Chihuahua,Chihuahua,almaccabrera@hotmail.com,614 425 6377,CHIHUAHUA,Alma Cabrera
+Alsuper Algodoneros,Alsuper Algodoneros,Operadora Futurama S.A. de C.V. ,Av. Fernando Baeza 200 esquina con Plutarco Elias Calles,Delicias,Chihuahua,"vera.delossantos@alsuper.com , algodoneros.gte@alsuper.com , raul.ibarra@alsuper.com , moises.marquez@alsuper.com",,,
+ALSUP_CAM,Alsuper Camargo,Operadora Futurama S.A. de C.V.,"Venustiano Carranza, Centro, C.P. 33700",CAMARGO,CHIHUAHUA,nelsa.facturas@gmail.com;vera_de_los_santos1@hotmail.com,,CHIHUAHUA,Juan Perez
+ALSUP_CUAUH,Alsuper Cuauhtemoc,Operadora Futurama S.A. de C.V.,"San Antonio, 31530",CUAUHTÉMOC,CHIHUAHUA,nelsa.facturas@gmail.com;vera_de_los_santos1@hotmail.com,,CHIHUAHUA,
+ALSUP_CTRO,Alsuper Delicias Centro,Operadora Futurama S.A. de C.V.,"Calle 3a Pte. 114-116, Poniente, 33000",DELICIAS,CHIHUAHUA,nelsa.facturas@gmail.com;vera_de_los_santos1@hotmail.com,,CHIHUAHUA,
+ALSUP_FUNDA,Alsuper Delicias Fundadores,Operadora Futurama S.A. de C.V.,"Av. Río Conchos 500, Oriente 1, 33000",DELICIAS,CHIHUAHUA,nelsa.facturas@gmail.com;vera_de_los_santos1@hotmail.com,,CHIHUAHUA,
+ALSUP_DELI_SUR,Alsuper Delicias Sur,Operadora Futurama S.A. de C.V.,"Avenida Fernando Baeza Meléndez S/N, Alameda, 33000",DELICIAS,CHIHUAHUA,nelsa.facturas@gmail.com;vera_de_los_santos1@hotmail.com;deliciassur@alsuper.com;deliciassur.gte@alsuper.com;alemania320@gmail.com,,CHIHUAHUA,
+ALSUP_JIM,Alsuper Jiménez,Operadora Futurama S.A. de C.V.,"Abraham González, 33980",JOSÉ MARIANO JIMÉNEZ,CHIHUAHUA,nelsa.facturas@gmail.com;vera_de_los_santos1@hotmail.com,,CHIHUAHUA,
+ALSUP_MANZ,Alsuper Manzaneros,Operadora Futurama S.A. de C.V.,"Margarita Maza de Juárez & Cascada de Cusárare, Basaseachi, 31500 ",CUAUHTÉMOC,CHIHUAHUA,nelsa.facturas@gmail.com;vera_de_los_santos1@hotmail.com,,CHIHUAHUA,
+ALSUP_MEO,Alsuper Meoqui,Operadora Futurama S.A. de C.V.,"Calle Leona Vicario, Centro, 33130",PEDRO MEOQUI,CHIHUAHUA,nelsa.facturas@gmail.com;vera_de_los_santos1@hotmail.com,,CHIHUAHUA,
+ALSUP_NCG,Alsuper Nuevo Casas Grandes,Operadora Futurama S.A. de C.V.,"Francisco I. Madero 201, Centro, 31700",NUEVO CASAS GRANDES,CHIHUAHUA,nelsa.facturas@gmail.com;vera_de_los_santos1@hotmail.com,,CHIHUAHUA,
+ALSUP_OJI,Alsuper Ojinaga,Operadora Futurama S.A. de C.V.,"Av Trasviña y Retes & Blvrd Oscar Flores, Constitución, 32881",OJINAGA,CHIHUAHUA,nelsa.facturas@gmail.com;vera_de_los_santos1@hotmail.com,,CHIHUAHUA,
+ALSUP_PARR,Alsuper Parral,Operadora Futurama S.A. de C.V.,"Magisterial, 33860",HIDALGO DEL PARRAL,CHIHUAHUA,nelsa.facturas@gmail.com;vera_de_los_santos1@hotmail.com,,CHIHUAHUA,
+Alsuper_Puerta_Hierro,Alsuper Puerta de Hierro,Operadora Futurama S.A. de C.V. Alsuper Puerta de Hierro,C. Emilio Carranza #1007  Col. Centro C.P.31700,Nuevo Casas Grandes,Chihuahua,itzel.solis@alsuper.com; nelsa.facturas@gmail.com;vera_de_los_santos1@hotmail.com,,CHIHUAHUA,
+ALSUP_3_CULT,Alsuper Tres Culturas,Operadora Futurama S.A. de C.V.,"Blvd. Y  Calle 62, Col. Hernández, 31527",CUAUHTÉMOC,CHIHUAHUA,nelsa.facturas@gmail.com;vera_de_los_santos1@hotmail.com;tresculturas.gte@alsuper.com;marcam1903@gmail.com,,CHIHUAHUA,
+ALIT_SAUC,Altec Saucito,Altec Electronica Chihuahua S.A. de C.V.,Perif. De la Juventud S/N Parque Industrial el Saucito,CHIHUAHUA,CHIHUAHUA,correo@altec.com,615645646,CHIHUAHUA,
+VISTE,Altec VISTEON,ALTEC ELECTRONICA DE CHIHUAHUA S.A DE C.V. (SUCURSAL PARQUE TECNOLOGICO BAFAR),Carretera Cd. Cuauhtemoc Complejo Industrial BAFAR,CHIHUAHUA,CHIHUAHUA,acarri12@visteon.com,,CHIHUAHUA,
+American_Beef,American Beef,American Beef S.A. de C.V.,Retorno Pablo Neruda #107 Complejo Industrial Chihuahua C.P. 31109,Chihuahua,Chihuahua,comprasrefacciones@amebeef.com,,CHIHUAHUA,Claudia Galvez
+ANCO_,ANCO,Subensambles Internacionales S. de R.L. de C.V.,"Prolongacion Hermanos Escobar # 7152-E, Parque Industrial Omega",Juarez,Chihuahua,,656627-07-54 ext 4744,JUAREZ,Teresa de Jesus Vazquez
+APP_PER_JUV,APPLEBEES JUVENTUD,"Applemex, SA de CV",Periférico de la Juventud No. 5708  Col. Haciendas del Valle,CHIHUAHUA,CHIHUAHUA,chihuahua@applemex.com,6144301000,CHIHUAHUA,
+APP_PER_JUV_ACEI,APPLEBEES JUVENTUD ,"Applemex, SA de CV",Periférico de la Juventud No. 5708  Col. Haciendas del Valle,CHIHUAHUA,CHIHUAHUA,chihuahua@applemex.com,6144301000,CHIHUAHUA,
+APP_PER_JUV_BASU,APPLEBEES JUVENTUD (Basura),"Applemex, SA de CV",Periférico de la Juventud No. 5708  Col. Haciendas del Valle,CHIHUAHUA,CHIHUAHUA,chihuahua@applemex.com,6144301000,CHIHUAHUA,
+NAYOS,Applebees Nayos,Applemex SA de CV,"Fernando de Borja 908, Adición Sur Universidad, 31203",CHIHUAHUA,CHIHUAHUA,,,CHIHUAHUA,
+NAYOS_BASU,Applebees Nayos (Basura),Applemex SA de CV,"Fernando de Borja 908, Adición Sur Universidad, 31203",CHIHUAHUA,CHIHUAHUA,,,CHIHUAHUA,
+ARAS_,Aras,Investment Bussines Grup SAPI de C.V.,"C. Cantera #10305, Col. La Haciendita",Chihuahua,Chihuahua,mariana.gonzalez@arasbgroup.com ,6142440714,CHIHUAHUA,Mariana Gonzalez
+ARREBOL_,Arrebol,No Te Rajes 3B S.A. de C.V.,"C. Via Torentino #5703, Col. Saucito",Chihuahua,Chihuahua,valentino.ramos@hotmail.com,6141208439,CHIHUAHUA,Valentino Ramos
+ASK_MONI,ASK Monica,DELUNVIC ADMINISTRACION S.de R.L.DE C.V.,"Fashion Mall Chihuahua, Perif. de la Juventud 3501, Puerta de Hierro, 31207",CHIHUAHUA,CHIHUAHUA,,,CHIHUAHUA,
+AWAINNOVA,Awainnova,Grupo Awainnova NGC S.A de C.V," Juan Harrison 9, Fuego Nuevo, Iztapalapa, 09800 Ciudad de México, CDMX",Chihuahua,Chihuahua,,6141402864,CHIHUAHUA,Abraham Mendoza
+BAR_34,BAR EL 34, Carlos Ismael Baca Guardiola, Av. Tecnológico No. 4903 E-F Col. Las Granjas CP 31100,CHIHUAHUA,CHIHUAHUA,factura@el34.com.mx,,CHIHUAHUA,
+BAR_VAGON_DE_VILLA,Bar Vagon de Villa,Villa Flores Myrna Azucena,"Av. Los Arroyos #16901 Loc. 24, Col. Arroyos etapa I",Chihuahua,Chihuahua,vagondevilla@gmail.com,6141790174,CHIHUAHUA,Myrna Azucena Villa
+BARRI,BARRIGAS,Promotora Restaurantera S de RL de CV, Periferico de la Juventud No. 5905 Int. No. 1 Col. Haciendas del Valle,CHIHUAHUA,CHIHUAHUA,,,CHIHUAHUA,
+BK_CAMP,BK campestre,HM Restaurantes S.A. de C.V.,"Calle Indiana 3305, Virreyes II O la Herradura, Campestre-Lomas, 31213",CHIHUAHUA,CHIHUAHUA,"compras@hemarestaurantes.mx, DINA NAJERA",,CHIHUAHUA,
+BK_CAMP_ACEI,BK campestre (Aceite),HM Restaurantes S.A. de C.V.,"Calle Indiana 3305, Virreyes II O la Herradura, Campestre-Lomas, 31213",CHIHUAHUA,CHIHUAHUA,compras@hemarestaurantes.mx,,CHIHUAHUA,
+BK_CAMP_BASU,BK campestre (Basura),HM Restaurantes S.A. de C.V.,"Calle Indiana 3305, Virreyes II O la Herradura, Campestre-Lomas, 31213",CHIHUAHUA,CHIHUAHUA,compras@hemarestaurantes.mx,,CHIHUAHUA,
+BK_CUAU,BK Cuauhtemoc,HM Restaurantes S.A. de C.V.,"16 de Septiembre 1450, Progreso, 31550",CUAUHTÉMOC,CHIHUAHUA,compras@hemarestaurantes.mx,,CHIHUAHUA,
+BK_CUAU_ACEI,BK Cuauhtemoc (Aceite),HM Restaurantes S.A. de C.V.,"16 de Septiembre 1450, Progreso, 31550",CUAUHTÉMOC,CHIHUAHUA,compras@hemarestaurantes.mx,,CHIHUAHUA,
+BK_DEL,BK Delicias,HM Restaurantes S.A. de C.V.,"Av. 6ta Oriente S/N, Centro, 33000",DELICIAS,CHIHUAHUA,compras@hemarestaurantes.mx y cfernandez@hemarestaurantes.mx,6144875875,CHIHUAHUA,Cristina Fernandez
+BK_DEL_ACEI,BK Delicias (Aceite),HM Restaurantes S.A. de C.V.,"Av. 6ta Oriente S/N, Centro, 33000",DELICIAS,CHIHUAHUA,compras@hemarestaurantes.mx y cfernandez@hemarestaurantes.mx,6144875875,CHIHUAHUA,Cristina Fernandez
+BK_EJERCITO,BK Ejercito,HM Restaurantes S.A. de C.V.,"Av. Ejército Nacional # 6514, Del Márquez, 32607",Juarez,Chihuahua,compras@hemarestaurantes.mx y cfernandez@hemarestaurantes.mx,55 5255 5241,JUAREZ,
+BK_EJERNAL_ACEI,BK Ejercito Nacional,HM Restaurantes S.A. de C.V.,"Avenida Ejército Nacional # 6514, Del Márquez, 32607",JUAREZ,CHIHUAHUA,compras@hemarestaurantes.mx y cfernandez@hemarestaurantes.mx,,CHIHUAHUA,
+BK_FMALL,BK Fashion mall,HM Restaurantes S.A. de C.V.,"Perif. de la Juventud 3501, Plaza del Sol",CHIHUAHUA,CHIHUAHUA,compras@hemarestaurantes.mx y cfernandez@hemarestaurantes.mx,6144875875,CHIHUAHUA,
+BK_FMALL_ACEI,BK Fashion mall (Aceite),HM Restaurantes S.A. de C.V.,"Perif. de la Juventud 3501, Plaza del Sol",CHIHUAHUA,CHIHUAHUA,compras@hemarestaurantes.mx y cfernandez@hemarestaurantes.mx,6144875875,CHIHUAHUA,
+BK_FM,BK Fuentes Mares,HM Restaurantes S.A. de C.V.,"Boulevard J. Fuentes Mares 1901, El Marmol, 31063",CHIHUAHUA,CHIHUAHUA,bkfuentesmares@hemarestaurantes.mx compras@hemarestaurantes.mx y cfernandez@hemarestaurantes.mx,6144875875,CHIHUAHUA,
+BK_FM_ACEI,BK Fuentes Mares (Aceite),HM Restaurantes S.A. de C.V.,"Boulevard J. Fuentes Mares 1901, El Marmol, 31063",CHIHUAHUA,CHIHUAHUA,bkfuentesmares@hemarestaurantes.mx compras@hemarestaurantes.mx y cfernandez@hemarestaurantes.mx,6144875875,CHIHUAHUA,
+BK_FM_BASU,BK Fuentes Mares (Basura),HM Restaurantes S.A. de C.V.,"Boulevard J. Fuentes Mares 1901, El Marmol, 31063",CHIHUAHUA,CHIHUAHUA,bkfuentesmares@hemarestaurantes.mx compras@hemarestaurantes.mx y cfernandez@hemarestaurantes.mx,6144875875,CHIHUAHUA,
+BK_GLOR,BK Glorieta,HM Restaurantes S.A. de C.V.,"Avenida Universidad 2707, San Felipe I Etapa, 31060",CHIHUAHUA,CHIHUAHUA,compras@hemarestaurantes.mx y cfernandez@hemarestaurantes.mx,6144875875,CHIHUAHUA,
+BK_GLOR_ACEI,BK Glorieta (Aceite),HM Restaurantes S.A. de C.V.,"Avenida Universidad 2707, San Felipe I Etapa, 31060",CHIHUAHUA,CHIHUAHUA,compras@hemarestaurantes.mx y cfernandez@hemarestaurantes.mx,6144875875,CHIHUAHUA,
+BK_GLOR_BASU,BK Glorieta (Basura),HM Restaurantes S.A. de C.V.,"Avenida Universidad 2707, San Felipe I Etapa, 31060",CHIHUAHUA,CHIHUAHUA,compras@hemarestaurantes.mx y cfernandez@hemarestaurantes.mx,6144875875,CHIHUAHUA,
+BK_JILOTEPEC,BK Jilotepec,HM Restaurantes S.A. de C.V.,"Av de las Torres # 1680, Salvarcar, C.P. 32580",Juarez,Chihuahua,compras@hemarestaurantes.mx y cfernandez@hemarestaurantes.mx,656 583 1567,JUAREZ,
+BK_JILO_ACEI,BK Jilotepec ,HM Restaurantes S.A. de C.V.,"Av de las Torres 1680, Salvarcar, 32580",JUAREZ,CHIHUAHUA,compras@hemarestaurantes.mx,,CHIHUAHUA,
+BK_LIBER,BK Libertad,HM Restaurantes S.A. de C.V.,"Calle Libertad 113, Centro, 31000",CHIHUAHUA,CHIHUAHUA,compras@hemarestaurantes.mx,,CHIHUAHUA,
+BK_LIBER_ACEI,BK Libertad ,HM Restaurantes S.A. de C.V.,"Calle Libertad 113, Centro, 31000",CHIHUAHUA,CHIHUAHUA,compras@hemarestaurantes.mx,,CHIHUAHUA,
+BK_LIBER_BASU,BK Libertad (Basura),HM Restaurantes S.A. de C.V.,"Calle Libertad 113, Centro, 31000",CHIHUAHUA,CHIHUAHUA,compras@hemarestaurantes.mx,,CHIHUAHUA,
+BK_PZAJZ_ACEI,BK Plaza Juarez ,HM Restaurantes S.A. de C.V.,"Avenida Ejército Nacional # 6514, Del Márquez, 32607",JUAREZ,CHIHUAHUA,compras@hemarestaurantes.mx,,CHIHUAHUA,
+BK_RENACIMIENTO,BK Renacimiento,HM Restaurantes S.A. de C.V.,"Av. Paseo Triunfo de la República # 4020, Monumental, C.P. 32310",Juarez,Chihuahua,compras@hemarestaurantes.mx y cfernandez@hemarestaurantes.mx,521 629 1525,JUAREZ,
+BK_RENA_ACEI,BK Renacimiento ,HM Restaurantes S.A. de C.V.,"Avenida Paseo Triunfo de la República 4020, Monumental, 32310",JUAREZ,CHIHUAHUA,compras@hemarestaurantes.mx,,CHIHUAHUA,
+BK_SAN_LORENZO,BK San Lorenzo,HM Restaurantes S.A. de C.V.,Paseo Triunfo de la República No. 365. Col. Nuevo Hipódromo C.P. 32310,Juarez,Chihuahua,compras@hemarestaurantes.mx y cfernandez@hemarestaurantes.mx,656 251 73 33,JUAREZ,
+BK_SENDE_ACEI,BK Sendero,HM Restaurantes S.A. de C.V.,"Boulevard Francisco Villarreal Torres 2050, 32422",JUAREZ,CHIHUAHUA,compras@hemarestaurantes.mx,,CHIHUAHUA,
+BK_SENDEROS,BK Senderos,HM Restaurantes S.A. de C.V.,"Blvrd Francisco Villarreal Torres # 2050, C.P. 32422",Juarez,Chihuahua,compras@hemarestaurantes.mx y cfernandez@hemarestaurantes.mx,656 666 2956,JUAREZ,
+BK_VALL,BK Vallarta,HM Restaurantes S.A. de C.V.,"Av. Vallarta y Privada de Catalpa s/n., Granjas, 31100",CHIHUAHUA,CHIHUAHUA,compras@hemarestaurantes.mx,,CHIHUAHUA,
+BK_VALL_ACEI,BK Vallarta (Aceite),HM Restaurantes S.A. de C.V.,"Av. Vallarta y Privada de Catalpa s/n., Granjas, 31100",CHIHUAHUA,CHIHUAHUA,compras@hemarestaurantes.mx,,CHIHUAHUA,
+BK_VALL_BASU,BK Vallarta (Basura),HM Restaurantes S.A. de C.V.,"Av. Vallarta y Privada de Catalpa s/n., Granjas, 31100",CHIHUAHUA,CHIHUAHUA,compras@hemarestaurantes.mx,,CHIHUAHUA,
+BA_1690,Bodega Aurrera Aeropuerto-1690,Nueva Walmart de Mexico S. de R.L. de C.V.,"Nextengo 78 Santa Cruz Acayucan, Azcapotzalco, C.P. 02770",CHIHUAHUA,CHIHUAHUA,daniel.gonzalez4@walmart.com.mx,,CHIHUAHUA,
+BA_1517,Bodega Aurrera Camargo-1517,Nueva Walmart de Mexico S. de R.L. de C.V.,"Nextengo 78 Santa Cruz Acayucan, Azcapotzalco, C.P. 02770",CAMARGO,CHIHUAHUA,daniel.gonzalez4@walmart.com.mx,,CHIHUAHUA,
+BA_1590,Bodega Aurrera Casas Grandes-1590,Nueva Walmart de Mexico S. de R.L. de C.V.,"Nextengo 78 Santa Cruz Acayucan, Azcapotzalco, C.P. 02770",CASAS GRANDES,CHIHUAHUA,daniel.gonzalez4@walmart.com.mx,,CHIHUAHUA,
+BA_3146,Bodega aurrera chaveñas,Nueva Walmart de Mexico S. de R.L. de C.V.,"Nextengo 78 Santa Cruz Acayucan, Azcapotzalco, C.P. 02770",JUAREZ,CHIHUAHUA,daniel.gonzalez4@walmart.com.mx,,CHIHUAHUA,
+BA_2138,Bodega Aurrera Delicias -2138,Nueva Walmart de Mexico S. de R.L. de C.V.,"Nextengo 78 Santa Cruz Acayucan, Azcapotzalco, C.P. 02770",DELICIAS,CHIHUAHUA,daniel.gonzalez4@walmart.com.mx,,CHIHUAHUA,
+BODEGA_AURRERA_INDEPENDENCIA,Bodega Aurrera Independencia,Nueva Walmart de Mexico S. de R.L. de C.V.,"Blvr. Independencia # 2990, Parajes del Sur, C.P. 32575",Juarez,Chihuahua,daniel.gonzalez4@walmart.com.mx,656 701 8799,JUAREZ,
+BA_1467,BODEGA AURRERA INDEPENDENCIA SUR,Nueva Walmart de Mexico S. de R.L. de C.V.,"Nextengo 78 Santa Cruz Acayucan, Azcapotzalco, C.P. 02770",JUAREZ,CHIHUAHUA,daniel.gonzalez4@walmart.com.mx,,CHIHUAHUA,
+BA_2787,Bodega Aurrera Industria Norte-2787,Nueva Walmart de Mexico S. de R.L. de C.V.,"Nextengo 78 Santa Cruz Acayucan, Azcapotzalco, C.P. 02770",CHIHUAHUA,CHIHUAHUA,daniel.gonzalez4@walmart.com.mx,,CHIHUAHUA,
+BA_1560,Bodega Aurrera Jimenez-1560,Nueva Walmart de Mexico S. de R.L. de C.V.,"Nextengo 78 Santa Cruz Acayucan, Azcapotzalco, C.P. 02770",JIMENEZ,CHIHUAHUA,daniel.gonzalez4@walmart.com.mx,,CHIHUAHUA,
+BA_3196,Bodega Aurrera Melchor Guaspe-3196,Nueva Walmart de Mexico S. de R.L. de C.V.,"Nextengo 78 Santa Cruz Acayucan, Azcapotzalco, C.P. 02770",CHIHUAHUA,CHIHUAHUA,daniel.gonzalez4@walmart.com.mx,,CHIHUAHUA,
+BA_1472,Bodega Aurrera Meoqui-1472,Nueva Walmart de Mexico S. de R.L. de C.V.,"Nextengo 78 Santa Cruz Acayucan, Azcapotzalco, C.P. 02770",MEOQUI,CHIHUAHUA,daniel.gonzalez4@walmart.com.mx,,CHIHUAHUA,
+BA_NOGALES,Bodega Aurrera Nogales,Nueva Walmart de Mexico S. de R.L. de C.V.," Av. De Las Chimeneas 320, Las Praderas, 84064 Nogales, Son.",Nogales,Sonora,luis.quihui@walmart.com,,Selecciona Sucursal,
+BA_X,Bodega Aurrera Ojinaga-X,Nueva Walmart de Mexico S. de R.L. de C.V.,"Nextengo 78 Santa Cruz Acayucan, Azcapotzalco, C.P. 02770",OJINAGA,CHIHUAHUA,daniel.gonzalez4@walmart.com.mx,,CHIHUAHUA,
+BA_3560,Bodega Aurrera Panamericana-3560,Nueva Walmart de Mexico S. de R.L. de C.V.,"Nextengo 78 Santa Cruz Acayucan, Azcapotzalco, C.P. 02770",CHIHUAHUA,CHIHUAHUA,daniel.gonzalez4@walmart.com.mx,,CHIHUAHUA,
+BA_1767,BODEGA AURRERA PUERTO DE PALOS,Nueva Walmart de Mexico S. de R.L. de C.V.,"Nextengo 78 Santa Cruz Acayucan, Azcapotzalco, C.P. 02770",JUAREZ,CHIHUAHUA,daniel.gonzalez4@walmart.com.mx,,CHIHUAHUA,
+BA_2740,BODEGA AURRERA TALAMOS CAMANDRAIT ,Nueva Walmart de Mexico S. de R.L. de C.V.,"Nextengo 78 Santa Cruz Acayucan, Azcapotzalco, C.P. 02770",JUAREZ,CHIHUAHUA,daniel.gonzalez4@walmart.com.mx,,CHIHUAHUA,
+BA_1763,Bodega Aurrera Torres del Rey-1763,Nueva Walmart de Mexico S. de R.L. de C.V.,"Nextengo 78 Santa Cruz Acayucan, Azcapotzalco, C.P. 02770",CHIHUAHUA,CHIHUAHUA,daniel.gonzalez4@walmart.com.mx,,CHIHUAHUA,
+BODEGA_DE_LIBROS,Bodega de Libros,Servicios Educativos del Estado de Chihuahua,"C. Ramon Alcazar SN, Col. Elvareal",Juarez,Chihuahua,rubi.ortiz@seech.edu.mx,656 705 43 00,JUAREZ,Rubi Ortiz
+BOTAN_2AGUAS_ACEI,Botanero Dos Aguas ,CRP 888 S.A. DE C.V.,"Vía Lombardia 5700-8, El, Saucito, 31110",CHIHUAHUA,CHIHUAHUA,contabilidad@comecamila.com; facturasdosaguas@hotmail.com,,CHIHUAHUA,
+BOURNS,Bourns de Mexico,"Bourns de México, S. de R.L. de C.V.", Victor Hugo # 310 Complejo Industrial Chihuahua C.P. 31109,CHIHUAHUA,CHIHUAHUA,fernando.gonzalez@bourns.com; Julieta Llamas <julieta.llamas@bourns.com>,,CHIHUAHUA,
+Brooklyn_Wings_Company,Brooklyn Wings Company,Luis Javier Carrasco Carrasco,"Comonfort 513 Local 3 Camargo, chihuahua",CHIHUAHUA,CHIHUAHUA,javier_0504@hotmail.com,,CHIHUAHUA,
+BUFALUKAS_ALDAMA,Bufalucas Aldama Centro,Dominio Lobo S.A. de C.V.,C. Juan Aldama #707 Col. Centro,Chihuahua,Chihuahua,"contabilidad@dominiolobo.com, facturasgastos@dominiolobo.com",6143443389 y 6141059253,CHIHUAHUA,Angelica Calvillo
+LUKAS_FM,Bufalucas Fuentes Mares,Dominio Lobo S.A. de C.V.,"Blvd. J. Fuentes Mares 1901, El Mármol Viejo, 31063",CHIHUAHUA,CHIHUAHUA,gerenciasmares@dominiolobo.com,6141170190,CHIHUAHUA,Daniel Cervantes
+LUKAS_JUV,Bufalucas Juventud,Raul Martinez Ogaz,"Perif. de la Juventud #9913, loc 8, Col. Ignacio Allende",CHIHUAHUA,CHIHUAHUA,buffalucasnorte@gmail.com,6144253030,CHIHUAHUA,
+LUKAS_PNTE,Bufalucas Puerta Norte,Alma Rosa Macias Vazquez,"Puerta de Europa 15133-1, Local C-12, Col. Cafetales C.P. 31125",CHIHUAHUA,CHIHUAHUA,buffalucasnorte@gmail.com,6144939595,CHIHUAHUA,
+BUFFA_WW_ACEI,Buffalo Wild Wings D1,HM Restaurantes S.A. de C.V.,"Periférico de la Juventud s/n, Distrito 1, San Francisco, 31115 ",CHIHUAHUA,CHIHUAHUA,compras@hemarestaurantes.mx,6141812743,CHIHUAHUA,
+BUFFALO_WILD_WINGS_MISIONES,Buffalo Wild Wings Misiones,HM FOODS PACIFICO S.A DE C.V,"Centro Comercial Las Misiones, Blvd. Teófilo Borunda # 8681, Bosques del Sol, C.P. 32618",Juarez,Chihuahua,compras@hemarestaurantes.mx y cfernandez@hemarestaurantes.mx,656 648 4298,JUAREZ,
+BUFFALO_WW_PUERTA_NORTE,Buffalo Wild Wings Puerta Norte,HM Foods Pacifico S.A. de C.V.,"Puerta Norte #1510, Cafetales, C.P. 31125",Chihuahua,Chihuahua,ocarbajal@hemarestaurantes.mx,6141812743,CHIHUAHUA,Karla Gonzalez
+BUFFALUCAS_SENDERO,Buffalucas Sendero,Maria del Carmen Macias Vazquez,"C. Alejandro Dumas #11377 snack E, Complejo Industrial Chihuahua C.P. 31136",Chihuahua,Chihuahua,buffalucasnorte@gmail.com,,CHIHUAHUA,
+BUFFALUCAS_SENDERO,Buffalucas Sendero,María del Carmen Macías Vázquez,"C. Alejandro Dumas #11377 Snack E, Complejo Industrial Chihuahua C.P. 31136",Chihuahua,Chihuahua,buffalucasnorte@gmail.com,,CHIHUAHUA,L.C. Eva Lilia Palma
+BURRITOS_EL_BRO,Burritos El Bro,UMIAF S de R.L. de C.V.,Calle Ramón Rayon ,Juarez,Chihuahua,unidadmedicafact@gmail.com,656 690 7253,JUAREZ,
+BURRITOS_SABINO,Burritos Sabino,,"Av. Manuel J. Clouthier # 7224, Del Real, C.P. 32660",Juarez,Chihuahua,luissepu21@gmail.com,,JUAREZ,656 241 95 17  
+BURRITOS_TONI,Burritos Toni,Ana Maria Aldaco Arzate,"G. M. Solis 315, Partido Romero, C.P. 32030",Juarez ,Chihuahua,ana-maria172010@hotmail.com,656 613 5619,JUAREZ,
+BWI_ACEI,BWI (Aceite),VEHICLE STABILITY TECHNOLOGY SA DE CV,VIALIDAD CH-P No. 8802 COL. LOS PINOS,CHIHUAHUA,CHIHUAHUA,marcos.rodriguez@bwigroup.com,,CHIHUAHUA,
+BWI_BAS,BWI (Basura),VEHICLE STABILITY TECHNOLOGY SA DE CV,VIALIDAD CH-P No. 8802 COL. LOS PINOS,CHIHUAHUA,CHIHUAHUA,marcos.rodriguez@bwigroup.com,,CHIHUAHUA,
+BWI_EXT,BWI (Trampa Externa),VEHICLE STABILITY TECHNOLOGY SA DE CV,VIALIDAD CH-P No. 8802 COL. LOS PINOS,CHIHUAHUA,CHIHUAHUA,marcos.rodriguez@bwigroup.com,,CHIHUAHUA,
+BWI_INTS,BWI (Trampas Internas),VEHICLE STABILITY TECHNOLOGY SA DE CV,VIALIDAD CH-P No. 8802 COL. LOS PINOS,CHIHUAHUA,CHIHUAHUA,marcos.rodriguez@bwigroup.com,,CHIHUAHUA,
+BWW_ENCUENTRO_FOR_ACEITE,BWW ENCUENTRO FORTUNA,HM FOODS MEXICO S.A. DE C.V.,"Obrero Mundial 296 local 01 Piedad Narvarte, Benito Juárez, Distrito Federal , México C.P. 03000",CIUDAD DE MÉXICO D.F.,DELEGACIÓN BENITO JUÁREZ,servicios.df@sisa.org.mx,,CHIHUAHUA,
+BWW_ENCUENTRO_FOR_GRASA,BWW ENCUENTRO FORTUNA (Grasa),HM FOODS MEXICO S.A. DE C.V.,"Obrero Mundial 296 local 01 Piedad Narvarte, Benito Juárez, Distrito Federal , México C.P. 03000",CIUDAD DE MÉXICO D.F.,DELEGACIÓN BENITO JUÁREZ,servicios.df@sisa.org.mx,,CHIHUAHUA,
+BWW_MUNDO_E ,BWW MUNDO E  ,HM FOODS MEXICO S.A. DE C.V.,"Piedad Narvarte, Benito Juárez, Distrito Federal , México. C.P  03000",CHIHUAHUA,CHIHUAHUA,servicios.df@sisa.org.mx,,CHIHUAHUA,
+CABIN,Cabin Cafeterias,"Cabin Cafeterias Barba Internacional, S.A. de C.V.", Marques de Comillas #2505 Col. Miramar,CHIHUAHUA,CHIHUAHUA,,,CHIHUAHUA,
+CARLS_JR_AEROPUERTO,Carl´s Jr Aeropuerto,BORDER STAR DE MEXICO S. DE R.L. DE C.V.,"Zaragoza, C.P. 32700",Juarez,Chihuahua,nlujan@borderstar.com.mx,656 637 1262,JUAREZ,
+CARLS_JR_BERMUDEZ,Carl´s Jr Bermudez,BORDER STAR DE MEXICO S. DE R.L. DE C.V.,"AVE ANTONIO J. BERMUDEZ #1150, PARQUE INDUSTRIAL ANTONIO J. BERMUDEZ, 32470",Juarez,Chihuahua,nlujan@borderstar.com.mx,656 625 1059,JUAREZ,
+CARLS_JR_EJERCITO,Carl´s Jr Ejercito,BORDER STAR DE MEXICO S. DE R.L. DE C.V.,"Av. Ejército Nacional 2926-4, Partido Iglesias, C.P. 32500",Juarez,Chihuahua,"ejercito@borderstar.com.mx, nlujan@borderstar.com.mx y atorres@borderstar.com.mx",656 684 8739,JUAREZ,
+CARLS_JR_SAN_LORENZO,Carl´s Jr San Lorenzo,BORDER STAR DE MEXICO S. DE R.L. DE C.V.,"Av. Paseo Triunfo De La República 308, Col. San Lorenzo, C.P. 32437",ESTADO,Chihuahua,nlujan@borderstar.com.mx,,JUAREZ,
+CARLS_AERO_ACEI,Carl's Jr. Aeropuerto ,BORDER STAR DE MEXICO S. DE R.L. DE C.V.,"Av. Tecnológico 5708-12, Francisco I. Madero",JUAREZ,CHIHUAHUA,"aeropuerto@borderstar.com.mx, nlujan@borderstar.com.mx y atorres@borderstar.com.mx",,CHIHUAHUA,
+CARLS_CANTERA,Carl's Jr. Cantera 5,BORDER STAR DE MEXICO S. DE R.L. DE C.V.,Plaza Cantera Cinco,CHIHUAHUA,CHIHUAHUA,"cantera@borderstar.com.mx, nlujan@borderstar.com.mx, atorres@borderstar.com.mx",6142035102,CHIHUAHUA,Lic. Lujan
+CARLS_CANTERA_ACEI,Carl's Jr. Cantera 5 (Aceite),BORDER STAR DE MEXICO S. DE R.L. DE C.V.,Plaza Cantera Cinco,CHIHUAHUA,CHIHUAHUA,ipolanco@borderstar.com.mx y nlujan@borderstar.com.mx,6142035102,CHIHUAHUA,Lic. Lujan
+CARLS_IND_ACEI,Carl's Jr. Industrias ,BORDER STAR DE MEXICO S. DE R.L. DE C.V.,"Av. Antonio J. Bermúdez 1150, Int. 8, Parque Industrial Juarez",JUAREZ,CHIHUAHUA,"lcalderon@borderstar.com.mx,nlujan@borderstar.com.mx y atorres@borderstar.com.mx",,CHIHUAHUA,
+CARLS_JUV,Carl's Jr. Juventud,BORDER STAR DE MEXICO S. DE R.L. DE C.V.,"Periférico de la Juventud 3301-L, Las Fuentes, 32516 Chihuahua, Chih",CHIHUAHUA,CHIHUAHUA,"juventud@borderstar.com.mx, nlujan@borderstar.com.mx, atorres@borderstar.com.mx",6142035102,CHIHUAHUA,
+CARLS_JUV_ACEI,Carl's Jr. Juventud (Aceite),BORDER STAR DE MEXICO S. DE R.L. DE C.V.,"Periférico de la Juventud 3301-L, Las Fuentes, 32516 Chihuahua, Chih",CHIHUAHUA,CHIHUAHUA,"juventud@borderstar.com.mx, nlujan@borderstar.com.mx, atorres@borderstar.com.mx",6142035102,CHIHUAHUA,
+CARLS_SANLOR_ACEI,Carl's Jr. San Lorenzo ,BORDER STAR DE MEXICO S. DE R.L. DE C.V.,Av. Vicente Guerrero s/n Partido Senecu,JUAREZ,CHIHUAHUA,"sanlorenzo@borderstar.com.mx, nlujan@borderstar.com.mx y atorres@borderstar.com.mx",,CHIHUAHUA,
+CARLS_TEC,Carl's Jr. Tecnológico,BORDER STAR DE MEXICO S. DE R.L. DE C.V.,"Av. Tecnologico 5708, Parral, 31104 Chihuahua, Chih.",CHIHUAHUA,CHIHUAHUA,"tecnologico@borderstar.com.mx, nlujan@borderstar.com.mx, atorres@borderstar.com.mx",6142035102,CHIHUAHUA,
+CARLS_TEC_ACEI,Carl's Jr. Tecnológico (Aceite),BORDER STAR DE MEXICO S. DE R.L. DE C.V.,"Av. Tecnologico 5708, Parral, 31104 Chihuahua, Chih.",CHIHUAHUA,CHIHUAHUA,"tecnologico@borderstar.com.mx, nlujan@borderstar.com.mx, atorres@borderstar.com.mx",6142035102,CHIHUAHUA,
+CALIENTE,Casino Caliente,Espectaculos Latinoamericanos Deportivos SA de CV,"Periférico de la Juventud No. 5700-2, Desarrollo Comercial El Saucito, 31114",CHIHUAHUA,CHIHUAHUA,luis.moya@orenes.mx,6142020551,CHIHUAHUA,Luis Montoya
+CALIENTE_ACEI,Casino Caliente (Aceite),Espectaculos Latinoamericanos Deportivos SA de CV,"Periférico de la Juventud No. 5700-2, Desarrollo Comercial El Saucito, 31114",CHIHUAHUA,CHIHUAHUA,luis.moya@orenes.mx,6142020551,CHIHUAHUA,Luis Montoya
+CALIENTE_BASU,Casino Caliente (Basura),Espectaculos Latinoamericanos Deportivos SA de CV,"Periférico de la Juventud No. 5700-2, Desarrollo Comercial El Saucito, 31114",CHIHUAHUA,CHIHUAHUA,luis.moya@orenes.mx,6142020551,CHIHUAHUA,Luis Montoya
+CROWN,Casino Crown DELUVNIC,DELUNVIC ADMINISTRACION S.de R.L.DE C.V.," Perif. de la Juventud 3501, Plaza del Sol",CHIHUAHUA,CHIHUAHUA,mtto.cuu@crowncasino.mx,,CHIHUAHUA,
+CROWN_ACEITE,Casino Crown DELUVNIC (Aceite),DELUNVIC ADMINISTRACION S.de R.L.DE C.V.," Perif. de la Juventud 3501, Plaza del Sol",CHIHUAHUA,CHIHUAHUA,mtto.cuu@crowncasino.mx,,CHIHUAHUA,
+Casino_Solaz,Casino Solaz,Delunvic administracion S.A. de C.V.,Periferico de la Juventud #3501 int. J03 Puerrta de Hierro,Chihuahua,Chihuahua,mtto.cuu@solazcasino.mx,6144302115,CHIHUAHUA,Rogelio Rodriguez Ruiz
+CATALUÑA_,CATALUÑA,MANUEL ALEJANDRO MENDOZA ZUANY,AVE CANTERA 10101 COL.LA HACIENDITA CP 31216,CHIHUAHUA,CHIHUAHUA,FALIANZAVENTAS@HOTMAIL.COM,,CHIHUAHUA,
+SC_6584,CD JUAREZ EJERCITO,Nueva Walmart de Mexico S. de R.L. de C.V.,"Nextengo 78 Santa Cruz Acayucan, Azcapotzalco, C.P. 02770",JUAREZ,CHIHUAHUA,,,CHIHUAHUA,
+WM_2377,CD JUAREZ EJERCITO,Nueva Walmart de Mexico S. de R.L. de C.V.,"Nextengo 78 Santa Cruz Acayucan, Azcapotzalco, C.P. 02770",JUAREZ,CHIHUAHUA,,,CHIHUAHUA,
+BA_2224,CD. JUAREZ JILOTEPEC,Nueva Walmart de Mexico S. de R.L. de C.V.,"Nextengo 78 Santa Cruz Acayucan, Azcapotzalco, C.P. 02770",JUAREZ,CHIHUAHUA,,,CHIHUAHUA,
+WM_Sams_CUU,CEDIS SAMS CUU,Nueva Walmart de Mexico S. de R.L. de C.V.,Carretera ciudad Juarez Km 27.5 Ejido Sacramento,Chihuahua,Chihuahua,eric.chavez@walmart.com,6141802170,CHIHUAHUA,Eric Chavez
+Walmart_CUU,CEDIS Walmart CUU,Nueva Walmart de Mexico S. de R.L. de C.V.,Carretera ciudad Juarez Km 27.5 Ejido Sacramento,Chihuahua,Chihuahua,eric.chavez@walmart.com,6141802170,CHIHUAHUA,Eric Chavez
+CERVECERIA_LOCAL,Cerveceria Local,El Agua de Papa S.A. de C.V.,"Av. Diaz Ordaz, Av. Cuauhtemoc #101 C.P. 31020",Chihuahua,Chihuahua,carlosramirez190483@gmail.com,,CHIHUAHUA,Carlos Ramirez
+KTS_ELECTRIC_POWER,CFE KTS Electric,KTS Electric Power Company SAPI de C.V,"Carr. 7.8 km del suroeste del km 196-724 S/N, Horcacitas, C.P. 31622",Chihuahua,Chihuahua,gcarmen.munoz@kstmx.com,,CHIHUAHUA,Junghwan Kim
+CHIKEN_FARM,Chicken Farm,Comercializadora Grapal S. de R.L. de C.V.,"C. Catedral de mexico #3300, predio La Cantera, C.P. 31216",Chihuahua,Chihuahua,gerardo.iglesias.p@gmail.com,6141190957,CHIHUAHUA,Gerardo Iglesias
+CHICKEN_READY_16SEPTIEMBRE,Chicken Ready 16 de Septiembre,Consorcio Gallo de Mexico S de R.L. de C.V.,"Av. 16 de septiembre # 5263, Plaza Telurio C.P. 32160",Juarez,Chihuahua,,656-684-0505 y 656-684-0506,JUAREZ,
+CHICKEN_READY_LOPEZ_MATEOS,Chicken Ready Lopez Mateos,Consorcio Gallo de Mexico S. de R.L. de C.V.,"Av. López Mateos # 2050, Plaza El Paseo C.P. 32390",Juarez,Chihuahua,,656-634-0110 y 656-634-0111,JUAREZ,
+CHICKEN_READY_VALLE_DEL_SOL,Chicken Ready Valle del Sol,Consorcio Gallo de Mexico S. de R.L. de C.V.,"Calle Valle del Sol # 1071, Ejido Salvarcar C.P. 32599",Juarez,Chihuahua,,656-397-4900 y 656-397-4901,JUAREZ,
+CHILLIS_D1,Chillis Distrito 1,Las Nuevas Delicias Gastronomicas S de CV de RL,Via Trentino 5705 D1,Chihuahua,Chihuahua,D1chihuahua@chillis.com.mx,614-405-39-55,CHIHUAHUA,Ivan Payan
+CHILLIS_PLAZA_DELSOL,Chillis Plaza del sol,Las Nuevas Delicias Gastronomicas S de CV de RL,Periferico de la Juventus no.3501 Fracc Puerta de Hierro,Chihuahua,Chihuahua,psolchihuahua@chillis.com,614-184-52-00,CHIHUAHUA,German Hernandez
+CHILLIS_POLI,Chillis Politécnico,Las Nuevas Delicias Gastronomicas S. de C.V. de R.L.,Periferico de la Juventud #5301,Chihuahua,Chihuahua,chihuahua@chillis.com.mx,6144053955,CHIHUAHUA,Diego Blancarte
+CHINA_CITY_COL,China City Colon,JINFEN ZHENG,"Av. Colón 505, Zona Centro, 31000",CHIHUAHUA,CHIHUAHUA,katychenchih@gmail.com,,CHIHUAHUA,Katy Chen
+CHUCK_E_CHEESE,Chuck E. Cheese,Cecfranquicias S.A. de C.V.,"Av. Periferico de la Juventud #2200, Loc. Ex02, fracc.Haciendas del Valle C.P. 31238",Chihuahua,Chihuahua,chihuahua@cecmexico.com,6141155329,CHIHUAHUA,Hilari Rosales
+CINEPO_FASHION_ACEI,Cinépolis Fashion Mall ,"Cinépolis de México, S.A. de C.V.","Perif. de la Juventud 3501, Plaza del Sol",CHIHUAHUA,CHIHUAHUA,c_fashion_mall@cinepolis.com,,CHIHUAHUA,
+CINEPOLIS_NVA_ESPAÑA,Cinepolis Nueva España,Exhibidora Mexicana Cinepolis S.A. de C.V.,"Vialidad CH-P y Nueva España 1 #2302 int. cine, Col. Marmol 1",Chihuahua,Chihuahua,mc_pnva_espana@cinepolis.com,6144967834,CHIHUAHUA,Lizbeth Chanez
+CINEPOLIS_SENDERO,Cinepolis Plaza Sendero,Exhibidora Mexicana Cinepolis S.A. de C.V.,"Complejo industrial Chihuahua, Plaza Sendero C.P. 31136",Chihuahua,Chihuahua,jabil@cinepolis.com,6141812590,CHIHUAHUA,Jazael Martinez
+CINEPOLIS_VALLARTA,Cinepolis Vallarta,Exhibirora Mexicana Cinepolis S.A. de C.V.,Av. Zaragoza #1114 Norte 1 C.P. 31160,Chihuahua,Chihuahua,c_chihuahua@cinepolis.com,614,CHIHUAHUA,Cesar Mascorro
+CITY_SALADS_MISIONES,City Salads Misiones,Grupo Riku Restauranteros S.A. de C.V.,"C. Teofilo Borunda #8671 int 72, Col. Partido Iglesias",Juarez,Chihuahua,adm-citysalads@gmail.com,,JUAREZ,Javier Hernandez
+CLINICA_PANAMERICANA,Clinica Panamericana,Clinica Panamericana de Chihuahua S.A. de C.V.,"Antonio de Montes #6906, Col. Panamericana",Chihuahua,Chihuahua,estructurahosp@clinicapanamericana.com.mx,6141640481,CHIHUAHUA,Mario Colmenero
+COBRE_29_RAMON,Cobre 29 Ramon Rayon,Hot Shot Brands S de R.L. de C.V.,"Calle Ramón Rayon #450-2, Col. Horizontes del Sur, 32575",Juarez,Chihuahua,yeisussud@hotmail.com,656 605 3625,JUAREZ,
+COCA,Coca - Cola,Bebidas Mundiales S.A. de C.V.,Ave. Cristobal Colon # 18701 Las Carolinas,CHIHUAHUA,CHIHUAHUA,alfredo.palma@arcacontal.com,,CHIHUAHUA,
+COISA,COISA,CONSULTORES INDUSTRIALES S.A DE C.V,"Lucio Blanco No. 435, Col. San Juan Tlihuaca. CP 02400",CIUDAD DE MÉXICO D.F.,DELEGACION AZCAPOTZALCO ,,,CHIHUAHUA,
+CAMILA,Come Camila,COME CAMILA D1 SA DE CV,"Av. Via Trentino No. 5704, Distrito 1, 31114",CHIHUAHUA,CHIHUAHUA,compras@comecamila.com; administracion@comecamila.com,,CHIHUAHUA,
+CAMILA_ACEI,Come Camila (Aceite),COME CAMILA D1 SA DE CV,"Av. Via Trentino No. 5704, Distrito 1, 31114",CHIHUAHUA,CHIHUAHUA,compras@comecamila.com; administracion@comecamila.com,,CHIHUAHUA,
+CONDUCTORES_TEC_DE_JUAREZ,Conductores Tecnologicos de Juarez,"Conductores Tecnologicos de Juarez S.A. de C.V.  C.P. 32679, Planta Camargo",C. Ben Perez #9 Parque Industrial El Soldado,Camargo,Chihuahua,,,CHIHUAHUA,Valentin Leos
+CONQUISTADOR_HOTELERO,Conquistador Hotelero,Conquistador Hotelero S.A. de C.V.,"Av. Ejército Nacional # 8805, Partido Iglesias, C.P. 32528",Juarez,Chihuahua,elisaconquistador@hotmail.com,656 541 0630,JUAREZ,
+COSTCO,Costco,Costco de Mexico S.A de C.V.," Periférico de la Juventud # 7513, Misiones I Etapa, C.P. 31115",CHIHUAHUA,CHIHUAHUA,jmartinezag@costco.com.mx,,CHIHUAHUA,
+COSTILLA_MOR_ACEI,Costilla Morena,Grupo Costola S.A. de C.V.,"Ave. Tomas Valles Vivar 6910, int. 21, Col. Cima de la Cantera, Plaza Pedregales, C.P. 31226",CHIHUAHUA,CHIHUAHUA,grupocostola@gmail.com,,CHIHUAHUA,
+CRYOINFRA,Cryoinfra,CRYOINFRA DEL NORTE S.A de C.V.,"Eje Viel Juan Gabriel 4450, Paseo del Vergel. C.P.32658",Juárez,Chihuahua,,,JUAREZ,Alberto Miguel Sánchez Núñez
+VINTICH_JUV,Dark Vintich JUVENTUD,Oscar Alejandro Talamas Beltran,"Plaza Cumbres, Perif. de la Juventud s/n, Cumbres",CHIHUAHUA,CHIHUAHUA,oscar.talamas@darkvintich.com,,CHIHUAHUA,
+VINTICH_JUV_ACEI,Dark Vintich JUVENTUD (Aceite),Oscar Alejandro Talamas Beltran,"Plaza Cumbres, Perif. de la Juventud s/n, Cumbres",CHIHUAHUA,CHIHUAHUA,oscar.talamas@darkvintich.com,,CHIHUAHUA,
+DENNYS_COL_ACEI,Dennys Colón ,"PROMOTORA DE RESTAURANTES DEL NORTE, S.A. DE C.V.","Avenida Cristobal Colón 11390, Cmplejo Industrial Chihuahua, 31109 ",CHIHUAHUA,CHIHUAHUA,vaguirre@dennys.com.mx,,CHIHUAHUA,Cesar Armendariz
+DENNYS_SF,Dennys San Felipe,"PROMOTORA DE RESTAURANTES DEL NORTE, S.A. DE C.V.","Av Antonio de Montes 4301, San Felipe I Etapa, 31203",CHIHUAHUA,CHIHUAHUA,lornelas@dennys.com.mx,614413 1719,CHIHUAHUA,Lirio Ornelas
+DENNYS_SF_ACEI,Dennys San Felipe (Aceite),"PROMOTORA DE RESTAURANTES DEL NORTE, S.A. DE C.V.","Av Antonio de Montes 4301, San Felipe I Etapa, 31203",CHIHUAHUA,CHIHUAHUA,lornelas@dennys.com.mx,614413 1719,CHIHUAHUA,
+TOTA_FMALL,Doña Tota Fashion Mall,Cadena de Comida Mexicana SAPI de CV,"Perif. de la Juventud 3501, Plaza del Sol",CHIHUAHUA,CHIHUAHUA,mcisneros@donatota.com,8116871765,CHIHUAHUA,Miguel Cisneros
+DOÑA_TOTA_FM,Doña Tota Fuentes Mares,Cadena de Comida Mexicana SAPI de CV,"Centro comercial Sori, Perif. de la Juventud 5909-Int. 8, La Cantera I Etapa, 31216 Chihuahua, Chih.",Chihuahua,Chihuahua,mcisneros@donatota.com,8116871765,CHIHUAHUA,Miguel Cisneros
+DOÑA_TOTA_HOMERO,Doña Tota Homero,Cadena de Comida Mexicana SAPI de CV,Plaza de Juventus 18-19 Paseos de Chihuahua 31125,Chihuahua,Chihuahua,mcisneros@donatota.com,8116871765,CHIHUAHUA,Miguel Cisneros
+TOTA_3VIAS,Doña Tota Plaza 3 Vias,Cadena de Comida Mexicana SAPI de CV,"Av. Mirador 6305B, Campestre-Lomas, 31213",CHIHUAHUA,CHIHUAHUA,mcisneros@donatota.com,8116871765,CHIHUAHUA,Miguel Cisneros
+TOTA_SENDE,Doña Tota Plaza Sendero,Cadena de Comida Mexicana SAPI de CV,Av. de las Industrias 11377 Complejo Industrial Chihuahua 31136,CHIHUAHUA,CHIHUAHUA,mcisneros@donatota.com,8116871765,CHIHUAHUA,Miguel Cisneros
+TOTA_VALL,Doña Tota Plaza Vallarta,Cadena de Comida Mexicana SAPI de CV,"Av. Ignacio Vallarta 5902, Loc. B1, Granjas, 31100",CHIHUAHUA,CHIHUAHUA,mcisneros@donatota.com,8116871765,CHIHUAHUA,Miguel Cisneros
+DOÑA_TOTA_SACRAMENTO,Doña Tota Sacramento,Cadena de Comida Mexicana SAPI de CV,"México 45, Sacramento, 31628 Alamillo, Chih.",Chihuahua,Chihuahua,mcisneros@donatota.com,8116871765,CHIHUAHUA,Miguel Cisneros
+DOÑA_TOTA_VALLES_VIVAR,Doña Tota Valles Vivar,Cadena de Comida Mexicana SAPI de CV,,Chihuahua,Chihuahua,mcisneros@donatota.com,8116871765,CHIHUAHUA,Miguel Cisneros
+DOS_AGUAS_ACEI,Dos Aguas (Aceite),,"Vía Lombardia 5700-8, El, Saucito, 31110",CHIHUAHUA,CHIHUAHUA,rodolfoguerrerordz1@gmail.com,,CHIHUAHUA,
+DTR,DTR,"Grupo American Industries, S.A. de C.V.",AV.WASHINGTON 3701 EDIF 18 PANAMERICANA C.P. 31200,CHIHUAHUA,CHIHUAHUA,moseguera@dtrmx.com,,CHIHUAHUA,
+ECORES,Ecoresiduos,"Ecoresiduos, Desechos y Reciclados S.A de C.V.","Calle Bavicora S/N esquina con calle #147, Col. Valle de Chihuahua",CHIHUAHUA,CHIHUAHUA,,,CHIHUAHUA,
+GALLITO_MAÑANERO_CANTERA,El Gallito Mañanero Cantera,Jose de Jesus Fajardo Sandoval,Av. La Cantera #8700 Col. Las Misiones,Chihuahua,Chihuahua,facturaciongallitocantera@gmail.com,6143892690,CHIHUAHUA,
+GALLITO_MAÑANERO_CIRCUITO,El Gallito Mañanero Circuito Univ,Jose de Jesus Fajardo Sandoval,Los Nogales #2002 Paseos de la universidad Frac. Cafetales,Chihuahua,Chihuahua,facturaciongallitocantera@gmail.com,6146321753,CHIHUAHUA,
+GALLITO_MAÑANERO_CUAUHTEMOC,El Gallito Mañanero Cuauhtemoc,Sara Eliza,Av. Cuauhtemoc #3009  Col. 16 de Septiembre,Chihuahua,Chihuahua,facturaciongallitomananero@gmail.com,6144110613,CHIHUAHUA,
+MESON_CAT,El Meson de Catedral, Grupo de Enlace Empresarial Apeiron S.A de C.V.,Victoria No. 200 Centro Historico,CHIHUAHUA,CHIHUAHUA,,,CHIHUAHUA,
+EL_MUCHACHO_ALEGRE,El Muchacho Alegre,Operadora Muchacho Alegre S.A. de C.V.,Periferico de la Juventud #6112,Chihuahua,Chihuahua,tesoreria.muchalegre@gmail.com,6141886051,CHIHUAHUA,David Correa
+THAI,El Thai ,THAI COCINA ORIENTAL S DE RL DE CV,"Plaza Citadela, Periférico de la Juventud 5705, Saucito, 31110",CHIHUAHUA,CHIHUAHUA,,,CHIHUAHUA,
+el_triunfo_,EL TRIUNFO ,EL TRIUNFO LINAJE SELECTO SA DE CV  ,Calle Tercera nO. 6501 Colonia Aeropuerto ,CHIHUAHUA,CHIHUAHUA,calidad@trunfo.mx ,,CHIHUAHUA,
+VIEJO_REF_ACEI,El Viejo Refugio ,María Eugenia de la Cruz Chávez,"Plaza Comercial La Isla, Paseo Vistas del Sol 6601, Int. 14, Vista del Sol, 31217",CHIHUAHUA,CHIHUAHUA,,,CHIHUAHUA,
+ELOTELANDIA_,Elotelandia,Jorge Emilio Licon Moriel,Rincón de Valencia # 2047,Juarez,Chihuahua,elotelandia@outlook.com,656 364 3504,JUAREZ,
+ESEENI_BASU,ESEENI (Basura),SUMINISTROS ESEENI S.A. DE C.V.,"Pino 1203, Col. San Pablo C.P. 31107",CHIHUAHUA,CHIHUAHUA,ldelarosa@esseni.com,,CHIHUAHUA,
+ESTACIONAMIENTO_D1,Estacionamiento D1,Asociacion de Condominios del Corporativo Distrito 1 A.C.,C. Via Lombardia #5705,Chihuahua,Chihuahua,gabriela.reza@arasbgroup.com,6141819734,CHIHUAHUA,Karina Lugo
+FABRICA_DE_ETIQUETAS,Fabrica de Etiquetas Macias,Fabrica de Etiquetas Macias S. de R.L. de C.V.,"Chihuahua 3000, Ex Hipódromo, C.P. 32330",Juarez,Chihuahua,borimet.cxp@gmail.com,656 613 4447,JUAREZ,
+FELDER_FOODS,Felder Foods,Felder Foods S.A. de C.V.,"C. 3 #7301-3, Col. Vicente Guerrero C.P. 31105",Chihuahua,Chihuahua,mbermudez@felderfoods.com,6141848495,CHIHUAHUA,Marisa Bermudez
+FIRST_DOSTO_BASU,First Cash Dostoyevsky (Basura),First Cash S.A. De C.V.,"Fedor Dostoyevsky 310 Local 17, Plaza San Ignacio",CHIHUAHUA,CHIHUAHUA,oficios@firstcash.com karina.mendoza@firstcash.com,,CHIHUAHUA,
+FIRST_EQUUS_BASU,First Cash Equus (Basura),First Cash S.A. De C.V.,"Ave. Camino Real 8807, Local 602, Col. Camino Real",CHIHUAHUA,CHIHUAHUA,oficios@firstcash.com karina.mendoza@firstcash.com,,CHIHUAHUA,
+FIRST_GPRIETO_BASU,First Cash Guillermo Prieto (Basura),First Cash S.A. De C.V.,"Av. Prieto Lujan S/N   casi esquina con C. Hidroeléctrica Chicoasen, Col. Los Olivos",CHIHUAHUA,CHIHUAHUA,oficios@firstcash.com karina.mendoza@firstcash.com,,CHIHUAHUA,
+FIRST_JESCUTIA_BASU,First Cash Juan Escutia (Basura),First Cash S.A. De C.V.,"Ave. Juan Escutia 2910-E, Col. Jardines del Norte",CHIHUAHUA,CHIHUAHUA,oficios@firstcash.com karina.mendoza@firstcash.com,,CHIHUAHUA,
+FIRST_NOGA_IND_BASU,First Cash Nogales Industrias (Basura),First Cash S.A. De C.V.,"Vialidad Los Nogales No.3107, Fracc. Los Nogales",CHIHUAHUA,CHIHUAHUA,oficios@firstcash.com karina.mendoza@firstcash.com,,CHIHUAHUA,
+FIRST_NOGA_TEC_BASU,First Cash Nogales y Tecnológico (Basura),First Cash S.A. De C.V.,"Av. Tecnológico No. 15529, Col. Paseos de Chihuahua",CHIHUAHUA,CHIHUAHUA,oficios@firstcash.com karina.mendoza@firstcash.com,,CHIHUAHUA,
+FIRST_NVA_ESPA_BASU,First Cash Nueva España (Basura),First Cash S.A. De C.V.,"Ave. Nueva España esquina Fuentes Mares, Col. Marmol I",CHIHUAHUA,CHIHUAHUA,oficios@firstcash.com karina.mendoza@firstcash.com,,CHIHUAHUA,
+FIRST_OCAMPO_BASU,First Cash Ocampo (Basura),First Cash S.A. De C.V.,"Ave. Ocampo 5004-A, Col. Bellavista",CHIHUAHUA,CHIHUAHUA,oficios@firstcash.com karina.mendoza@firstcash.com,,CHIHUAHUA,
+FIRST_PACHECO_BASU,First Cash Pacheco (Basura),First Cash S.A. De C.V.,"Ave. Carlos Pacheco 802-A, Col. Obrera",CHIHUAHUA,CHIHUAHUA,oficios@firstcash.com karina.mendoza@firstcash.com,,CHIHUAHUA,
+FIRST_PACH_DEFPOPU_BASU,First Cash Pacheco y Defensa Popular (Basura),First Cash S.A. De C.V.,"Ave. Defensa Popular y Ave. Pacheco No. 1, Col. 2 de Octubre",CHIHUAHUA,CHIHUAHUA,oficios@firstcash.com karina.mendoza@firstcash.com,,CHIHUAHUA,
+FIRST_PERI_JUV_BASU,First Cash Periferico de la Juventud (Basura),First Cash S.A. De C.V.,"Ave. Periferico de la Juventud y Calle Abolición de la Esclavitud, Local Sublanca, Col. Loma Dorada",CHIHUAHUA,CHIHUAHUA,oficios@firstcash.com karina.mendoza@firstcash.com,,CHIHUAHUA,
+FIRST_PINABETE_BASU,First Cash Pinabete (Basura),First Cash S.A. De C.V.,"Av. Tecnológico y Calle Privada de Pinabete No. 6700, Fraccto. El Lago",CHIHUAHUA,CHIHUAHUA,oficios@firstcash.com karina.mendoza@firstcash.com,,CHIHUAHUA,
+FIRST_RALMADA_BASU,First Cash R. Almada (Basura),First Cash S.A. De C.V.,"Nueva España 3400 Esquina con R. Almada, Plaza Comercial Cerro Grande",CHIHUAHUA,CHIHUAHUA,oficios@firstcash.com karina.mendoza@firstcash.com,,CHIHUAHUA,
+FIRST_SILV_TERR_BASU,First Cash Silvestre Terrazas (Basura),First Cash S.A. De C.V.,Av. Silvestre Terrazas y C. Cuarta y Media No. 1301-A,CHIHUAHUA,CHIHUAHUA,oficios@firstcash.com karina.mendoza@firstcash.com,,CHIHUAHUA,
+Foxcon_FIH,FOXCON FIH,FIH Mexico Industry S.A. de C.V.,Av. Cristobal Colon #20301 Col. Las Aldabas C.P. 31170,Chihuahua,Chihuahua,Vanely.Cruz@foxconn.com; Vielka.Torres@foxconn.com,6144393315,CHIHUAHUA,Vielka Alejandra Torres Martinez
+FUNTASTIK,Funtastik,DIVERSIONES FUNTASTIC S DE RL DE CV,"Calle Indiana 3300, Virreyes, Campestre-Lomas, 31205",CHIHUAHUA,CHIHUAHUA,administracion@funtastic.com.mx,6144232301,CHIHUAHUA,Kenny Martinez
+FUNTASTIK_ACEI,Funtastik (Aceite),DIVERSIONES FUNTASTIC S DE RL DE CV,"Calle Indiana 3300, Virreyes, Campestre-Lomas, 31205",CHIHUAHUA,CHIHUAHUA,administracion@funtastic.com.mx,6144232301,CHIHUAHUA,
+GALLITO_MAÑANERO_CANTERA,Gallito Mañanero Cantera,Jose de Jesus Fajardo Sandoval,Av. la cantera 8700 Col las misiones ,Chihuahua,Chihuahua,facturaciongallitocantera@gmail.com,6143892690,CHIHUAHUA,Jose de Jesus Fajardo
+GALLITO_MAÑANERO_CUAUHTEMOC,Gallito Mañanero Cuauhtemoc,Sara eliza,Av. Cuauhtemoc 3009 Col. 16 de septiembre,Chihuahua,Chihuahua,facturaciongallitocantera@gmail.com,6144110613,CHIHUAHUA,Sara Elisa
+GALLITO_MAÑANERO_NORTE,Gallito Mañanero Norte,Jose de Jesus Fajardo Sandoval,Los nogales 2002 paseo de la universidad Fracc. cafetales,Chihuahua,Chihuahua,facturaciongallitocantera@gmail.com,6146321753,CHIHUAHUA,Jose de Jesus Fajardo
+GARUFA,Garufa,VIMALEXA DE CHIHUAHUA S DE RL DE CV,"Perif. de la Juventud 3108, Haciendas I, 31215",CHIHUAHUA,CHIHUAHUA,garufa.chih@gmail.com,6144300417,CHIHUAHUA,Roberto Carrera
+GASOLINERA_PINOSALTOS,Gasolinera Pinos Altos,Combustibles Pinos Altos SA de CV,km 14/2 carretera chihuahua-cuauhtemoc,Chihuahua,Chihuahua,robert_siga@hotmail.com,6142547964,CHIHUAHUA,Roberto Carrera
+GASOLINERA_PINOS_ALTOS,Gasolinera Pinos Altos,Combustibles Pinos Altos S.A. de C.V.,Km 14 1/2 Carretera Chihuahua - Cuauhtemoc,Chihuahua,Chihuahua,robert_siga@hotmail.com,6142547964,CHIHUAHUA,Roberto Carrera
+GASTROTECA,Gastroteca Marcelino,Grupo Levain,Perif. de la juventud 6900 int 6 y 7,Chihuahua,Chihuahua,habib@grupolevain.com,6141038007,CHIHUAHUA,Habib Hepo
+Golden_Wa,Golden Wa (plaza galerias),Elda Oralia García Talamantes,"Antonio de Montes y Blvd. Ortiz Mena S/N C.P. 31230  Unidad Presidentes Chihuahua, Chih.",CHIHUAHUA,CHIHUAHUA,administración@plazagalerias.mx,,CHIHUAHUA,
+Gorditas,Gorditas (plaza galerias),Martha Denysh Solis Payan,Antonio de Montes y Blvd. Ortiz Mena S/N Int. B-8 UNIDAD PRESIDENTES CHIHUAHUA. CHIH C.P 31230,CHIHUAHUA,CHIHUAHUA,administración@plazagalerias.mx,,CHIHUAHUA,
+GORDITAS_LILY_NVAESPAÑA,Gorditas Lily Nva España,Lidia Hernandez Esquivel,Av. Nueva España #2300 Col. Marmol C.P. 31063,Chihuahua,Chihuahua,gorditaslily98@gmail.com,6391192334,CHIHUAHUA,Juan Carlos Hernandez
+GORDITAS_LILY_TEC,Gorditas Lily Tecnologico,Lidia Hernandez Esquivel,"Av. Tecnologico #4101, Las Granjas, CP 31100 Plaza San Agustin",Chihuahua,Chihuahua,gorditaslily98@gmail.com,639 119 23 34,CHIHUAHUA,Juan Carlos Hernandez
+GORDITAS_LILY_TECNOLOGICO,Gorditas Lily Tecnologico,Lidia Hernandez Esquivel,Av. Tecnologico #4101 Col. Las Granjas C.P. 31100,Chihuahua,Chihuahua,gorditaslily89@gmail.com,6391192334,CHIHUAHUA,Juan Carlos Hernandez
+GREAT_AMERICAN_STEAK,Great American Steak,RESTAURANTES GA DEL BAJIO SA DE CV ,Perif. de la juventud 3915 planta baja local R1,Chihuahua,Chihuahua,agomez@gasteakhouse.com y ebarrientos@gasteakhouse.com,656 215 69 67,CHIHUAHUA,Eugenio Barrientos y Arturo Gomez
+GRUAS_SAN_MARCOS,Gruas San Marcos,Yonke san marcos S.A de C.V.,C. San antonio #2628 Col las animas,Chihuahua,Chihuahua,compras@gruposanmarcos.com,6144922222,CHIHUAHUA,Ana Gomez
+GRUAS_SAN_MARCOS,Gruas San Marcos,Yonke San Marcos S.A. de C.V.,C. San Antonio #2628 Col. Las Animas,Chihuahua,Chihuahua,compras@gruposanmarcos.com,6144922222,CHIHUAHUA,Ana Gomez
+GRUPO_FELDER_FOODS,Grupo Felder Foods,Felder Foods S.A. de C.V.,C. 3 #7301-3 Col. Vicente guerrero cp 31105,Chihuahua,Chihuahua,mbermudez@felderfoods.com,614 184 84 95,CHIHUAHUA,Marissa Bermudez
+GULA_SENECU,Gula Senecu,Adrian Alberto Modesto Gonzalez,"Av. Antonio J Bermudez #8770 Int. 6, Parque Industrial Antonio J Bermudez, C.P. 32470",Juarez,Chihuahua,modestogaa@icloud.com,656 325 24 58,JUAREZ,
+HOLI_MOLI_ACEI,Holi Moli (Aceite),IRMA ESTRADA PIÑON,"Gomez Morin #7983, C.P. 32460",JUAREZ,CHIHUAHUA,holimoliconta@gmail.com,,CHIHUAHUA,
+HONEYW,HONEYWELL PLANTA SUR,HONEYWELL PLANTA SUR,Av Tabalaopa No. 8507 Parque Industrial Avalos,CHIHUAHUA,CHIHUAHUA,"Alejandro.Morales2@Honeywell.com; González Chávez, mayra-vanessa.gonzalez@veolia.com",,CHIHUAHUA,
+HOSPITAL_PALMORE,Hospital Palmore,Sanatorio Palmore A.C.,Av. Zarco No.3001 Colonia Zarco CP 31020,Chihuahua,Chihuahua,lydiacazares@sanatoriopalmore.mx y roberto.anchondo@sanatoriopalmore.mx,6144182071 ext 139,CHIHUAHUA,Roberto Anchondo
+HOSPITAL_SANTA_MARIA,Hospital Santa Maria,Hospital Santa Maria de Guadalupe Ciudad juarez A.C.,"Boulevard Zaragoza # 423 Cuidad, Moderna, C.P. 32670",Juarez,Chihuahua,compras@hospitalsantamariaac.mx y jefaturaservicios@hospitalsantamariaac.mx,656 633 5695,JUAREZ,
+CG_CHI,Hotel Casa Grande Chihuahua,Hotel Casa Grande Chihuahua, Av. Tecnológico # 4702 Colonia Las Granjas C.P. 31160,CHIHUAHUA,CHIHUAHUA,,,CHIHUAHUA,
+HOTEL_CONTINENTAL,Hotel Continental,Hotel Continental S.A. de C.V.,"Av Lerdo # 112, Monumento, C.P. 32000",Juarez,Chihuahua,operacioneslalo@gmail.com y hotel_continental1@hotmail.com,656 615 0084,JUAREZ,
+Hotel_Fiesta_Inn,Hotel Fiesta Inn,Controladora Hotelera POH S.A. de C.V.,Av. De la Juventud #3501 esq. con Av. Politecnico nacional Fracc. Puerta de Hierro,Chihuahua,Chihuahua,mantofichp@posadas.com,9824336857,CHIHUAHUA,Sergio del Carmen Muñoz
+HOTE_HAMPTON,Hotel Hampton,DEUTSHE BANK MEXICO S.A.,PERIFERICO DE LA JUVENTUD 6100 FRAC. LAS HACIENDAS,CHIHUAHUA,CHIHUAHUA,david.torres@hotelesprisma.com,6144883656,CHIHUAHUA,David Torres
+HAMPTON,Hotel Hampton Inn,"DEUTSCHE BANK MEXICO, S.A. INST BANCA MULTIPLE DIV FID F1616","Perif. de la Juventud 6100, Campesina Nueva, 31236",CHIHUAHUA,CHIHUAHUA,david.torres@hotelesprisma.com,6144883656,CHIHUAHUA,David Torres
+HAMPTON_BASU,Hotel Hampton Inn (Basura),"DEUTSCHE BANK MEXICO, S.A. INST BANCA MULTIPLE DIV FID F1616","Perif. de la Juventud 6100, Campesina Nueva, 31236",CHIHUAHUA,CHIHUAHUA,david.torres@hotelesprisma.com,6144883656,CHIHUAHUA,David Torres
+HOTEL_HILTON,Hotel Hilton,OPERADORA DE HOTELES ITV SA DE CV,"Av. Perifèrico de la Juventud No 5915, Chihuhahua, Chih C.P 31216",CHIHUAHUA,CHIHUAHUA,christopher.meneses@hilton.com y nestor.rodriguez@hilton.com,6143112530,CHIHUAHUA,Nestor Rodriguez
+HOLI_INN,Hotel Holiday Inn Escudero,"TINGA, S.A. DE C.V","Calle Escudero 702, San Felipe I Etapa, 31203",CHIHUAHUA,CHIHUAHUA,casaclub@holidaychih.net,,CHIHUAHUA,
+HOLI_INN_ACEI,Hotel Holiday Inn Escudero (Aceite),"TINGA, S.A. DE C.V","Calle Escudero 702, San Felipe I Etapa, 31203",CHIHUAHUA,CHIHUAHUA,casaclub@holidaychih.net,,CHIHUAHUA,
+HOTEL_HOLIDAY_INN_JUAREZ,Hotel Holiday Inn Express Juarez,Fideicomiso Irrevocable DB/1616,"Av. Paseo de la Victoria # 4202 Col, Partido Iglesias, C.P. 32528",Juarez,Chihuahua,,656 692 5100,JUAREZ,
+HOTEL_HOLIDAY_INN_TECNO_JUAREZ,Hotel Holiday Inn Tecnologico Juarez,Fideicomiso Irrevocable DB/1616,"Av. Tecnológico # 3620 Col, Partido Iglesias, C.P. 32617",Juarez,Chihuahua,,656 629 4000,JUAREZ,
+IBIS,Hotel Ibis,Promotora Plaza Demo S.A. de C.V.,Segunda N° 4 Col. Centro C.P. 31000,CHIHUAHUA,CHIHUAHUA,,,CHIHUAHUA,
+hotel_marriot_,Hotel Marriot,Fideicomiso Irrevocable DB/1616,"Via Lombardia, Citadela #5702-D1. Col. Saucito C.P. 31110",CHIHUAHUA,CHIHUAHUA,raul.mendoza@hotelesprisma.com, 614 311 0200,CHIHUAHUA,Raul Mendoza
+HOTEL_REALINN_JUAREZ,Hotel Real Inn Juarez,Administradora de Hoteles GRT S.A. de C.V.,"Blvd. Teofilo Borunda #6941, Col. Partido Iglesias C.P. 32618",Juarez,Chihuahua,contraloria.cdj@hotelesrealinn.com y mantenimiento.cdj@hotelesrealinn.com,6562276300,JUAREZ,Elizabeth Ortiz
+HOTEL_REAL_INN_TEOFILO,Hotel Real Inn Teofilo B,Administradora de Hoteles GRT  S.A. de C.V.,"Blvd. Teófilo Borunda # 6941, Acequias del Sur, C.P. 32617",Juarez,Chihuahua,administracion@cchotel.mx y proveedores@cchotel.mx,656 227 6300,JUAREZ,
+SHERATON_ACEI,Hotel Sheraton (Aceite),Hoteles Real de Chihuahua S.A. de C.V.,"Calle Barranca del Cobre 3211, Fracc. Barrancas C.P. 31450",CHIHUAHUA,CHIHUAHUA,israel.martinez@sheratonchihuahuasoberano.com; salma.salais@sheratonchihuahuasoberano.com,,CHIHUAHUA,Genaro Nuñez Martinez
+SHERATON_BA,Hotel Sheraton (Basura),Hoteles Real de Chihuahua S.A. de C.V.,"Calle Barranca del Cobre 3211, Fracc. Barrancas C.P. 31450",CHIHUAHUA,CHIHUAHUA,israel.martinez@sheratonchihuahuasoberano.com; salma.salais@sheratonchihuahuasoberano.com,,CHIHUAHUA,Genaro Nuñez Martinez
+SHERATON,Hotel Sheraton (Grasa),Hoteles Real de Chihuahua S.A. de C.V.,"Calle Barranca del Cobre 3211, Fracc. Barrancas C.P. 31450",CHIHUAHUA,CHIHUAHUA,israel.martinez@sheratonchihuahuasoberano.com; salma.salais@sheratonchihuahuasoberano.com,,CHIHUAHUA,Genaro Nuñez Martinez
+SNTENARIO,HOTEL SNTENARIO,Operadora XVIII de Diciembre S.A de C.V.,"Av. Homero 340, Revolución, 31135",CHIHUAHUA,CHIHUAHUA,reservaciones@hotelsntenario.com,6144810099,CHIHUAHUA,Eva Gardea
+HOTEL_TRYP,HOTEL TRYP (ACEITE),GRUPO INMOBILIARIO HOTELERO ABC GALAXYZ,HACIENDA DE SAN BERNABE C.P 57130 ,NEZAHUALCOYOTL,CIUDAD DE MEXICO,compras@trypmexicowtc.com.mx,,CHIHUAHUA,
+ICA_,ICA Constructora,ICA Constructora S.A. de C.V.,Carretera Panamericana km 18.5 Zona Federal,Juarez,Chihuahua,carlos.esponda@ica.mx,,JUAREZ,Carlos Esponda
+ICA_CONSTRUCTORA,ICA Constructora,ICA Constructora S.A. de C.V.,Carretera Panamericana km 18.5 Zona Federal,Juarez,Chihuahua,alejandro.lopezm@ica.mx,662 345 29 31,JUAREZ,Alejandro Lopez
+IGASAMEX_FLU_CORT,IGASAMEX,IGASAMEX SAN JOSE ITURBIDE S. DE R.L. DE C.V.,Bosques de Alisos No. 47 Modulo A2 51 Col. Bosques de las Lomas,CUAJIMALPA DE MORELOS,CIUDAD DE MEXICO,proticon@barrenacion.com,,CHIHUAHUA,
+IMAP_COLOR,IMAP,IMAPCOLOR S.A. de C.V.,"Luis G. Urbina #130, Complejo industrial Chihuahua C.P. 31136",Chihuahua,Chihuahua,seguridadambiental@imapcolor.com,6143883600 ext 104,CHIHUAHUA,Ana Ortega
+INGRATA,Ingrata,Jose Humberto Ramirez Espinoza,"Av. Valle del Sol #1950, Loc. 12, 13 y 14, Fracc. Cantera",Juarez,Chihuahua,,656 233 06 89,JUAREZ,Victor Muñoz Rodriguez
+INNOVAK,Innovak Global (Agua Residual),"Productos Químicos de Chihuahua, S.A. de C.V.","Blvd. Vicente Lombardo Toledano 6615, Concordia, 31375 ",CHIHUAHUA,CHIHUAHUA,jbeara@gcc.com; jbeara@icloud.com,,CHIHUAHUA,
+INTERCERAMIC_5,INTERCERAMIC Planta 5,OPERACION Y MANUFACTURA INTERCERAMIC SA DE CV,"AV CARLOS PACHECO 7200, Madera 65 C.P. 31060",CHIHUAHUA,CHIHUAHUA,dansanchez@interceramic.com,,CHIHUAHUA,
+INTERCERAMIC_8_9,INTERCERAMIC Planta 8 y 9,OPERACION Y MANUFACTURA INTERCERAMIC SA DE CV,Ave. Alejandro Dumas y espuelas del ferrocarril S/N C.P. 31136,CHIHUAHUA,CHIHUAHUA,dansanchez@interceramic.com,,CHIHUAHUA,
+IT_STAFF_BASU,IT Staff (Basura),"Information Technology Staff, S. de R.L. de C.V.","Calle Mercurio 3701-A, Col. Nombre de Dios",CHIHUAHUA,CHIHUAHUA,,,CHIHUAHUA,
+JUMEX_SEPT,JUMEX,Jugomex S.A de C.V.,"Carretera CHIHUAHUA - HERMOSILLO kilómetro 145, #0, Int. 0, Pueblo El Rosario",GUERRERO,CHIHUAHUA,hpalmap@jumex.com.mx; ypminerot@jumex.com.mx; maposadam@jumex.com.mx; icorral@jumex.com.mx,,CHIHUAHUA,
+KABUKI_,Kabuki,Aidaly Caballero Perez,C. Paseos Vistas del Sol #6801 Local 1 Col. Vistas del Sol C.P. 31206,Chihuahua,Chihuahua,aidalyy@hotmail.com,6145669370,CHIHUAHUA,Aidaly Caballero
+KALISH_AERO,Kalish Chatarra Aeropuerto,Kalischatarra S. de R. L. de C. V.,"Juan Pablo II No. 17101, Col. Tabalaopa, C.P. 31384",CHIHUAHUA,CHIHUAHUA,hector.pizarro@kchatarra.com,,CHIHUAHUA,
+KENWORTH_SUR,Kenworth Sur,Tractocamiones Kenworth de Chihuahua S.A. de C.V.,Blvd. Jose Fuentes Mares 2 km SN Division del Norte C.P. 31064,Chihuahua,Chihuahua,brenda.ochoa@kenworthchihuahua.com.mx y sonia.carrillo@kenworthchihuahua.com.mx,614 429 61 30,CHIHUAHUA,Brenda Ochoa
+KFC_CUAU,KFC CUAUHTEMOC,ADMINISTRADORA AHMAN SA. DE CV. ,GUERRERO NO. 100 COLONIA CENTRO C.P. 31500,CUAUHTÉMOC,CHIHUAHUA,,,CHIHUAHUA,
+KFC_DOSTO,KFC Dostoyevski,Premium Restaurant Brands S. de R.L. de C.V.,"Av. Fedor Dostoyevsky 2100, Alamedas IV Etapa, 31136",CHIHUAHUA,CHIHUAHUA,mx0691r@prb.com.mx,,CHIHUAHUA,
+KFC_EJERCITO,KFC Ejercito,Premium Restaurant Brands S. de R.L. de C.V.,"Av. Ejército Nacional # 6730, Col. Del Márquez, C.P. 32607",Juarez,Chihuahua,elena.flores@prb.com.mx y johansebastian.peinado@prb.com.mx,55 1515 4747,JUAREZ,Elena Flores
+KFC_FM,KFC Fuentes Mares,Premium Restaurant Brands S. de R.L. de C.V.,"Blvd. J. Fuentes Mares 8424, Mármol Viejo, 31063",CHIHUAHUA,CHIHUAHUA,mx0687r@prb.com.mx,,CHIHUAHUA,
+KFC_HOLLY,KFC Hollywood,Premium Restaurant Brands S. de R.L. de C.V.,"Plaza Hollywood, Av. Hacienda del Valle 7106, Haciendas del Valle Etapa III, 31217",CHIHUAHUA,CHIHUAHUA,mx0657r@prb.com.mx,,CHIHUAHUA,
+KFC_SIERRA,KFC La Sierra,Premium Restaurant Brands S. de R.L. de C.V.,"Plaza La Sierra, Silvestre Terrazas s/n, Ramón Reyes, 31414",CHIHUAHUA,CHIHUAHUA,mx0655r@prb.com.mx,,CHIHUAHUA,
+KFC_TORRES_SENDERO,KFC Las Torres Sendero,Premium Restaurant Brands S. de R.L. de C.V.,"Avenida Las Torres #2111 Local E Col, Lote Bravo, 32575",Juarez,Chihuahua,elena.flores@prb.com.mx johansebastian.peinado@prb.com.mx,55 1515 4747,JUAREZ,Elena Flores
+KFC_LIB,KFC Libertad,Premium Restaurant Brands S. de R.L. de C.V.,"Calle Libertad 107, Zona Centro, 31000",CHIHUAHUA,CHIHUAHUA,mx0656r@prb.com.mx,,CHIHUAHUA,
+KFC_LOMAS,KFC Lomas,Premium Restaurant Brands S. de R.L. de C.V.,"Blvrd Zaragoza # 6235, Colinas de Juárez Fraccionamiento, C.P. 32680",Juarez,Chihuahua,elena.flores@prb.com.mx johansebastian.peinado@prb.com.mx,656 515 4747,JUAREZ,Elena Flores
+KFC_LOPEZ_MATEOS,KFC Lopez Mateos,Premium Restaurant Brands S. de R.L. de C.V.,"Centro Comercial Lopez Mateos, Reforma, C.P. 32600",Juarez,Chihuahua,elena.flores@prb.com.mx johansebastian.peinado@prb.com.mx,656 792 7182,JUAREZ,Elena Flores
+KFC_MISIONES,KFC Misiones,Premium Restaurant Brands S. de R.L. de C.V.,"Blvd. Teófilo Borunda # 8670, 91,  C.P. 03100 ",Juarez,Chihuahua,elena.flores@prb.com.mx johansebastian.peinado@prb.com.mx,,JUAREZ,Elena Flores
+KFC_PASEO_TRIUNFO,KFC Paseo Triunfo,Premium Restaurant Brands S. de R.L. de C.V.,"Av. Paseo Triunfo de la República 5035, Monumental, 32310",Juarez,Chihuahua,elena.flores@prb.com.mx johansebastian.peinado@prb.com.mx,55 1515 4747,JUAREZ,Elena Flores
+KFC_PUERTO_DE_PALOS,KFC Puerto de Palos,Premium Restaurant Brands S. de R.L. de C.V.,"Colonia Valles de America, C. Puerto Palma #1703, C.P. 32599",Juarez,Chihuahua,elena.flores@prb.com.mx johansebastian.peinado@prb.com.mx,55 1515 4747,JUAREZ,Elena Flores
+KFC_SAN_PEDRO,KFC San Pedro,Premium Restaurant Brands S. de R.L. de C.V.,"Valle de San Pedro, 31125 ",Chihuahua,Chihuahua,mx0699r@prb.com.mx,6141919362,CHIHUAHUA,Liliana Ramirez
+KFC_SENDERO,KFC Sendero,Premium Restaurant Brands S. de R.L. de C.V.,"Av. Fedor Dostoievsky #2100, Col. Alamedas C.P. 31136",Chihuahua,Chihuahua,febronio.velazquez@prb.com.mx y oscar.sigala@prb.com.mx,6141638105,CHIHUAHUA,Febronio Velazquez
+KFC_UNI,KFC Universidad,Premium Restaurant Brands S. de R.L. de C.V.,"Av. Universidad s/n, Centro",CHIHUAHUA,CHIHUAHUA,mx0643r@prb.com.mx,,CHIHUAHUA,
+KFC_VALL,KFC Vallarta,Premium Restaurant Brands S. de R.L. de C.V.,"Avenida Instituto Tecnológico 5717, Colonia Granjas, Las Granjas, 31100",CHIHUAHUA,CHIHUAHUA,mx0658r@prb.com.mx,,CHIHUAHUA,123
+KOLHOUSE_,Kolhouse,Distribuidora 30 de Junio S.A. de C.V.,"C. Catedral de guadalajara #8307, Col. Cantera del Pedregal, C.P. 31216",Chihuahua,Chihuahua,facturakolhaus@gmail.com y persianas.distribuidora@gmail.com,614 109 28 31,CHIHUAHUA,Minerva
+LA_BIKINA,La Bikina,Cerveceris 21 S.A. de C.V.,"Paseos Vistas del Sol #3709 Loc 2, Col. Vistas del Sol",Chihuahua,Chihuahua,duartechili@hotmail.com,6141172037,CHIHUAHUA,Sergio Duarte
+CASONA,La Casona,Operadora Restaurantera de Chihuahua S. de R.L. de C.V.,"Av. Melchor Ocampo 430, Zona Centro, 31000",CHIHUAHUA,CHIHUAHUA,edgarramos@casona.com.mx,6144100063,CHIHUAHUA,Edgar Ramos
+CENTRAL,La Central,Alimentos Hechos con Amor S.A. de C.V.,"Calle Independencia 408, Zona Centro, 03100",CHIHUAHUA,CHIHUAHUA,,,CHIHUAHUA,
+La_Jaiba_Feliz,La Jaiba Centro,Cristina Salas Molina RFC SAMC8306125Q5,C. Aldama #117 Col. Centro,Chihuahua,Chihuahua,mariscoslajaibafeliz@gmail.com,6144907218,CHIHUAHUA,Oscar A. Salas Molina
+La_Jaiba_Juventud,La Jaiba Juventud,Julieta Molina Saenz RFC MOSJ6007302P1,Blv. de la Juventud #401 Local #17 Col. Paseos de chihuahua,Chihuahua,Chihuahua,mariscoslajaibafeliz@gmail.com,6141795854,CHIHUAHUA,Oscar A. Salas Molina
+La_Jaiba_Portales,La Jaiba Portales,Daniela Salas Molina RFC SAMD950419A55,C. Arcos de las estrellas #17101 Local #12 Col. Portales,Chihuahua,Chihuahua,mariscoslajaibafeliz@gmail.com,6144937113,CHIHUAHUA,Oscar A. Salas Molina
+MANSION,La Mansion,Grupo Restaurantero del Centro SA de CV,"Local 16 Plaza Las Palmas -Periférico de la Juventud 5905, Plaza del Sol, 31217",CHIHUAHUA,CHIHUAHUA,,,CHIHUAHUA,
+LALA,LALA,Comercializadora de Lacteos y Derivados S.A. DE C.V.,Ave. Miguel Barragan y Juan Ruiz de Alarcon,CHIHUAHUA,CHIHUAHUA,,,CHIHUAHUA,
+LAS_ALITAS_PALMAS,Las Alitas Las Palmas,Grupo Rusander S.A. de C.V.,Periferico de la Juventud #5905 Local 6 Las Haciendas C.P. 31215,Chihuahua,Chihuahua,lrosales@grupofercamx.com,6145415140,CHIHUAHUA,6145415140
+LAS_ALITAS_MIRADOR,Las Alitas Mirador,Grupo Rusander S.A. de C.V.,Blvd. Ortiz Mena #1821 Mirador Virreyes C.P. 31214,Chihuahua,Chihuahua,lrosales@grupofercamx.com,6145415140,CHIHUAHUA,Lic. Laura Rosales
+LAZ_CARD,LAZARO CARDENAS,BUENAVENTURA AUTOPARTES SA DE CV,CONTINUACION CALLE EMILIANO VAZQUEZ No 101 COL. BARRANCO BLANCO,ROSALES,CHIHUAHUA,,,CHIHUAHUA,
+LEAR_AM,LEAR AMERICAS, LEAR ELECTRICAL SYSTEMS DE MEXICO S DE RL DE CV,PROLONG. AV. AMERICAS CALLE CIRCUITO ELECTRONICA #5 PARQUE IND. LAS AMERICAS,CHIHUAHUA,CHIHUAHUA,mgarcia04@lear.com y JReyPortillo@lear.com,,CHIHUAHUA,
+Lear_Meoqui,Lear Meoqui,Lear Mexican Trim Operations S. de R.L. de C.V.  (Planta Meoqui),Calle J.C. Viramontes #100 C.P. 33130 entre calle bugambilias y juarez en municipio de Pedro Meoqui,Chihuahua,Chihuahua,mguerrero@heritage-interactive.com,,CHIHUAHUA,Victor Ornelas
+LEAR_ZAR,LEAR NOVA, LEAR ELECTRICAL SYSTEMS DE MEXICO S DE RL DE CV,IGNACIO ZARAGOZA #1700,CHIHUAHUA,CHIHUAHUA,fortega@lear.com,,CHIHUAHUA,
+Lear_Nova_P2,LEAR NOVA P2,Lear Electrical Systems de Mexico S de R.L. de C.V.,C. Ignacio Zaragoza #1700 C.P. 31160,Chihuahua,Chihuahua,fortega@lear.com,,CHIHUAHUA,
+ARBOL,Los Arbolitos de Cajeme, OPERADORA DE ALIMENTOS DOS AGUAS SA DE CV,PERIFERICO DE LA JUVENTUD No. 6900 Int. No. LOCAL 1 TERCER NIVEL,CHIHUAHUA,CHIHUAHUA,losarbolitos.cuu@hotmail.com,6143888280,CHIHUAHUA,Esteban Salazar Gajon
+ARBOL_ACEI,Los Arbolitos de Cajeme (Aceite), OPERADORA DE ALIMENTOS DOS AGUAS SA DE CV,PERIFERICO DE LA JUVENTUD No. 6900 Int. No. LOCAL 1 TERCER NIVEL,CHIHUAHUA,CHIHUAHUA,losarbolitos.cuu@hotmail.com,6143888280,CHIHUAHUA,Esteban Salazar Gajon
+LUIS JAVIER CARRASCO CARRASCO,LUIS JAVIER CARRASCO CARRASCO,LUIS JAVIER CARRASCO CARRASCO,VICENTE GUERRERO 913-A COLONIA CENTRO C.P. 33700,CAMARGO,CHIHUAHUA,BUFFALOWINGSCOMPANY6@GMAIL.COM,,CHIHUAHUA,
+LUPERCA_,Luperca,Edgar De Leon Vargas,"Av. Antonio J Bermudez #8770 Loc. 10, Parque Industrial Antonio J Bermudez",Juarez,Chihuahua,lupercarestaurante@gmail.com,656 176 65 00,JUAREZ,
+LUTRON,LUTRON,LUTRON CNC S DE RL DE CV  Edificio 1,"Avendia rudyard kipling 11530, Complejo Industrial Chihuahua, 31109",CHIHUAHUA,CHIHUAHUA,"ptalavera@lutron.com, aarcarlos@lutron.com y amcazares@lutron.com",,CHIHUAHUA,
+Lutron_P2,LUTRON PLANTA 2,Lutron CNC S de R.L. de C.V.  Edificio 2,Av. Rudyard Kipling #11530 Complejo Industrial Chihuahua  C.P. 31109,Chihuahua,Chihuahua,ptalavera@lutron.com,,CHIHUAHUA,
+MANDARIN_CHINA,Mandarín China,Mandarin China,Av. Ortíz Mena y antoni de Montes No. 401 Local 12 Plaza Galerias Col. Presidentes,CHIHUAHUA,CHIHUAHUA,,,CHIHUAHUA,
+MANDA_CHIN_EXTER,Mandarin China (Externa),Mandarin China,Av. Ortíz Mena y antoni de Montes No. 401 Local 12 Plaza Galerias Col. Presidentes,CHIHUAHUA,CHIHUAHUA,,,CHIHUAHUA,
+MANDA_CHIN_INTER,Mandarin China (Interna),Mandarin China,Av. Ortíz Mena y antoni de Montes No. 401 Local 12 Plaza Galerias Col. Presidentes,CHIHUAHUA,CHIHUAHUA,,,CHIHUAHUA,
+MANESA_P1,Manesa Planta 1,Manufacturas Estampadas S.A. de C.V.,"C. Juan Ruiz de Alarcon #305, Complejo Industrial Chihuahua, C.P. 31136",Chihuahua,Chihuahua,,614 104 80 40,CHIHUAHUA,Pamela Garcia
+MANESA_P2,Manesa Planta 2,Manufacturas Estampadas S.A. de C.V.,"C. Rudyard Kipling # 11504, Complejo Industrial Chihuahua, C.P. 31136",Chihuahua,Chihuahua,,614 104 80 40,CHIHUAHUA,Pamela Garcia
+MANESA_P3,Manesa Planta 3,Manufacturas Estampadas S.A. de C.V.,"C. Oscar Wilde # 11398, Complejo Industrial Chihuahua, C.P. 31136",Chihuahua,Chihuahua,,614 104 80 40,CHIHUAHUA,Pamela Garcia
+JAIBA_ARC_ACEI,Mariscos La Jaiba Feliz Arcos (Aceite),Daniela Salas Molina,"Calle Portal de Ébano 17101, Los Arcos, 31137",CHIHUAHUA,CHIHUAHUA,mariscoslajaibafeliz@gmail.com,,CHIHUAHUA,
+JAIBA_JUV_ACEI,Mariscos La Jaiba Feliz Juventud (Aceite),Mariscos La Jaiba Feliz,"Plaza Juventud, Av. Homero s/n, Paseos de Chihuahua, 31125 ",CHIHUAHUA,CHIHUAHUA,mariscoslajaibafeliz@gmail.com,,CHIHUAHUA,
+JAIBA_TEC_ACEI,Mariscos La Jaiba Feliz Tecnológico (Aceite),Oscar Armando Salas Molina,"Plaza San Francisco, Av. Tecnologico 5708, Parral, 31030",CHIHUAHUA,CHIHUAHUA,mariscoslajaibafeliz@gmail.com,,CHIHUAHUA,
+MCARTH_SATEL_ACEI,McCarthys Cd. Satelite (Aceite),Chianti Cafe SA de CV,"Manuel Izaguirre #8 (339,54 km) 531000 Ciudad Satélite, Mexico",NAUCALPAN,ESTADO DE MÉXICO,,,CHIHUAHUA,
+MCARTH_SATEL,McCarthys Cd. Satelite (Grasa),Chianti Cafe SA de CV,"Manuel Izaguirre #8 (339,54 km) 531000 Ciudad Satélite, Mexico",NAUCALPAN,ESTADO DE MÉXICO,,,CHIHUAHUA,
+MCARTH_ECAT_ACEI,McCarthys Ecatepec (Aceite),Free and Green SA de CV,Plaza Paseo Ventura) Av. Insurgentes #20 esquina paseo de las Américas. Fraccionamiento Las Américas. ,ECATEPEC,ESTADO DE MÉXICO,,,CHIHUAHUA,
+MCARTH_ECAT,McCarthys Ecatepec (Grasa),Free and Green SA de CV,Plaza Paseo Ventura) Av. Insurgentes #20 esquina paseo de las Américas. Fraccionamiento Las Américas. ,ECATEPEC,ESTADO DE MÉXICO,,,CHIHUAHUA,
+MCARTH_METE_ACEI,McCarthys Metepec  (Aceite),Free and Green SA de CV,"Av. Benito Juárez #907 entre Estefanías y Leona Vicario, colonia la purisima Metepec, Estado de México",METEPEC,ESTADO DE MÉXICO,,,CHIHUAHUA,
+MCARTH_METE,McCarthys Metepec  (Grasa),Free and Green SA de CV,"Av. Benito Juárez #907 entre Estefanías y Leona Vicario, colonia la purisima Metepec, Estado de México",METEPEC,ESTADO DE MÉXICO,,,CHIHUAHUA,
+MCARTH_NAPO_ACEI,McCarthys Napoles (CDMX) (Aceite),Free and Green SA de CV,Av. Insurgentes sur # 573 Col. Napoles CDMX,CIUDAD DE MÉXICO D.F.,DELEGACIÓN BENITO JUÁREZ,,,CHIHUAHUA,
+MCARTH_NAPO,McCarthys Napoles (CDMX) (Grasa),Free and Green SA de CV,Av. Insurgentes sur # 573 Col. Napoles CDMX,CIUDAD DE MÉXICO D.F.,DELEGACIÓN BENITO JUÁREZ,,,CHIHUAHUA,
+MCARTH_PACH_ACEI,McCarthys Pachuca (Aceite),Free and Green SA de CV,"AV. CAMINO REAL DE LA PLATA # 70 COL. ZONA PLATEADA, PACHUCA HIDALGO",PACHUCA,HIDALGO,,,CHIHUAHUA,
+MCARTH_PACH,McCarthys Pachuca (Grasa),Free and Green SA de CV,"AV. CAMINO REAL DE LA PLATA # 70 COL. ZONA PLATEADA, PACHUCA HIDALGO",PACHUCA,HIDALGO,,,CHIHUAHUA,
+MCARTH_TEX_ACEI,McCarthys Texcoco (Aceite),Free and Green SA de CV,"Carretera Federal México Texcoco 30.5, Santiago Cuautlalpan, Texcoco",TEXCOCO,ESTADO DE MÉXICO,,,CHIHUAHUA,
+MCARTH_TEX,McCarthys Texcoco (Grasa),Free and Green SA de CV,"Carretera Federal México Texcoco 30.5, Santiago Cuautlalpan, Texcoco",TEXCOCO,ESTADO DE MÉXICO,,,CHIHUAHUA,
+McDONALD´S_VICTORIA,McDonald´s Victoria,"Operador de Franquicias Saile, Sapi S.A. de C.V.","C. Guadalupe Victoria #104, Col. Centro ",Chihuahua,Chihuahua,compras@gsf-mcd.com.mx,6144255315 ext 308,CHIHUAHUA,Ricardo Vazquez
+MCDO_AMER,McDONALD'S AMERICAS,"OPERADORA DE FRANQUICIAS SAILE, SAPI S.A. DE C.V.","Américas # 100, Quinta Etapa, Col. San Felipe",CHIHUAHUA,CHIHUAHUA,compras@gsf-mcd.com.mx,6144255315 ext 308,CHIHUAHUA,Ricardo Vazquez
+MCDO_AMER_BASU,McDONALD'S AMERICAS (Basura),"OPERADORA DE FRANQUICIAS SAILE, SAPI S.A. DE C.V.","Américas # 100, Quinta Etapa, Col. San Felipe",CHIHUAHUA,CHIHUAHUA,compras@gsf-mcd.com.mx,6144255315 ext 308,CHIHUAHUA,Ricardo Vazquez
+MCDO_JUV,McDONALD'S JUVENTUD,"OPERADORA DE FRANQUICIAS SAILE, SAPI S.A. DE C.V.","Periférico de la Juventud # 3404,  Fracc. Las Haciendas",CHIHUAHUA,CHIHUAHUA,compras@gsf-mcd.com.mx,6144255315 ext 308,CHIHUAHUA,Ricardo Vazquez
+MCDO_JUV_ACEI,McDONALD'S JUVENTUD (Aceite),"OPERADORA DE FRANQUICIAS SAILE, SAPI S.A. DE C.V.","Periférico de la Juventud # 3404,  Fracc. Las Haciendas",CHIHUAHUA,CHIHUAHUA,compras@gsf-mcd.com.mx,6144255315 ext 308,CHIHUAHUA,Ricardo Vazquez
+MCDO_JUV_BASU,McDONALD'S JUVENTUD (Basura),"OPERADORA DE FRANQUICIAS SAILE, SAPI S.A. DE C.V.","Periférico de la Juventud # 3404,  Fracc. Las Haciendas",CHIHUAHUA,CHIHUAHUA,compras@gsf-mcd.com.mx,6144255315 ext 308,CHIHUAHUA,Ricardo Vazquez
+McDONALDS_LOPEZ_MATEOS,McDonalds Lopez Mateos,"OPERADORA DE FRANQUICIAS SAILE, SAPI S.A. DE C.V.","Avenida López Mateos, Blvd. Oscar Flores # 2125, El Roble, C.P. 32390",Juarez,Chihuahua,paola.duarte@gsf-mcd.com.mx,800 300 3435,JUAREZ,
+McDONALDS_MISIONES,McDonalds Misiones,"OPERADORA DE FRANQUICIAS SAILE, SAPI S.A. DE C.V.","Centro Comercial Las Misiones, Blvd. Teófilo Borunda # 8681, C.P. 32618",Juarez,Chihuahua,paola.duarte@gsf-mcd.com.mx,,JUAREZ,Paola Duarte
+McDONALDS_PASEO_TRIUNFO,McDonalds Paseo Triunfo,"OPERADORA DE FRANQUICIAS SAILE, SAPI S.A. DE C.V.","Av. Paseo Triunfo de la República 4020, Monumental, 32310",Juarez,Chihuahua,paola.duarte@gsf-mcd.com.mx,,JUAREZ,Paola Duarte
+MCDO_FASHION,McDONALD'S PLAZA DEL SOL,"OPERADORA DE FRANQUICIAS SAILE, SAPI S.A. DE C.V.","Av. Perifèrico de la Juventud No 3501-209 Col Puerta de Hierro. Chihuhahua, Chih.",CHIHUAHUA,CHIHUAHUA,compras@gsf-mcd.com.mx y C,6144255315 ext 308,CHIHUAHUA,Ricardo Vazquez
+MCDO_FASHION_ACEI,McDONALD'S PLAZA DEL SOL (Aceite),"OPERADORA DE FRANQUICIAS SAILE, SAPI S.A. DE C.V.","Av. Perifèrico de la Juventud No 3501-209 Col Puerta de Hierro. Chihuhahua, Chih.",CHIHUAHUA,CHIHUAHUA,compras@gsf-mcd.com.mx,6144255315 ext 308,CHIHUAHUA,Ricardo Vazquez
+McDONALDS_SENDEROS,McDonalds Senderos,"OPERADORA DE FRANQUICIAS SAILE, SAPI S.A. DE C.V.","Blvrd Francisco Villarreal Torres # 2050-A, Partido Senecú, C.P. 32546",Juarez,Chihuahua,paola.duarte@gsf-mcd.com.mx,,JUAREZ,Paola Duarte
+McDONALDS_TECNOLÓGICO,McDonalds Tecnológico,"OPERADORA DE FRANQUICIAS SAILE, SAPI S.A. DE C.V.","Av. Tecnológico # 1586, Fuentes del Valle, C.P. 32500",Juarez,Chihuahua,paola.duarte@gsf-mcd.com.mx,,JUAREZ,Paola Duarte
+McDONALDS_TORRES,McDonalds Torres,"OPERADORA DE FRANQUICIAS SAILE, SAPI S.A. DE C.V.","Av de las Torres # 211, Los Bravos, C.P. 32573 ",Juarez,Chihuahua,paola.duarte@gsf-mcd.com.mx,,JUAREZ,Paola Duarte
+MCDO_WALM,McDONALD'S WAL MART JUVENTUD,"OPERADORA DE FRANQUICIAS SAILE, SAPI S.A. DE C.V.","Periférico de la Juventud # 220,  Fracc. Las Haciendas del Valle",CHIHUAHUA,CHIHUAHUA,,,CHIHUAHUA,
+MERCADO_REFORMA,Mercado Reforma,Pajaro Piedra S.A. de C.V.,Periferico de la Juventud #5700-4 Distrito 1,Chihuahua,Chihuahua,donaji.perez@grupocosteno.com y alejandro.olmo@grupocosteno.com,6144257340,CHIHUAHUA,Lic. Alejandro Olmos
+MERC_REF_ACEI,Mercado Reforma (Aceite),Pájaro Piedra S.A. de C.V.,"Periférico de la Juventud 5700, Distrito 1",CHIHUAHUA,CHIHUAHUA,donaji.perez@grupocosteno.com y alejandro.olmo@grupocosteno.com,6144257340,CHIHUAHUA,Lic. Alejandro Olmos
+METRO_LOFT,Metro Loft,Servicios Integrales de Administracion de Inmuebles D1 S.A. de C.V.,Conjunto comercial Citadela #5900 Edificio Metro Loft Col. Saucito,Chihuahua,Chihuahua,admonmetroloft@gomanagment.com,6141845031,CHIHUAHUA,Ginette Pinoncely
+MB_2588,Mi Bodega Aldama-2588,Nueva Walmart de Mexico S. de R.L. de C.V.,"Nextengo 78 Santa Cruz Acayucan, Azcapotzalco, C.P. 02770",ALDAMA,CHIHUAHUA,,,CHIHUAHUA,
+MB_2710,Mi Bodega Guachochi-2710,Nueva Walmart de Mexico S. de R.L. de C.V.,"Nextengo 78 Santa Cruz Acayucan, Azcapotzalco, C.P. 02770",GUACHOCHI,CHIHUAHUA,,,CHIHUAHUA,
+MB_1766,Mi Bodega Madera-1766,Nueva Walmart de Mexico S. de R.L. de C.V.,"Nextengo 78 Santa Cruz Acayucan, Azcapotzalco, C.P. 02770",MADERA,CHIHUAHUA,,,CHIHUAHUA,
+MB_1606,Mi Bodega Saucillo-1606,Nueva Walmart de Mexico S. de R.L. de C.V.,"Nextengo 78 Santa Cruz Acayucan, Azcapotzalco, C.P. 02770",SAUCILLO,CHIHUAHUA,,,CHIHUAHUA,
+MICROTEL_MISION_DE_LOS_LAGOS,Microtel Mision de los Lagos,Fideicomiso Irrevocable DB / 1616,"Paseo de la Victoria No 4150 E Col. Mision de los Lagos, C.P. 32668",Juarez,Chihuahua,julio.velo@hotelesprisma.com,656-360-41-30,JUAREZ,Julio Velo
+MINA_PALMAREJO,Mina Palmarejo,"COEUR MEXICANA, S.A. de C.V.",Centro Ejecutivo 550 E4- Segundo Piso. Fracc. Desarrollo el Saucito CP 31125,Chihuahua,Chihuahua, ogomez@coeur.com.mx; pponce@coeur.com.mx; jacosta@coeur.com.mx,6354577000,CHIHUAHUA,"Oscar Gómez, Pedro Ponce, Jesús Acosta"
+MINERA_JULIAN,Minera San Julian - TG1,Minera San Julian Unidad San Julian,"Carr. Guadalupe y Calvo Km. 163 + 33, San Julian",GUADALUPE Y CALVO,CHIHUAHUA,raul_godoy@fresnilloplc.com,,CHIHUAHUA,
+Mochomos_CUU,MOCHOMOS,Iguana mode S.A. de C.V. ,Av. Lombardia #3001 Distrito Uno Col. Saucito,Chihuahua,Chihuahua,comprasmochomos@outlook.es,6144255276,CHIHUAHUA,Constantino Solis
+Mr_Pechugas_Fco_Villa,Mr. Pechugas Fco Villa,Grupo Aguca Sati S.A. de C.V.,C. Perbiz #2431 Col. Colinas del sol,Chihuahua,Chihuahua,almacen.crujiland@outlook.com,6144900161,CHIHUAHUA,Marco Antonio Omaña Torres
+MR_PECHUGAS_FUENTESMARES,Mr. Pechugas Fuentes Mares,Grupo Aguaca Sati S.A. de C.V.,Av. Nueva España y Fuentes Mares #8600,Chihuahua,Chihuahua,almacen.crujiland@outlook.com,6144381831,CHIHUAHUA,
+MR_PECHUGAS_RIO,Mr. Pechugas Rio de Janeiro,Grupo Aguaca Sati S.A. de C.V.,"Av. Antonio de Montes #5705, Col. Panamericana",Chihuahua,Chihuahua,almacen.crujiland@outlook.com,6144410657,CHIHUAHUA,
+Mr_Pechugas_Vallarta,Mr. Pechugas Vallarta,Grupo Aguaca Sati S.A. de C.V.,Av. Vallarta y ZAragoza #5409 Col. Granjas,Chihuahua,Chihuahua,almacen.crujiland@outlook.com,6144434593,CHIHUAHUA,Marco Antonio Omaña
+MR_QUICK,Mr. Quick (plaza galerias),Maria Jacobina Escalante Casasus,"Antonio de Montes y Blvd.Ortiz Mena SN  Int. B-6-1 UNIDAD PRESIDENTES CHIHUAHUA; CHIH, CP 31230",CHIHUAHUA,CHIHUAHUA,administración@plazagalerias.mx,,CHIHUAHUA,
+MUCHACHO_ALEGRE,Muchacho Alegre,Operadora Muchacho Alegre S.A. de C.V.,Perif. de la juventud 6112,Chihuahua,Chihuahua,tesoreria.muchalegre@gmail.com,6141886051,CHIHUAHUA,David Correa
+NECTAR,NECTAR,Grupo Torrenti S de RL de CV,"Circuito Universitario Int. 456, Cafetales, 15508",CHIHUAHUA,CHIHUAHUA,grupo.torrenti@gmail.com,,CHIHUAHUA,
+NECTAR_ACEI,NECTAR (Aceite),Grupo Torrenti S de RL de CV,"Circuito Universitario Int. 456, Cafetales, 15508",CHIHUAHUA,CHIHUAHUA,grupo.torrenti@gmail.com,,CHIHUAHUA,
+NIFCO,Nifco,Intermex Manufactura de Chihuahua S.A de C.V.  (Planta Nifco),C. Nicolas Gogol #11301 Complejo Industrial Chihuahua C.P. 31136,CHIHUAHUA,CHIHUAHUA,corderosa@mx.nifco.com,,CHIHUAHUA,
+NIFCO_BASU,Nifco (Basura),Intermex Manufactura de Chihuahua S.A de C.V.  (Planta Nifco),C. Nicolas Gogol #11301 Complejo Industrial Chihuahua C.P. 31136,CHIHUAHUA,CHIHUAHUA,corderosa@mx.nifco.com,,CHIHUAHUA,
+NO_CONT,NO CONTAMINES,No Contamines SA de CV,Colonia Km 99 Domicilio Conocido,ROSALES,CHIHUAHUA,,,CHIHUAHUA,
+NOUR,NOUR,BISTRO NOUR SA DE CV,"Vía Trentino 5704 Distrito 1, Saucito, 31213",CHIHUAHUA,CHIHUAHUA,contabilidad@nourbistro.com; edgarmos@casona.com.mx,,CHIHUAHUA,
+NOUR_ACEI,NOUR (Aceite),BISTRO NOUR SA DE CV,"Vía Trentino 5704 Distrito 1, Saucito, 31213",CHIHUAHUA,CHIHUAHUA,contabilidad@nourbistro.com; edgarmos@casona.com.mx,,CHIHUAHUA,
+Novares_Planta 1,Novares P1,NOVARES MÉXICO NORTH SRL DE CV P1,C. Victor Hugo #300 Complejo industrial Chihuahua C.P. 31109,Chihuahua,Chihuahua,mcarrera@novaresteam.com,,CHIHUAHUA,Marisol Carrera
+Novares_Planta2,Novares P2,NOVARES MEXICO NORTH SRL de CV,Av. Leon Tolstoi # 181 complejo industrial Chihuahua,Chihuahua,Chihuahua,VOchoa@novaresteam.com,,CHIHUAHUA,Valentin Ochoa
+Novares_Planta3,Novares P3,NOVARES MEXICO NORTH SRL de CV,C. Oscar Wilde #11366 Complejo Industrial Chihuahua C.P. 31109,Chihuahua,Chihuahua,OSosa@novaresteam.com,,,Olivia Sosa
+NUTRIBIF_,Nutribif,Nutribif S.A. de C.V.,C. 53 # 5-A Col. Popular,Chihuahua,Chihuahua,deliarobles.02@nutribif.com.mx y calidad@nutribif.com.mx,6145411768,CHIHUAHUA,Delia Robles
+OCOTAL_SANDER,Ocotal Sander,Carniceria Ocotal S.A. de C.V.,"Mercado de Abastos #1781, Col. San Antonio",Juarez,Chihuahua,loaledm05@gmail.com,,JUAREZ,Luis Cavas
+OFICINAS_CANTERA5,Oficinas Plaza Cantera 5,"Asociacion de Condominos Punto Alto E5, A.C.",Av. La Cantera #9301 Las Misiones C.P. 31000,Chihuahua,Chihuahua,gabriela.reza@arasbgroup.com,,CHIHUAHUA,
+OMA_CARGA,OMA CARGA,Aeropuerto de Ciudad Juarez S.A. de C.V.,"Carretera Panamericana 18.5 km, Zona Federal, C.P. 32690, Fracc. Aeropuerto",Juarez,Chihuahua,benjamin.jaramillo.cjs@oma.aero,,JUAREZ,Benjamin Jaramillo
+PACTIV,PACTIV,Pactiv Mexico S. de R. L. de C. V.,Nicolas Gogol NO. 11342,CHIHUAHUA,CHIHUAHUA,jcarnero@pactiv.com,,CHIHUAHUA,
+PancakeP,PancakeP Pazcual O.,José Abraham Terrazas Perez (Pancake paradise),Av Pascual Orozco 1133 Col. Hogares de Chihuahua,Chihuahua,Chihuahua,pancakepascualorozco@gmail.com,614 413 2461,CHIHUAHUA,Abraham Terrazas
+PAPALOTE,Papalote MORELOS,Restaurante El Papalote S.A. de C.V.,"Calle Novena 1110, Zona Centro, 31203",CHIHUAHUA,CHIHUAHUA,restauranteelpapalote@gmail.com,6144140333,CHIHUAHUA,Luis Lujan Larrieu
+PPP_ALTAVISTA,Peter Piper Pizza Altavista,,"Fronterizo #3530, Bellavista, C.P. 32120",Juarez,Chihuahua,kmena@peterpiperpizza.com.mx y rdelatorre@peterpiperpizza.com.mx,656 632 1998,JUAREZ,
+PINTIRAS_ORCOPEL,Pinturas Orcopel,Pinturas Orcopel S de R.L. de C.V.,"Av. Tecnologico # 2151 Col. Haceinda de San Pedro, C.P. 32520",Juarez,Chihuahua,americanpaintjuarez@gmail.com,656 207 0706,JUAREZ,
+PIZZA_HOT_RIO,Pizza Hot Rio Grande,Desarrolladora Inmoviliaria de Restaurantes S. de R.L. de C.V.,"Av. Paseo Triunfo de la República # 4450, Monumental, C.P.32310",Juarez,Chihuahua,mx0164@prb.com.mx,55 1515 3737,JUAREZ,
+PIZZA_INN_DYU,Pizza Inn DEZA Y ULLOA,Promotora de Restaurantes del Norte SA de CV,"DEZA Y ULLOA , SAN FELIPE, C.P. 31240",CHIHUAHUA,CHIHUAHUA,,,CHIHUAHUA,
+PIZZ_IN_OM,Pizza Inn Ortiz Mena,Promotora de Restaurantes del Norte S.A. de C.V.,Ortiz Mena No. 200 Int. No. A Col. San Felipe C.P. 31240,CHIHUAHUA,CHIHUAHUA,lornelas@dennys.com.mx,6144131719,CHIHUAHUA,Lirio Ornelas
+PIZZ_SIERR_PV,Pizzeria la Sierra Plaza Victoria,Consorcio Empresarial Chihuahuense la Laguna S.A. de C.V. ," Av. Benito Juarez N° 3115 Locales 25, 26 y 27 C.P. 31000",CHIHUAHUA,CHIHUAHUA,,,CHIHUAHUA,
+PLAZA_ALBERO,Plaza Albero,Servicios Integrales de Administracion de Inmuebles D1 S.A. de C.V.,"Av. de la Cantera #9139, Col. Las Misiones I, II, III y IV",Chihuahua,Chihuahua,admonplazas@gomanagment.com.mx,6141844276,CHIHUAHUA,Tatiana Gaytan
+PLAZA_ALSEGA,Plaza Alsega,Inmobiliaria Alsega S.A. de C.V.,"Ejército Nacional # 8140, Col. Partido Iglesias",Juarez,Chihuahua,inmobiliaria.alsega@hotmail.com,,JUAREZ,
+CANT_5,PLAZA CANTERA 5,Asociasión de Condominos Plaza Cantera 5 A.C., AV DE LA CANTERA No 9301 EX EJIDO LA HACIENDITA,CHIHUAHUA,CHIHUAHUA,gabriela.reza@arasbgroup.com y contabilidad@canteracinco.com,6142883562,CHIHUAHUA,Juliana Saenz
+CANT_5_BASU,PLAZA CANTERA 5 (Basura),Asociasión de Condominos Plaza Cantera 5 A.C., AV DE LA CANTERA No 9301 EX EJIDO LA HACIENDITA,CHIHUAHUA,CHIHUAHUA,gabriela.reza@arasbgroup.com,6142883562,CHIHUAHUA,Juliana Saenz
+PLAZA_DE_LA_RAZA,Plaza de La Raza,Arrendadora e Inmobiliaria Giber S.A. de C.V.,"Av. De La Raza # 6108, Loc. 3",Juarez,Chihuahua,inmobiliariagiber@outlook.com,656 199 43 06,JUAREZ,Victor Gamboa
+PLZA_GALE_BASU,Plaza Galerías,Sociedad de Comerciantes Chihuahuenses S.C.,"Boulevard Antonio Ortiz Mena, Presidentes, 31210 ",CHIHUAHUA,CHIHUAHUA,administracion@plazagalerias.mx,6144133282,CHIHUAHUA,Rene Salcido
+PLAZA_HIGH_SQUARE,Plaza High Square,Administradora de Inmuebles BGM S.A. de C.V.,C. Haciendas de los Morales Periferico de la Juventud #6900,Chihuahua,Chihuahua,administracion@highsq.com.mx,6141846118,CHIHUAHUA,Valeria Avila
+PLAZA_JUAREZ_MALL,Plaza Juarez Mall,Condominio Plaza Juarez Mall A.C.,"Av. Ejército Nacional # 6514, Col. Del Márquez",Juarez,Chihuahua,admon@ccplazajuarezmall.com,,JUAREZ,
+PLAZA_LOPEZ_MATEOS,Plaza Lopez Mateos,Gilder Ciudad Juarez S. de R.L. de C.V.,"C. Perimetral Carlos Amaya # 2291, Partido Iglesias, C.P. 32528",Juarez,Chihuahua,maesquivel@planigrupo.com,,JUAREZ,
+PLAZA_MONUMENTAL,Plaza Monumental,PG CKD K F/00976,"Av. Paseo Triunfo de la República, Monumental, C.P. 32310",Juarez,Chihuahua,aglujan@planigrupo.com,656 613 8528,JUAREZ,
+PLAZA_PASEO_CENTRAL,Plaza Paseo Central,Paseo Central Inmoviliaria S.A. de C.V.,Av. de la Juventud #5915 Esquina con Haciendas del valle y periferico de la juventud,Chihuahua,Chihuahua,hiram.diaz@grupovalles.com,6144380870 ext 1001,CHIHUAHUA,Hiram Diaz Heredia
+PLAZA_SENDERO,Plaza Sendero,Administracion Centro Comercial Chihuahua A.C.,Av. Alejandro Dumas #11377 Complejo Industrial Chihuahua,Chihuahua,Chihuahua,mtochih@grupoav.com,6143032875,CHIHUAHUA,Edgar Hernandez
+PLAZA_TRES_VIAS,Plaza Tres Vias,Servicios Integrales de Administracion de Inmuebles D1 S.A. de C.V.,"Av. Mirador esquina Washington S/N, Col. El Campanario",Chihuahua,Chihuahua,admonplazas@gomanagment.com.mx,6141844276,CHIHUAHUA,Tatiana Gaytan
+PLAZA_VALLE_ESCONDIDO,Plaza Valle Escondido,Servicios Integrales de Administracion de Inmuebles S.A. de C.V.,"C. Misiones del Bosque #9703, Col. Mision del Valle",Chihuahua,Chihuahua,admonplazas@gomanagment.com.mx,6141844276,CHIHUAHUA,Tatiana Gaytan
+POLLO_ROSSO,Pollo Rosso,Joaquín de Jesús Mondragón Corral,"Plaza Andares 1, Local 12, Av. Teófilo Borunda # 11810, Col. Labor de Terrazas, CP: 31223",CHIHUAHUA,CHIHUAHUA,jmmagnus@outlook.com,,CHIHUAHUA,
+Procesadora_Rio_Sanpedro,Procesadora Rio San Pedro,Procesadora Rio San Pedro S. de R.L. de C.V.,C. Industrial 1 #4711  Zona Industrial Robinson,Chihuahua,Chihuahua,calidad@carnesribe.com,,CHIHUAHUA,Claudia Maguregui 
+PRODUCTO_METALICO_Y_ACRILICO,PRODUCTO METALICO Y ACRILICO,PRODUCTO METALICO Y ACRILICO,sierra del morrion s/n col aeropuerto c.p. 31384 chihuahua,CHIHUAHUA,CHIHUAHUA,,,CHIHUAHUA,
+PROD_LACTEOS_SANBUENA,Productos Lacteos San Buena,"PRODUCTOS LACTEOS SAN BUENA, S.A.DE C V.","Km. 26 #2556, Carretera Cuauhtémoc - Alvaro Obregón, Col. Manitoba C.P. 31613",Cuauhtémoc,Chihuahua,ggrijalva@resesa.com,,CHIHUAHUA,
+PULSO_INMO,Pulso Inmobiliario,PULSO MEGAOPERADORA S.A. DE C.V.,"Av. Paseo de las Palmas No. 239, Col. Lomas de Chapultepec, Delegación Miguel Hidalgo",CIUDAD DE MÉXICO D.F.,DELEGACIÓN MIGUEL HIDALGO,aux_fortuna@pulsoinmobiliario.com,,CHIHUAHUA,
+BLUMEN,QUESERIA BLUMEN,Queseria Blumen S. de P.R.,"  Campo 103, Colonia Swift Current, c.p. 31613",CUAUHTÉMOC,CHIHUAHUA,,,CHIHUAHUA,
+QUES_HUITA_BASURA,Quesería Chihuahuita (Basura),Quesería Chihuahuita SA de CV,"Calle Topografos 609, Dos de Junio, 31134",CHIHUAHUA,CHIHUAHUA,gabrielz@chihuahuita.com.mx,,CHIHUAHUA,
+QUES_HUITA,Quesería Chihuahuita (Grasa),Quesería Chihuahuita SA de CV,"Calle Topografos 609, Dos de Junio, 31134",CHIHUAHUA,CHIHUAHUA,gabrielz@chihuahuita.com.mx,,CHIHUAHUA,
+QUIROP_1,QUIROPRODUCTOS Planta 1,Quiroproductos de Cuauhtemoc S de RL de CV,Ave. Rio Santa Clara Lotes 12 y 13 No. S/N PARQUE INDUSTRIAL CUAUHTEMOC,CUAUHTÉMOC,CHIHUAHUA,gilberto.dominguez@cardinalhealth.com,,CHIHUAHUA,
+QUIROP_2,QUIROPRODUCTOS Planta 2,Quiroproductos de Cuauhtemoc S de RL de CV,Ave. Rio Chuviscar Num. 8950  PARQUE INDUSTRIAL CUAUHTEMOC,CUAUHTÉMOC,CHIHUAHUA,gilberto.dominguez@cardinalhealth.com,,CHIHUAHUA,
+QUIZ_LIB_ACEI,Quiznos Sub Libertad (Aceite),HM Quality Sub S.A. de C.V.,"Av. Independencia 407, Centro, 31000",CHIHUAHUA,CHIHUAHUA,independencia1@qualitysub.mx,,CHIHUAHUA,
+RANCHO_LA_PRADERA,Rancho La Pradera,Nicolas Martinez JR,Km 37.5 Carretera Chihuahua - Juarez,Chihuahua,Chihuahua,gabriela.arenas2021@gmail.com y facturacion@californiatentdemexico.com,6671854078,CHIHUAHUA,Gabriela Arenas
+REAL_DE_LAS_TORRES,Real de las Torres,Jorge Alberto Urias Cantu ,"Ejército Nacional #5925, C.P. 32390",Juarez,Chihuahua,departamentos@realdelastorres.com,656 618 6564,JUAREZ,
+recoleccion_de_escamoche_ ,Recoleccion de escamoche ,VICTOR LASO ,"CARBONEL # 4707, COL. PANAMERICANA CP 31210",CHIHUAHUA,CHIHUAHUA,facturacionvictorlaso@gmail.com,,CHIHUAHUA,
+RESIDENCIAL_ATICA,Residencial Atica,Diseño y Construcciones Civiles S.A. de C.V.,Prolongacion Teofilo Borinda esquina con Av. Monte Verde C.P. 31220,Chihuahua,Chihuahua,arodriguez@diccsa.com.mx,6146142115828,CHIHUAHUA,Aneth Rodriguez
+RESIDENCIAL_MASERU,Residencial Maseru,Diseño y Construcciones Civiles S.A. de C.V.,C. Villedo Encinillas #9500 C.P. 31124,Chihuahua,Chihuahua,arodriguez@diccsa.com.mx,6142115828,CHIHUAHUA,Aneth Rodriguez
+RESIDENCIAL_SERATA,Residencial Serata,Diseños y Construcciones Civiles S.A. de C.V.,Av. Hacienda del Real Esquina con prolongacion Teofilo Borunda,Chihuahua,Chihuahua,brosales@diccsa.com.mx,6142115828,CHIHUAHUA,Aneth Rodriguez
+RESTAURANTE_CATALUÑA,Restaurante Cataluña,Manuel Alejandro Mendoza Zuany,"Av. La Cantera #10101, Col. La Haciendita, C.P. 31216",Chihuahua,Chihuahua,falianzaventas@hotmail.com,614 438 8052,CHIHUAHUA,
+REYES_CANTINA,Reyes Cantina,Entretenimiento SAPA S.A de C.V.,Periferico de la Juventud #5915 Int. R04 Haciendas del Valle C.P. 31217,Chihuahua,Chihuahua,lavm.kapv@gmail.com,,CHIHUAHUA,Amairani Velo
+ZODI,RMDP,CECILIA BIBIANA PEREZ GARCIA R.M.D.P., PARQUE DE MARGA No. 9915 JARDINES DE ORIENTE C.P. 31384,CHIHUAHUA,CHIHUAHUA,,,CHIHUAHUA,
+Rock_and_Bowl,Rock and Bowl,Grupo Rock and Bowl Mexico S.A. de C.V.,Perif. de la Juventud #4101 Col. Misiones C.P. 31115,Chihuahua,Chihuahua,blanchondot@hotmail.com,6141744975,CHIHUAHUA,Lucia Anchondo
+royal_bowl_manacars. de r.l. de c.v.,Royal bowl manacar s. de r.l. de c.v,Royal bowl manacars de r.l de c.v ,av. De las píramides 1 lomas de tecamachalconaucalpan  c.p…..53950,NAUCALPAN,MEXICO,servicios.df@sisa.org.mx,,CHIHUAHUA,
+HARINAS,SABAMEX,GRUPO HARINAS DE CHIHUAHUA  DIVISION DE ALIMENTOS BALANCEADOS  (DAB), BLVD. JUAN PABLO II 5901 COL AEROPUERTO,CHIHUAHUA,CHIHUAHUA,compras.dab@grupoharinas.mx,,CHIHUAHUA,
+SABE,SABE ALIMENTOS," SABE ALIMENTOS, S.A. DE C.V.", CALLE PRIVADA 27 ½ No. 1314 SANTO NIÑO C.P. 31000,CHIHUAHUA,CHIHUAHUA,,,CHIHUAHUA,
+SABOR_ACEI,Sabor a Mí (Aceite),,"Av. de la Cantera 9124, Misiones I Etapa",CHIHUAHUA,CHIHUAHUA,,,CHIHUAHUA,
+SALON_ATENAS,Salon Atenas,Martin Enrique Sanchez Cruz,"Av. Tecnológico # 1557, Villa Hermosa, C.P. 32510",Juarez,Chihuahua,salon_atenas@hotmail.com,656 618 2571,JUAREZ,
+SAMS_8240,Sams Chihuahua-8240,Nueva Walmart de Mexico S. de R.L. de C.V.,"Nextengo 78 Santa Cruz Acayucan, Azcapotzalco, C.P. 02770",CHIHUAHUA,CHIHUAHUA,,,CHIHUAHUA,
+SAMS_6234,Sams Cuauhtemoc-6234,Nueva Walmart de Mexico S. de R.L. de C.V.,"Nextengo 78 Santa Cruz Acayucan, Azcapotzalco, C.P. 02770",CUAUHTEMOC,CHIHUAHUA,,,CHIHUAHUA,
+SAMS_6249,Sams Delicias -6249,Nueva Walmart de Mexico S. de R.L. de C.V.,"Nextengo 78 Santa Cruz Acayucan, Azcapotzalco, C.P. 02770",DELICIAS,CHIHUAHUA,,,CHIHUAHUA,
+SAMS_4999,Sams Homero-4999,Nueva Walmart de Mexico S. de R.L. de C.V.,"Nextengo 78 Santa Cruz Acayucan, Azcapotzalco, C.P. 02770",CHIHUAHUA,CHIHUAHUA,,,CHIHUAHUA,
+SAMS_NOGALES,SAM'S NOGALES,Nueva Walmart de Mexico S. de R.L. de C.V.,"Blvrd. Luis Donaldo Colosio No. 2770, Deportiva, 84068 Nogales, Son.",Nogales,Sonora,luis.quihui@walmart.com,,Selecciona Sucursal,
+SAMS_6251,Sams Parral-6251,Nueva Walmart de Mexico S. de R.L. de C.V.,"Nextengo 78 Santa Cruz Acayucan, Azcapotzalco, C.P. 02770",PARRAL,CHIHUAHUA,,,CHIHUAHUA,
+SAN FRANCISCO,SAN FRANCISCO,CLUB CAMPESTRE SAN FRANCISCO DE CHIHUAHUA S.C.,VIA LOMBARDIA #5705 INTERIOR 305 COL. SAUCITO C.P. 31110,CHIHUAHUA,CHIHUAHUA,procesos@sanfranciscocc.com,,CHIHUAHUA,
+PALMO,SANATORIO PALMORE,SANATORIO PALMORE A.C.,  AV ZARCO No 1301  COL. ZARCO,CHIHUAHUA,CHIHUAHUA,luischinoanchondo@outlook.com,6141816400,CHIHUAHUA,Luis Anchondo
+SANB_FASHION,Sanborn Suc. Fashion Mall,Sanborn Hermanos S.A.,"Periferico de la Juventud 3501, Col. Haciendas, C.P. 31215",CHIHUAHUA,CHIHUAHUA,chihuahuac@sanborns.com.mx,,CHIHUAHUA,
+SANB_MIRADOR,Sanborn Suc. Mirador,Sanborn Hermanos S.A.,"Calle Indiana 3300-E, Fraccionamiento las Aguilas. C.P. 31214",CHIHUAHUA,CHIHUAHUA,chihuahuac@sanborns.com.mx,,CHIHUAHUA,
+SANDERS_,Sanders,Carniceria Ocotal S.A. de C.V.,"Mercado de Abastos # 1781, Col. San Antonio",Juarez,Chihuahua,loaledm05@gmail.com,,JUAREZ,Luis Cavas
+SAT_,SAT,Gobierno del Estado de Chihuahua,C. Niños Heroes y Venustiano Carranza,Chihuahua,Chihuahua,luis.anda@chihuahua.org.mx,6141960100,CHIHUAHUA,Luis Anda
+SC_6249,SC Delicias SUR-6249,Nueva Walmart de Mexico S. de R.L. de C.V.,"Nextengo 78 Santa Cruz Acayucan, Azcapotzalco, C.P. 02770",DELICIAS,CHIHUAHUA,,,CHIHUAHUA,
+Nacional_Pecan,Servicio National Pecan,National Pecan Shelling Operrations LLC,825 W Main Street ,Fabens,Texas,,,JUAREZ,
+cepit_,SERVICIOS Y OPERACIONES ,SERVICIOS_OPERACIONES_INTEGRALES_SA_DE_SV,MELCHOR GUASPE COL DALE CP 31050,CHIHUAHUA,CHIHUAHUA,,,CHIHUAHUA,
+SERVICIO_GEOLOGICO_MEXICANO,SGM,Servicio Geologico Mexicano (SGM),"C. Industrial #6 Lote 6 interior1, C.P. 31074",Chihuahua,Chihuahua,selinalasso@sgm.gob.mx,6144290577,CHIHUAHUA,Nancy Pacheco
+SERVICIO_GEOLOGICO_MEXICANO_FOSA 4,SGM Fosa 4,Servicio Geologico Mexicano (SGM),Calle Industrial #6 Lote 6 Interior 2 CP 31074,Chihuahua,Chihuahua,yeseniaaragon@sgm.gob.mx,6144201798,CHIHUAHUA,Selina Lasso
+SHIN_TOSHIN,Shin Toshin,SY Operadora de restaurantes Suja Inc S.A. de C.V.,Periferico Luis Donaldo Colosio #5915 int 107,Chihuahua,Chihuahua,shintoshinrestaurante@gmail.com,,CHIHUAHUA,Francelia Ornelas
+SAN920216EI1,SIGMA ALIMENTOS,SIGMA_ALIMENTOS_NORESTE_S.A_DE_C.V,Perif. Lombardo Toledano 100    Col.El Bajio   CP 31350,Chihuahua,Chihuahua,aaperez@sigma-alimentos.com,6143802400 ext 25445,CHIHUAHUA,Alan Perez
+STOCKADE,Sirloin Stockade,DELCHI DEL NORTE S.A. DE C.V.,"Perif. de la Juventud 6501, Haciendas I, 31215",CHIHUAHUA,CHIHUAHUA,contabilidad@sirloinchihuahua.com,6144232018,CHIHUAHUA,Alejandra Orona
+STOCKADE_ACEI,Sirloin Stockade (Aceite),DELCHI DEL NORTE S.A. DE C.V.,"Perif. de la Juventud 6501, Haciendas I, 31215",CHIHUAHUA,CHIHUAHUA,rogelio.espinoza@grupovalles.com,,CHIHUAHUA,
+SOFI,Sofi de Chihuahua,Sofi de Chihuahua S.A de C.V.,"C. George Washington No. 3701 int. 10,11 y 12",CHIHUAHUA,CHIHUAHUA,,,CHIHUAHUA,
+SOFI_2,Sofi de Chihuahua (ECO II),Sofi de Chihuahua S.A de C.V.,"C. George Washington No. 3701 int. 10,11 y 12",CHIHUAHUA,CHIHUAHUA,,,CHIHUAHUA,
+SOFI_4,Sofi de Chihuahua (Planta #4),Sofi de Chihuahua S.A de C.V.,"C. George Washington No. 3701 int. 10,11 y 12",CHIHUAHUA,CHIHUAHUA,,,CHIHUAHUA,
+Soisa_,SOISA,Servicios Operaciones Integrales S.A. de C.V.,Melchor Guaspe #3800-3 Col. Dale C.P. 31050,Chihuahua,Chihuahua,karla.delao@soisa.com.mx,6141824708,CHIHUAHUA,Karla de la O
+SOLARPRO_PERIFJUV_BASU,Solar Pro Perif. Juventud (Basura),Soluciones Energéticas JEA S.A. de C.V.,"Lateral Periférico de la Juventud 7100-4, Cumbres I Etapa, Campestre-Lomas, 31217",CHIHUAHUA,CHIHUAHUA,lety@solar-pro.mx,,CHIHUAHUA,
+SOLARPRO_TEOFILO_BASU,Solar Pro Teofilo Borunda (Basura),Soluciones Energéticas JEA S.A. de C.V.,"Teofilo Borunda 2126-A, Col. Centro",CHIHUAHUA,CHIHUAHUA,lety@solar-pro.mx,,CHIHUAHUA,
+SOLTRA_BASURA,Soluciones y Tratamiento Ecológico SAPI de CV (Basura),Soluciones y Tratamiento Ecológico SAPI de CV,"Calle 3 47-104, Parque Industrial Naucalpan, C.P. 53489",NAUCALPAN,ESTADO DE MÉXICO,6255891349 - rcaballero@sytesa.com.mx,,CHIHUAHUA,
+SOSA_BRIGHT_TECH,Sosa Bright Tech (trampa 1),"Sosa bright Tech, S. De R.L. de C.V.","C. Miguel Cervantes Saavedra #141, Complejo Industrial Chihuahua",Chihuahua,Chihuahua,grodriguez.sosabright@gmail.com,6142210280,CHIHUAHUA,Gerardo Rodriguez
+SOSA_BRIGTH_TECH_2,Sosa Bright Tech (trampa 2),"Sosa bright Tech, S. De R.L. de C.V.","C. Miguel de Cervantes Saavedra #141, Complejo industrial Chihuahua",Chihuahua,Chihuahua,grodriguez.sosabright@gmail.com,6142210280,CHIHUAHUA,Gerardo Rodriguez
+SOUTHCO,SouthCo,"SOUTHCO, S DE R.L. DE C.V",Avenida Alejandro Dumas No. 11327 Edifcio 1 Complejo Industrial Chihuahua,CHIHUAHUA,CHIHUAHUA,arojas@southco.com,,CHIHUAHUA,
+STARBUCKS_D1,Starbucks D1,Servicios Integrales de Administracion de Inmuebles D1 S.A. de C.V.,Periferico de la Juventud #5700 C.P. 31114,Chihuahua,Chihuahua,admond1@gomanagment.com.mx,6141979548,CHIHUAHUA,
+STEAK_HOUSE,Steak House,Steak House,"Plaza Galerías Local b12 1, Unidad Presidentes",CHIHUAHUA,CHIHUAHUA,,,CHIHUAHUA,
+SUBENSAMBLES_INT,Subensambles Internacionales,Subensambles Internacionales S. de R.L. de C.V.,"Av. Hermanos Escobar #7151-C, Parque Industrial Omega",Juarez ,Chihuahua,Teresa.vazquez@tricoproducts.com,6566270754,JUAREZ,Teresa Vazquez 
+SUMI,Sumidenso ,"CONDUCTORES TECNOLÓGICOS DE JUÁREZ, S.A. DE C.V.", Av. Camino Real No. 8800 Parque Industrial  Intermex,CHIHUAHUA,CHIHUAHUA,ana.villasenor@sewsus.com.mx,,CHIHUAHUA,
+SUNROLL_ACEI,Sun Roll Sushi (Aceite),Noe Fabian Rios Montes,CP:         31384,CHIHUAHUA,CHIHUAHUA,mfabianrios@gmail,,CHIHUAHUA,
+SC_2302,Super Center Chihuahua-2302,Nueva Walmart de Mexico S. de R.L. de C.V.,"Nextengo 78 Santa Cruz Acayucan, Azcapotzalco, C.P. 02770",CHIHUAHUA,CHIHUAHUA,,,CHIHUAHUA,
+SC_1656,Super Center Club de Golf-1656,Nueva Walmart de Mexico S. de R.L. de C.V.,"Nextengo 78 Santa Cruz Acayucan, Azcapotzalco, C.P. 02770",CHIHUAHUA,CHIHUAHUA,,,CHIHUAHUA,
+SC_3358,Super Center Cordilleras-3358,Nueva Walmart de Mexico S. de R.L. de C.V.,"Nextengo 78 Santa Cruz Acayucan, Azcapotzalco, C.P. 02770",CHIHUAHUA,CHIHUAHUA,,,CHIHUAHUA,
+SC_1623,Super Center Cuauhtemoc-1623,Nueva Walmart de Mexico S. de R.L. de C.V.,"Nextengo 78 Santa Cruz Acayucan, Azcapotzalco, C.P. 02770",CUAUHTEMOC,CHIHUAHUA,,,CHIHUAHUA,
+SC_1138,Super Center Delicias-1138,Nueva Walmart de Mexico S. de R.L. de C.V.,"Nextengo 78 Santa Cruz Acayucan, Azcapotzalco, C.P. 02770",DELICIAS,CHIHUAHUA,,,CHIHUAHUA,
+SC_3033,Super Center Fuentes Mares-3033,Nueva Walmart de Mexico S. de R.L. de C.V.,"Nextengo 78 Santa Cruz Acayucan, Azcapotzalco, C.P. 02770",CHIHUAHUA,CHIHUAHUA,,,CHIHUAHUA,
+SC_5728,Super Center Norte 2000-5728,Nueva Walmart de Mexico S. de R.L. de C.V.,"Nextengo 78 Santa Cruz Acayucan, Azcapotzalco, C.P. 02770",CHIHUAHUA,CHIHUAHUA,,,CHIHUAHUA,
+SC_1170,Super Center Parral-1170,Nueva Walmart de Mexico S. de R.L. de C.V.,"Nextengo 78 Santa Cruz Acayucan, Azcapotzalco, C.P. 02770",PARRAL,CHIHUAHUA,,,CHIHUAHUA,
+SUPER_SALADS_CUMBRES,Super Salads Cumbres,Procesadora Konare S de R.L. MI,Periferico de la Juventud #2902 Local 2 Residencial Cumbre,Chihuahua,Chihuahua,supersaladschihuahua@gmail.com,6142232504,CHIHUAHUA,Ericka Coronel
+SUPER_SALADS_PUERTANORTE,Super Salads Puerta Norte,Procesadora Konare S de R.L. MI,"Paseo de las Facultades #803, local 12, 13 y 14",Chihuahua,Chihuahua,supersaladschihuahua@gmail.com,6142232504,CHIHUAHUA,Ericka Coronel
+SUPREMOS_DE_CHIWAS,Supremos de Chiwas,"Restaurantes YCJ, S.A.S. de C.V.","Perif. de la Juventud #2200-10, Haciendas del Valle II C.P. 31217",Chihuahua,Chihuahua,jorgepetralia@gmail.com y facturas.supremos@gmail.com,6141829039,CHIHUAHUA,Jorge Petralia
+SUSHITO_BISTRO,Sushito Bistro,Grupo Bikiya,"Av. Campos Eliseos # 9388 int. 4, Col. Campos Eliseos, C.P. 32472",Juarez ,Chihuahua,edgar.deleon@me.com,,JUAREZ,
+TACOTOT_BASU,Tacotote,Tacos Rápidos SA DE CV,"Boulevard Antonio Ortiz Mena S/N, San Felipe I Etapa, 31203 ",CHIHUAHUA,CHIHUAHUA,tacosrapidos1@hotmail.com,6144131882,CHIHUAHUA,Saleth Gonzalez
+TAPATIO_CONTINENTAL,Tapatio Continental,Diego Augusto Aguilar Garcia,"Av. Lerdo #178, Zona Centro",Juarez,Chihuahua,tapatiocontinental@gmail.com,6568577197,JUAREZ,Diego Aguilar
+TERRA_GAUCHA,Terra Gaucha,Pampas do sul S.A. de C.V.,"Periferico de la Juventud #3506, Haciendas",Chihuahua,Chihuahua,terragauchaadmon@hotmail.com,6144927171,CHIHUAHUA,Luis Rodriguez
+TEXTRON,Textron ,Intermex Manufactura de Chihuahua S.A. de C.V.,Segunda No. 4  Col.  Centro C.P. 31000,CHIHUAHUA,CHIHUAHUA,baraceli@bh.com; epacheco01@bh.com,,CHIHUAHUA,
+TEXTRON_BASU,Textron (Basura),Intermex Manufactura de Chihuahua S.A. de C.V.,Segunda No. 4  Col.  Centro C.P. 31000,CHIHUAHUA,CHIHUAHUA,aalarcon@bellflight.com,,CHIHUAHUA,
+THAI_ACEI,Thai (Aceite),Thai cocina oriental S. de R.L de C.V.,"Plaza Citadela, Periférico de la Juventud 5705, Saucito, 31110 ",CHIHUAHUA,CHIHUAHUA,614 425 5957   thai.citadela@thaicocinaoriental.com.mx,,CHIHUAHUA,
+HAPPY_MUNCH_ACEI,The Happy Munch Co. (Aceite),Sergio Rascon Bustillos,"Av. de la Cantera 9120, Misiones I Etapa, 31115",CHIHUAHUA,CHIHUAHUA,hola@happymunch.com,,CHIHUAHUA,
+TOKIO_,Tokio,Cinthia Patricia Seañez,Av. La Cantera #9119,Chihuahua,Chihuahua,aida@tokio365.mx,61439818188,CHIHUAHUA,Aida Ruiz
+TORO_BURGUER,Toro Burguer,Consorcio Gallo de Mexico S. de R.L. de C.V.,"olonia, Avenida Tecnologico #1770 Esquina con, C. Pedro Rosales de León 25-Local E, Fuentes del Valle, C.P. 32500",Juarez,Chihuahua,kmena@peterpiperpizza.com.mx y rdelatorre@peterpiperpizza.com.mx,656 617 4500,JUAREZ,
+TORRE_PRISMA,Torre Prisma,Servicios Integrales de Administracion de Inmuebles D1 S.A. de C.V.,Via Lombardia #3000,Chihuahua,Chihuahua,admonprisma@gomanagment.com.mx y mantenimientoedificios@gomanagment.com.mx,6141961376,CHIHUAHUA,Janeth Portillo
+TORTAS_NICO_GOMEZ,Tortas Nico Gomez M,Liliel Papadakis Rodriguez,"Blvd. Gomez Morin # 7983, Col. Los Jardines, C.P. 32469",Juarez,Chihuahua,,656 289 53 35,JUAREZ,Evangelina Herrera
+TORTAS_NICO_TECNOLOGICO,Tortas Nico Tecnologico,Kristos Papadakis Rodriguez,"Av. Tecnologico # 3005, Col. Del Marquez, C.P. 32606",Juarez ,Chihuahua,,656 617 09 94,JUAREZ,
+TORTAS_PIOLIN_ANDARES,Tortas Piolin Andares,Procesos Alimenticios Lans S.A. de C.V.,Prolongacion Teofilo Borunda #11810 Local 9 Plaza comercial Andares C.P. 31207,Chihuahua,Chihuahua,suc.tecnologico@tortaspiolines.com,6145134484,CHIHUAHUA,Kathia Garcia
+TORTAS_PIOLIN_LEON,Tortas Piolin El Leon,Procesos Alimenticios Lans S.A. de C.V.,Carretera Chihuahua - Aldama 9500 Residencial El Leon,Chihuahua,Chihuahua,suc.tecnologico@tortaspiolines.com,6145134484,CHIHUAHUA,Kathia Garcia
+PIOLIN_FCOVILL_ACEI,TORTAS PIOLIN Francisco Villa ,ANSA PROCESADORA DE ALIMENTOS S.A de C.V.,Jaguar #3700 B Col. Fidel Velazquez C.P. 31167,CHIHUAHUA,CHIHUAHUA,tortaspiolin.fcovilla@hotmail.com,6142441619,CHIHUAHUA,Roberto Calderon
+TORTAS_PIOLIN_GLANDORF,Tortas Piolin Glandorf,Gastronorte AA S.A. de C.V.,Av. Glandorf #3701 Parques San Felipe C.P. 31203,Chihuahua,Chihuahua,suc.tecnologico@tortaspiolines.com,6144144551,CHIHUAHUA,Kathia Garcia
+PIOLIN_JUV,Tortas Piolin Juventud (Cordilleras),Ana Veronica Flores Nava,"Periférico de la Juventud 9533, Residencial Universidad",CHIHUAHUA,CHIHUAHUA,tortaspiolin.fcovilla@hotmail.com,6142441619,CHIHUAHUA,
+PIOLIN_QUINTAS_ACEI,TORTAS PIOLIN Quintas,"Procesos Alimenticios LANS, S.A. de C.V.","Calle Monte Albán, Quintas Carolinas I Etapa, Quintas Carolinas, 54589 ",CHIHUAHUA,CHIHUAHUA,tortaspiolines@gmail.com,,CHIHUAHUA,
+PIOLIN_TEC,TORTAS PIOLIN TECNOLOGICO,"Procesos Alimenticios LANS, S.A. de C.V.","Av. Tecnologico 3102, Magisterial Universidad, 31200",CHIHUAHUA,CHIHUAHUA,suc.tecnologico@tortaspiolines.com,6145134484,CHIHUAHUA,Kathia Garcia
+PIOLIN_TEC_ACEI,TORTAS PIOLIN TECNOLOGICO (Aceite),"Procesos Alimenticios LANS, S.A. de C.V.","Av. Tecnologico 3102, Magisterial Universidad, 31200",CHIHUAHUA,CHIHUAHUA,suc.tecnologico@tortaspiolines.com,6145134484,CHIHUAHUA,Kathia Garcia
+PIOLIN_VISTAS_ACEI,TORTAS PIOLIN Vistas ,Gastronorte AA S.A. de C.V.,"Paseos Vistas del Sol 6404, Vista del Sol",CHIHUAHUA,CHIHUAHUA,tortaspiolines@gmail.com,6141099513,CHIHUAHUA,Lucia Saenz
+TORTAS_PIOLINES_ALDAMA,Tortas Piolines Aldama,Procesos Alimenticios Lans S.A. de C.V.,C. Juan Aldama #12-B Zona Centro C.P. 31000,Chihuahua,Chihuahua,suc.tecnologico@tortaspiolines.com,6145134484,CHIHUAHUA,Kathia Garcia
+TOST_CHIH,Tostadas de Chihuahua,Tostadas de Chihuahua S.A. de C.V.,Blvd. Juan Pablo II # 7107   Col. Aeropuerto,CHIHUAHUA,CHIHUAHUA,,,CHIHUAHUA,
+TRANS_VITA_SEPTIC,Transportes Vita (Residuos Sépticos),Transportes Industriales Vita S.A. de C.V.,"Calle Barton #10802, Colonia Los Nogales, C.P. 31380",CHIHUAHUA,CHIHUAHUA,carlos.ruiz@transportesvita.com,6144208300 ext 111,CHIHUAHUA,Carlos Ruiz
+Trebly_y_Zum_Zum,Trebly y Zum Zum (plaza galerias),"COSLO, S.A. DE C.V",Av. Juan Escutia Num. 2908 Zona Industrial Nombre de dios c.p. 31110 chihuahua.chihua.,CHIHUAHUA,CHIHUAHUA,administración@plazagalerias.mx,,CHIHUAHUA,
+TRINKER_BAR,Trinken Bar,Manuel Venzor Flores,"Calle 3a. Norte #401, Altos Local 7",DELICIAS,CHIHUAHUA,lalotrejo2511@gmail.com,,CHIHUAHUA,
+VAFI_,VAFI,Grupo Valencia Fierro S.A. de C.V.,Periferico de la Juventud #8319 loc 1,Chihuahua,Chihuahua,gabriela_garcia@vafi.com,6144302257,CHIHUAHUA,Gabriela Garcia
+VILLARREAL,Villarreal,Operadora Gastronomica D Villarreal S.A. de C.V.,"Plaza Haciendas, Periférico de La Juventud 6501, Int. 15, Plaza Haciendas",CHIHUAHUA,CHIHUAHUA,contabilidad@villarrealeventos.com.mx,,CHIHUAHUA,Edgar Nuñez
+VIPS,Vips chihuahua ,"OPERADORA VIPS, S. DE R.L. DE C.V.","Perif. de la Juventud 2200, Haciendas del valle, 31238",CHIHUAHUA,CHIHUAHUA,,,CHIHUAHUA,
+VIPS_EJERCITO,VIPS Ejercito,Operadora VIPS S. de R.L. de C.V.,"Av. ejercito Nacional # 7051, Partido Iglesias, C.P. 32536",Juarez,Chihuahua,vips81190@vips.com.mx,656 570 88 70,JUAREZ,Marco Antonio Sanchez
+VISA,Visa del Norte,Chihuahua Meat Visa Quality S.A. de C.V., Octavio Paz No. 149 Complejo Industrial Chihuahua C.P. 31109,CHIHUAHUA,CHIHUAHUA,smartinez@visadelnorte.com; oyukia21@gmail.com,,CHIHUAHUA,
+VTC,VTC West,VTC WEST S.A. DE C.V.,AV. Homero # 3307  Complejo Industrial Chihuahua,CHIHUAHUA,CHIHUAHUA,roberto_delgado@vatransformer.com,,CHIHUAHUA,
+WAL_DELIC,WALMART DELICIAS ,Nueva Walmart de Mexico S. de R.L. de C.V.,Ave. Tecnologico #2 col Nueva terrasas ,DELICIAS,CHIHUAHUA,abdiasriossolano@gmail.com ,,CHIHUAHUA,
+WAL_NOGALES,Walmart Nogales,Nueva Walmart de Mexico S. de R.L. de C.V.,"Blvd. El Greco 47, Lote Baldío, 84066 Nogales, Son.",Nogales,Sonora,luis.quihui@walmart.com,,Selecciona Sucursal,
+WM_2089,WALMART PLAZA MONUMENTAL,Nueva Walmart de Mexico S. de R.L. de C.V.,"Nextengo 78 Santa Cruz Acayucan, Azcapotzalco, C.P. 02770",JUAREZ,CHIHUAHUA,,,CHIHUAHUA,
+WM_5764,WALMART TORRES DEL SUR,Nueva Walmart de Mexico S. de R.L. de C.V.,"Nextengo 78 Santa Cruz Acayucan, Azcapotzalco, C.P. 02770",JUAREZ,CHIHUAHUA,,,CHIHUAHUA,
+WM_2049,WALMART ZARAGOZA ,Nueva Walmart de Mexico S. de R.L. de C.V.,"Nextengo 78 Santa Cruz Acayucan, Azcapotzalco, C.P. 02770",JUAREZ,CHIHUAHUA,,,CHIHUAHUA,
+WILD_ROOS,Wild Rooster CHIHUAHUA,GASTRONOMICA PASO DEL NORTE S.A. DE C.V.,"Circuito Universitario 15508, Cafetales, 31109",CHIHUAHUA,CHIHUAHUA,wrchihuahua1@grupobeh.com,6144938687,CHIHUAHUA,Fernando Castillo
+Wings_Aeropuerto,Wings Aeropuerto,Fly By Wings S.A. de C.V.,Blvd. Juan Pablo II 14  C.P. 31390,Chihuahua,Chihuahua,chihuahua@wings.com.mx,6144200990,,
+WINGS_DADDY_MISIONES,Wings Daddy Misiones,Consorcio Gallo de Mexico S de R.L. de C.V.,"Blvd. Teófilo Borunda, Bosques del Sol, C.P. 32618",Juarez,Chihuahua,kmena@peterpiperpizza.com.mx y rdelatorre@peterpiperpizza.com.mx,656 648 9464,JUAREZ,
+WINGS_DADDY_MONUMENTAL,Wings Daddy Monumental,Consorcio Gallo de Mexico S. de R.L. de C.V.,"Av. Paseo Triunfo de la República # 4630, Monumental, C.P.32340",Juarez,Chihuahua,kmena@peterpiperpizza.com.mx y rdelatorre@peterpiperpizza.com.mx,656 611 5490,JUAREZ,
+XOMOX,Xomox,Xomox Chihuahua S.A. de C.V.,Juan Ruiz de Alarcon No. 313   Complejo Industrial Chihuahua   C.P.:  31109,CHIHUAHUA,CHIHUAHUA,CDelgado@CraneCPE.com,,CHIHUAHUA,
+ZODIAC_COMEDOR_1,Zodiac 1,Safran Aerosystems México S. de R.L. de C.V.     P1,Av. Ishikawa #1200. Parque Industrial Supra,CHIHUAHUA,CHIHUAHUA,alberto.rodallegas@safrangroup.com; floriselamoreno@gmail.com,,CHIHUAHUA,
+ZODIAC_COMEDOR_2,Zodiac 2,Safran Aerosystems México S. de R.L. de C.V.     P2,Av. Ishikawa #1001. Parque Industrial Supra.,CHIHUAHUA,CHIHUAHUA,alberto.rodallegas@safrangroup.com; floriselamoreno@gmail.com,,CHIHUAHUA,
+ZODIAC_COMEDOR_3,Zodiac 3,Safran Aerosystems México S. de R.L. de C.V.     P3,Av. Ishikawa #1000. Parque Industrial Supra.,CHIHUAHUA,CHIHUAHUA,alberto.rodallegas@safrangroup.com; floriselamoreno@gmail.com,,CHIHUAHUA,
+ZODIAC_COMEDOR_4,Zodiac 4,Safran Aerosystems México S. de R.L. de C.V.     P4,Av. Taguchi #18702 Parque industrial Supra,Chihuahua,Chihuahua,alberto.rodallegas@safrangroup.com; floriselamoreno@gmail.com,,CHIHUAHUA,
+ZODIAC_COMEDOR_5,Zodiac 5,Safran Aerosystems México S. de R.L. de C.V.     P5,Av. Ishikawa #1201. Parque Industrial Supra. ,CHIHUAHUA,CHIHUAHUA,alberto.rodallegas@safrangroup.com; floriselamoreno@gmail.com,,CHIHUAHUA,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
