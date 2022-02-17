@@ -28,11 +28,13 @@ class ImportClientsToDB
                     // TELEFONO 7
                     // SUCURSAL 8
                     // CONTACTO 9
-                    $phone = serialize([$data[7]]);
+                    $phone = \addslashes(serialize([$data[7]]));
+                    
                     $sql = "INSERT INTO `client`(`name`, `contact_phone`, `contact_email`, `rfc`, `direccion`, `ciudad`, `estado`, `responsible`) 
-                            VALUES ($data[0] \($data[1]\), $phone, $data[6], $data[2], $data[3], $data[4], $data[5], $data[9])";
+                            VALUES (\"$data[0] ($data[1])\", \"$phone\", \"$data[6]\", \"$data[2]\", \"$data[3]\", \"$data[4]\", \"$data[5]\", \"$data[9]\")";
 
                     echo $sql;
+                    echo PHP_EOL;
                 }
             }
             fclose($handle);
