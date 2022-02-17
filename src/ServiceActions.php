@@ -232,6 +232,10 @@ class Service extends BaseAction
         $this->writteTemplate($final_transformed_model, '/templates/template.xlsx');
         $pdfPath = $this->toPdf($service_id);
         $this->sendPdf($unionModel['client'], "https://" . $_SERVER['SERVER_NAME'] .'/services_pdf/' . $service_id .'.pdf');
+
+         //update consecutive
+         $consecutiveInc = intval($unionModel['consecutive']) + 1;
+         $this->mysqli->query(sprintf("UPDATE folio SET folio = %d WHERE site_id = %d", $consecutiveInc, intval($unionModel['user']['site_id'])) );
         return;
     }
 
@@ -291,9 +295,6 @@ class Service extends BaseAction
 
         //update consecutive
         $consecutiveInc = intval($unionModel['consecutive']) + 1;
-        echo var_dump($consecutiveInc);
-        echo var_dump(sprintf("UPDATE folio SET folio = %d WHERE site_id = %d", $consecutiveInc, intval($unionModel['user']['site_id'])));
-        
         $this->mysqli->query(sprintf("UPDATE folio SET folio = %d WHERE site_id = %d", $consecutiveInc, intval($unionModel['user']['site_id'])) );
 
         return;
