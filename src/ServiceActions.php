@@ -31,6 +31,7 @@ class Service extends BaseAction
         foreach($data as $key => $value) {
             $cell = TemplateCellPosition::get($key);
             if(\in_array($key, ['operator_sign', 'receiver_sign'])) { # insert as image
+                
                 $writter->writteCellImage($cell, $value);
             } else { # Insert as string
                 $writter->writteCell($cell, $value);

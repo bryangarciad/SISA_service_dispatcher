@@ -5,6 +5,7 @@ namespace SISA\helpers;
 //include the file that loads the PhpSpreadsheet classes
 require __DIR__ . '/../../vendor/autoload.php';
 
+use Exception;
 use PhpOffice\PhpSpreadsheet\Spreadsheet;
 use PhpOffice\PhpSpreadsheet\Writer\Xlsx;
 use PhpOffice\PhpSpreadsheet\IOFactory;
@@ -29,20 +30,23 @@ class TemplateWritter {
     public function writteCellImage(string $cell, $path) 
     {
 
-        $path = __DIR__ . '/..' .'/..' .'/images/uploads/' . \basename($path);
-        echo var_dump($path);
-        $drawing = new \PhpOffice\PhpSpreadsheet\Worksheet\Drawing();
-        $drawing->setName('sign');
-        $drawing->setDescription('sign');
-        $drawing->setPath($path); // put your path and image here
-        $drawing->setCoordinates($cell);
-        $drawing->setOffsetX(10);
-        $drawing->setOffsetY(0);
-        $drawing->setWidth(100);
-        // $drawing->setRotation(25);
-        $drawing->getShadow()->setVisible(true);
-        // $drawing->getShadow()->setDirection(45);
-        $drawing->setWorksheet($this->spreadsheet->getActiveSheet());
+        try {
+            $path = __DIR__ . '/..' .'/..' .'/images/uploads/' . \basename($path);
+            $drawing = new \PhpOffice\PhpSpreadsheet\Worksheet\Drawing();
+            $drawing->setName('sign');
+            $drawing->setDescription('sign');
+            $drawing->setPath($path); // put your path and image here
+            $drawing->setCoordinates($cell);
+            $drawing->setOffsetX(10);
+            $drawing->setOffsetY(0);
+            $drawing->setWidth(100);
+            // $drawing->setRotation(25);
+            $drawing->getShadow()->setVisible(true);
+            // $drawing->getShadow()->setDirection(45);
+            $drawing->setWorksheet($this->spreadsheet->getActiveSheet());
+        } catch (Exception $e) {
+            error_log($e);
+        }
 
     }
 
