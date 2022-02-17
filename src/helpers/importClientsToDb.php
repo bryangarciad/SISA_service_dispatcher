@@ -29,7 +29,9 @@ class ImportClientsToDB
                     // SUCURSAL 8
                     // CONTACTO 9
                     $phone = \addslashes(serialize([$data[7]]));
-                    $email = \addslashes(serialize(explode(';', $data[6])));
+                    $pattern = '/[a-z0-9_\-\+\.]+@[a-z0-9\-]+\.([a-z]{2,4})(?:\.[a-z]{2})?/i';
+                    preg_match_all($pattern, $data[6], $matches);
+                    $email = \addslashes(serialize($matches[0]));
                     
                     $sql = "INSERT INTO `client`(`name`, `contact_phone`, `contact_email`, `rfc`, `direccion`, `ciudad`, `estado`, `responsible`) 
                             VALUES (\"$data[0] ($data[1])\", \"$phone\", \"$email\", \"$data[2]\", \"$data[3]\", \"$data[4]\", \"$data[5]\", \"$data[9]\")";
