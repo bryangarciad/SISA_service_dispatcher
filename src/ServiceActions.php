@@ -3,6 +3,8 @@
 namespace SISA\actions;
 
 # Namespaces
+
+use Exception;
 use SISA\abs\BaseAction;
 use SISA\helpers\response;
 use SISA\helpers\TemplateWritter;
@@ -29,8 +31,7 @@ class Service extends BaseAction
         foreach($data as $key => $value) {
             $cell = TemplateCellPosition::get($key);
             if(\in_array($key, ['operator_sign', 'receiver_sign'])) { # insert as image
-                $imagepath = \dirname(\dirname(__FILE__)) .$value;
-                $writter->writteCellImage($cell, $imagepath);
+                $writter->writteCellImage($cell, $value);
             } else { # Insert as string
                 $writter->writteCell($cell, $value);
             }
