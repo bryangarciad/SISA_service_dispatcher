@@ -31,7 +31,7 @@ class Service extends BaseAction
         foreach($data as $key => $value) {
             $cell = TemplateCellPosition::get($key);
             if(\in_array($key, ['operator_sign', 'receiver_sign'])) { # insert as image
-                
+
                 $writter->writteCellImage($cell, $value);
             } else { # Insert as string
                 $writter->writteCell($cell, $value);
@@ -291,6 +291,9 @@ class Service extends BaseAction
 
         //update consecutive
         $consecutiveInc = intval($unionModel['consecutive']) + 1;
+        echo var_dump($consecutiveInc);
+        echo var_dump(sprintf("UPDATE folio SET folio = %d WHERE site_id = %d", $consecutiveInc, intval($unionModel['user']['site_id'])));
+        
         $this->mysqli->query(sprintf("UPDATE folio SET folio = %d WHERE site_id = %d", $consecutiveInc, intval($unionModel['user']['site_id'])) );
 
         return;
