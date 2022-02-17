@@ -129,7 +129,6 @@ class Service extends BaseAction
     public function read($page = null)
     {
         $sql_query = $this->localRead();
-        echo var_dump($sql_query);
 
         $results = $this->mysqli->query($sql_query);
         $rows = $results->fetch_all(MYSQLI_ASSOC);
