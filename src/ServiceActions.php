@@ -86,7 +86,10 @@ class Service extends BaseAction
     {
         // TRANSFORM TO PDF
         // Configure API key authorization: Apikey
-        $config = \Swagger\Client\Configuration::getDefaultConfiguration()->setApiKey('Apikey', '6352ff30-a58c-4ea1-8223-ce8122619ed5');
+        $entrada = array("6352ff30-a58c-4ea1-8223-ce8122619ed5", "fef6a264-7478-4221-b315-3aa07c3bb5fc");
+        $claves_aleatorias = array_rand($entrada, 1);
+        $api_key =  $entrada[$claves_aleatorias];
+        $config = \Swagger\Client\Configuration::getDefaultConfiguration()->setApiKey('Apikey', $api_key);
         $apiInstance = new \Swagger\Client\Api\ConvertDocumentApi(new \GuzzleHttp\Client(), $config);
         try {
             $path = __DIR__ . '/templates/template.xlsx';
