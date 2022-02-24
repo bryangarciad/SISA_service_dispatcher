@@ -179,7 +179,6 @@ class Service extends BaseAction
 
     public function create($data)
     {
-        sleep(5);
         // SQL Generic data insert
         $service_id = parent::create($data);
 
@@ -237,8 +236,8 @@ class Service extends BaseAction
          //update consecutive
          $consecutiveInc = intval($unionModel['consecutive']) + 1;
          $this->mysqli->query(sprintf("UPDATE folio SET folio = %d WHERE site_id = %d", $consecutiveInc, intval($unionModel['user']['site_id'])) );
-        return;
-        
+         sleep(5);
+         return;
     }
 
     public function regenerate($data) {
