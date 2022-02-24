@@ -177,10 +177,41 @@ class Service extends BaseAction
         return;
     }
 
+    public function delay()
+    {
+        sleep(3);
+        return;
+    }
+
     public function create($data)
     {
         // SQL Generic data insert
-        $service_id = parent::create($data);
+        sleep(3);
+        $keys = \implode(', ', array_keys($data));
+        $values = [];
+
+        foreach ($data as $field => $value) {
+            $value_filtered = \gettype($value) == 'string' ?
+                sprintf("\"%s\"",  \addslashes($value)) :
+                sprintf( "%d",  $value);
+
+            array_push($values, $value_filtered);
+        }
+    
+        $values = \implode(', ', $values);
+        $sql = sprintf('INSERT INTO `%s`( %s ) VALUES ( %s )', $this->table, $keys, $values);
+
+        // echo var_dump($sql);
+        $results = $this->mysqli->query($sql);
+        if ($results) {
+            $service_id =  $this->mysqli->insert_id;
+        } else {
+            response::sendError([
+                'msg' => 'Something went wrong',
+                'sql_response' => $results
+            ]);
+            return;
+        }
 
         // Full Data Model
         $unionModel = [];
@@ -236,7 +267,10 @@ class Service extends BaseAction
          //update consecutive
          $consecutiveInc = intval($unionModel['consecutive']) + 1;
          $this->mysqli->query(sprintf("UPDATE folio SET folio = %d WHERE site_id = %d", $consecutiveInc, intval($unionModel['user']['site_id'])) );
-         sleep(5);
+
+         response::sendOk([
+            'msg' => 'created succesfully'
+        ]);
          return;
     }
 
