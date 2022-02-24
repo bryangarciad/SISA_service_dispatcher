@@ -241,63 +241,10 @@ class Service extends BaseAction
     }
 
     public function regenerate($data) {
-        
         $service_id = $data['service_id'];
         // Full Data Model
-        $unionModel = [];
-        $unionModel['service']['amount'] = $data['amount'];
-        $unionModel['service']['edmit_date'] = $data['emit_date'];
-        $unionModel['user'] = $this->getRow(\sprintf('SELECT  * FROM user WHERE id = %d', $data['user_id']));
         $unionModel['client'] = $this->getRow(\sprintf('SELECT  * FROM client WHERE id = %d', $data['client_id']));
-        $unionModel['service_type'] = $this->getRow(\sprintf('SELECT  * FROM service_type WHERE id = %d', $data['service_type_id']));
-        $unionModel['operator'] = $this->getRow(\sprintf('SELECT O.name, O.sign FROM operator_service_type AS OST 
-            INNER JOIN operator AS O 
-            ON O.id = OST.operator_id 
-            WHERE OST.service_type_id = %d ORDER BY OST.id DESC LIMIT 1' , $data['service_type_id']));
-        $unionModel['registration_ids']  = $this->getRow('SELECT name, key FROM registration_ids');
-        $unionModel['transport']  = $this->getRow(\sprintf('SELECT handler_name, handler_rfc, handler_addres, handler_city, handler_county
-            FROM service_type_handler 
-            WHERE service_type_id = %d ORDER BY id DESC LIMIT 1', $data['service_type_id']));
-
-        $unionModel['service_receiver'] = $this->getRow(\sprintf('SELECT receiver_name, receiver_address, manager, `sign`
-        FROM service_receiver 
-        WHERE service_id = %d ORDER BY id DESC LIMIT 1', $data['service_type_id']));
-        $unionModel['consecutive'] = intval(($this->getRow(\sprintf('SELECT folio FROM folio WHERE site_id = %d', intval($unionModel['user']['site_id']))))['folio']);
-        $unionModel['site_prefix'] = ($this->getRow(\sprintf('SELECT prefix FROM site WHERE id = %d',  intval($unionModel['user']['site_id']))))['prefix'];
-
-        //CREATE MODEL
-        $final_transformed_model = [
-            'folio' => $unionModel['site_prefix'] . $unionModel['consecutive'],
-            'client_name' => $unionModel['client']['name'],
-            'service_type_name' => $unionModel['service_type']['name'],
-            'day' => strtolower(date("d",strtotime(date('d-m-Y')))),
-            'month' => strtolower(date("m",strtotime(date('d-m-Y')))),
-            'year' => strtolower(date("Y",strtotime(date('d-m-Y')))),
-            'client_addres' => $unionModel['client']['direccion'],
-            'client_county' => $unionModel['client']['estado'],
-            'client_responsible' => $unionModel['client']['responsible'],
-            'client_city' => $unionModel['client']['ciudad'],
-            'amount' => $unionModel['service']['amount'] .' ' .$unionModel['service_type']['uom'],
-            'transport_rfc' => 'RFC: ' .$unionModel['transport']['handler_rfc'],
-            'transport_name' => $unionModel['transport']['handler_name'],
-            'transport_addres' => $unionModel['transport']['handler_addres'],
-            'transport_city_county' => $unionModel['transport']['handler_city'] .', ' .$unionModel['transport']['handler_county'],
-            'operator_name' => $unionModel['operator']['name'],
-            'operator_sign' => $unionModel['operator']['sign'],
-            'receiver_name' => $unionModel['service_receiver']['receiver_name'],
-            'receiver_manager' => $unionModel['service_receiver']['manager'],
-            'receiver_sign' => $unionModel['service_receiver']['sign'], #IMAGE
-        ];
-
-        $this->writeRegistrations('/templates/template.xlsx');
-        $this->writteTemplate($final_transformed_model, '/templates/template.xlsx');
-        $pdfPath = $this->toPdf($service_id);
         $this->sendPdf($unionModel['client'], "https://" . $_SERVER['SERVER_NAME'] .'/services_pdf/' . $service_id .'.pdf');
-
-        //update consecutive
-        $consecutiveInc = intval($unionModel['consecutive']) + 1;
-        $this->mysqli->query(sprintf("UPDATE folio SET folio = %d WHERE site_id = %d", $consecutiveInc, intval($unionModel['user']['site_id'])) );
-
         return;
     }
 
