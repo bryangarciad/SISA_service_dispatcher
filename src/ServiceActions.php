@@ -237,6 +237,7 @@ class Service extends BaseAction
          $consecutiveInc = intval($unionModel['consecutive']) + 1;
          $this->mysqli->query(sprintf("UPDATE folio SET folio = %d WHERE site_id = %d", $consecutiveInc, intval($unionModel['user']['site_id'])) );
         return;
+        
     }
 
     public function regenerate($data) {
