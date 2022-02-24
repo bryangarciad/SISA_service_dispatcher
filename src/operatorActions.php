@@ -19,7 +19,20 @@ class Operator extends BaseAction
     public function setServiceType($data)
     {
         $this->table = "operator_service_type";
-        parent::create($data);
+        $inserted_id = parent::create($data);
+        $sql = sprintf("DELETE FROM operator_service_type WHERE service_type_id = %d AND id <> %d", $data['service_type_id'], $inserted_id);
+        $results = $this->mysqli->query($sql);
+        if ($results) {
+            response::sendOk([
+                'msg' => 'created succesfully',
+                'sql_response' => $results
+            ]);
+        } else {
+            response::sendError([
+                'msg' => 'Something went wrong',
+                'sql_response' => $results
+            ]);
+        }
     }
 
     public function getAssignedServiceTypes ($data) 
