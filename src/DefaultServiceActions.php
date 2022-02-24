@@ -37,6 +37,24 @@ class DefaultService extends BaseAction
         response::sendOk($rows);
     }
 
+    public function create ( $data ) 
+    {
+        $inserted_id = parent::create($data);
+        $sql = sprintf("DELETE FROM default_service WHERE client_id = %d AND id <> %d", $data['client_id'], $inserted_id);
+        $results = $this->mysqli->query($sql);
+        if ($results) {
+            response::sendOk([
+                'msg' => 'created succesfully',
+                'sql_response' => $results
+            ]);
+        } else {
+            response::sendError([
+                'msg' => 'Something went wrong',
+                'sql_response' => $results
+            ]);
+        }
+    }
+
 
 
 }

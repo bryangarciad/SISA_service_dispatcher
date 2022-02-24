@@ -74,8 +74,8 @@ class Service extends BaseAction
         'Reply-To: becks@example.com' . " " .
         'X-Mailer: PHP/' . phpversion();
 
-        $body = sprintf('Saludos Coordiales estimado cliente, encuentre anexa la siguiente emision por los servicios realizados recientemente %s', $pdfPath);
-
+        $body = sprintf('Saludos Coordiales estimado cliente, encuentrora anexa la una emision por los servicios realizados recientemente en la siguiente liga: %s', $pdfPath);
+        $emails = implode(',', unserialize($client['contact_email']));
 
         mail('bryan.garcia.duran@gmail.com', 'Emision', $body , $headers);
     } 
