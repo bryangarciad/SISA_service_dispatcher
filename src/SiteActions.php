@@ -35,7 +35,7 @@ class Site extends BaseAction
 
         # Create New Folio within site
         $site_id = $this->mysqli->insert_id;
-        $sql = sprintf("INSERT INTO folio(\"folio\", \"site_id\") VALUES (0, %d)", $site_id);
+        $sql = sprintf("INSERT INTO folio(folio, site_id) VALUES (0, %d)", $site_id);
         $this->mysqli->query($sql);
         if ($results) {
             response::sendOk([
