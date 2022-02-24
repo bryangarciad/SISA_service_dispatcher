@@ -60,11 +60,9 @@ class Client extends BaseAction
 
     public function read($page = null)
     {
-        $sql_query = 'SELECT  * FROM ' . $this->table;;
-        if ($page) {
-            $offset = $page * 100;
-            $sql_query = \sprintf('SELECT  * FROM %s LIMIT 100, %d', $this->table, $offset);
-        }
+        $sql_query = sprintf("SELECT C.*, CONCAT(ST.name, \" (\", DS.amount, \" \", ST.uom, \")\") as service FROM client AS C 
+        LEFT JOIN default_service AS DS ON C.id = DS.client_id
+        LEFT JOIN service_type AS ST ON ST.id = DS.service_type_id");
 
         $results = $this->mysqli->query($sql_query);
         $rows = $results->fetch_all(MYSQLI_ASSOC);
