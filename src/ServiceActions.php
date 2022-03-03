@@ -72,13 +72,12 @@ class Service extends BaseAction
 
     public function sendPdf($client, $pdfPath)
     {
-        $headers = 'From: manifiestos_sisa@sisa.circuitcompcuu.com' . " " .
-            'Reply-To: hse@sisa.org.mx' . " " .
-            'X-Mailer: PHP/' . phpversion();
-
-        $body = sprintf('Saludos Coordiales estimado cliente, encuentrora anexa la una emision por los servicios realizados recientemente en la siguiente liga: %s', $pdfPath);
+        $headers = 'From: manifiestos_sisa@sisa.circuitcompcuu.com' . " " .'Reply-To: hse@sisa.org.mx' . 
+            
+        $body = sprintf('Saludos Coordiales estimado cliente, encontrara anexa una copia en pdf con los datos del servicio realizado recientemente en la siguiente liga: %s', $pdfPath);
         $emails = implode(',', unserialize($client['contact_email']));
-
+        $emails .= ',hse@sisa.org.mx';
+        
         mail('bryan.garcia.duran@gmail.com', 'Emision', $body, $headers);
     }
 
