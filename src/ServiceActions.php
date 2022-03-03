@@ -72,8 +72,8 @@ class Service extends BaseAction
 
     public function sendPdf($client, $pdfPath)
     {
-        $headers = 'From: circuitc@circuitcompcuu.com' . " " .
-            'Reply-To: becks@example.com' . " " .
+        $headers = 'From: manifiestos_sisa@sisa.circuitcompcuu.com' . " " .
+            'Reply-To: hse@sisa.org.mx' . " " .
             'X-Mailer: PHP/' . phpversion();
 
         $body = sprintf('Saludos Coordiales estimado cliente, encuentrora anexa la una emision por los servicios realizados recientemente en la siguiente liga: %s', $pdfPath);
