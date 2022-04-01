@@ -132,7 +132,8 @@ class BaseAction {
         $results = $this->mysqli->query($sql);
 
         response::sendOk([
-            'sql_response' => $results
+            'sql_response' => $results,
+            'sql_query' => $sql
         ]);
     }
 }
