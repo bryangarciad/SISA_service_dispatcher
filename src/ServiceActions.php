@@ -207,7 +207,7 @@ class Service extends BaseAction
         //CREATE MODEL
         $final_transformed_model = [
             'folio' => $unionModel['site_prefix'] . $unionModel['consecutive'],
-            'client_name' => $unionModel['client']['name'],
+            'client_name' => $unionModel['client']['rfc'],
             'service_type_name' => $unionModel['service_type']['name'],
             'day' => strtolower(date("d",strtotime(date('d-m-Y')))),
             'month' => strtolower(date("m",strtotime(date('d-m-Y')))),
