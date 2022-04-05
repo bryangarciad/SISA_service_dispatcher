@@ -50,6 +50,26 @@ class TemplateWritter {
 
     }
 
+    public function writteCellImageFreeSize(string $cell, $path) 
+    {
+
+        try {
+            $path = __DIR__ . '/..' .'/..' .'/images/uploads/' . \basename($path);
+            $drawing = new \PhpOffice\PhpSpreadsheet\Worksheet\Drawing();
+            $drawing->setName('sign');
+            $drawing->setDescription('sign');
+            $drawing->setPath($path); // put your path and image here
+            $drawing->setCoordinates($cell);
+            // $drawing->setRotation(25);
+            $drawing->getShadow()->setVisible(true);
+            // $drawing->getShadow()->setDirection(45);
+            $drawing->setWorksheet($this->spreadsheet->getActiveSheet());
+        } catch (Exception $e) {
+            error_log($e);
+        }
+
+    }
+
     public function save() 
     {
         $writer = new Xlsx($this->spreadsheet);

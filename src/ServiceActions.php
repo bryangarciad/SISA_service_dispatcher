@@ -39,6 +39,10 @@ class Service extends BaseAction
             }
         }
 
+        // insert image headers
+        $writter->writteCellImageFreeSize('A1', 'https://sisa.circuitcompcuu.com/images/uploads/logo.png');
+        $writter->writteCellImageFreeSize('D1', 'https://sisa.circuitcompcuu.com/images/uploads/counterLogo.png');
+
         $writter->save();
     }
 

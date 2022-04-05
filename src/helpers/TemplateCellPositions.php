@@ -26,10 +26,10 @@ class TemplateCellPosition {
             'register_ids_name' => 'A32', #ARRAY
             'register_ids_key_name' => 'H32', #ARRAY
             'operator_name' => 'J39',
-            'operator_sign' => 'I41', #IMAGE
+            'operator_sign' => 'I43', #IMAGE
             'receiver_name' => 'B48',
             'receiver_manager' => 'B50',
-            'receiver_sign' => 'B51', #IMAGE
+            'receiver_sign' => 'B53', #IMAGE
         ];
 
         return $config[$key];
